@@ -1,0 +1,11 @@
+[
+  { "level": "N5", "kanji": "水", "meaning": "Water", "ex": [["水", "mizu", "water"], ["水曜日", "suiyoubi", "Wednesday"]] },
+  { "level": "N5", "kanji": "行", "meaning": "To go", "ex": [["行く", "iku", "to go"], ["旅行", "ryokou", "travel"]] },
+  { "level": "N5", "kanji": "日", "meaning": "Sun / Day", "ex": [["日曜日", "nichiyoubi", "Sunday"], ["日本", "nihon", "Japan"]] },
+  { "level": "N4", "kanji": "道", "meaning": "Road", "ex": [["道", "michi", "road"], ["水道", "suidou", "water supply"]] },
+  { "level": "N4", "kanji": "新", "meaning": "New", "ex": [["新しい", "atarashii", "new"], ["新聞", "shinbun", "newspaper"]] },
+  { "level": "N3", "kanji": "政", "meaning": "Politics", "ex": [["政治", "seiji", "politics"], ["政府", "seifu", "government"]] },
+  { "level": "N3", "kanji": "経", "meaning": "Pass through", "ex": [["経済", "keizai", "economy"], ["経験", "keiken", "experience"]] },
+  { "level": "N2", "kanji": "確", "meaning": "Certain", "ex": [["確認", "kakunin", "confirmation"], ["確実", "kakujitsu", "certainty"]] },
+  { "level": "N1", "kanji": "獲", "meaning": "Acquire", "ex": [["獲得", "kakutoku", "acquisition"], ["捕獲", "hokaku", "capture"]] }
+]
