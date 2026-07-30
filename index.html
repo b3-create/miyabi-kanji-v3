@@ -64,6 +64,7 @@
             <div class="flex items-center gap-3 bg-cream-100 p-1.5 rounded-full border border-[#e6e1da]">
                 <button id="toggleFurigana" onclick="toggleSetting('furigana')" class="px-4 py-1.5 text-xs font-semibold rounded-full bg-brand text-white shadow-sm">Furigana</button>
                 <button id="toggleRomaji" onclick="toggleSetting('romaji')" class="px-4 py-1.5 text-xs font-semibold rounded-full bg-brand text-white shadow-sm">Romaji</button>
+                <button id="toggleReadings" onclick="toggleSetting('readings')" class="px-4 py-1.5 text-xs font-semibold rounded-full bg-brand text-white shadow-sm">On/Kun</button>
                 <button id="toggleAutoAudio" onclick="toggleSetting('autoAudio')" class="px-4 py-1.5 text-xs font-semibold rounded-full bg-brand text-white shadow-sm">Auto-Audio</button>
             </div>
         </header>
@@ -97,6 +98,7 @@
                             </div>
                             <div class="text-center flex flex-col items-center">
                                 <span id="cardFrontKanji" class="text-9xl font-bold tracking-tighter text-[#1a1918]">...</span>
+                                <span id="cardFrontReadings" class="mt-1 text-xs font-medium text-[#a59f95] tracking-wide"></span>
                                 <span class="mt-4 text-xs font-semibold uppercase tracking-wider text-[#9a958e]">Tap Card to Reveal Meaning & Context</span>
                             </div>
                             <div class="flex justify-between items-center text-xs font-semibold text-[#a59f95]">
@@ -163,7 +165,7 @@
             search: '',
             isFlipped: false,
             currentIndex: 0,
-            settings: { furigana: true, romaji: true, autoAudio: true },
+            settings: { furigana: true, romaji: true, readings: true, autoAudio: true },
             mastered: JSON.parse(localStorage.getItem('miyabi_mastered') || '{}')
         };
         let filteredDeck = [];
@@ -222,8 +224,8 @@
         }
 
         function renderSettingsButtons() {
-            ['furigana', 'romaji', 'autoAudio'].forEach(key => {
-                const btn = document.getElementById('toggle' + key.charAt(0).toUpperCase() + key.slice(1));
+            ['furigana', 'romaji', 'readings', 'autoAudio'].forEach(key => {
+                const btn = document.getElementById('toggle' + (key === 'readings' ? 'Readings' : key.charAt(0).toUpperCase() + key.slice(1)));
                 btn.className = state.settings[key]
                     ? "px-4 py-1.5 text-xs font-semibold rounded-full bg-brand text-white shadow-sm"
                     : "px-4 py-1.5 text-xs font-semibold rounded-full bg-[#e6e1da]/40 text-[#7a756e]";
@@ -248,12 +250,24 @@
 
             if (!item) {
                 document.getElementById('cardFrontKanji').innerText = "-";
+                document.getElementById('cardFrontReadings').innerText = "";
                 document.getElementById('cardBackMeaning').innerText = "No Kanji Found";
                 document.getElementById('contextList').innerHTML = "";
                 return;
             }
 
             document.getElementById('cardFrontKanji').innerText = item.kanji;
+            const readingsEl = document.getElementById('cardFrontReadings');
+            if (state.settings.readings && (item.onyomi || item.kunyomi)) {
+                const parts = [];
+                if (item.onyomi) parts.push(`On: ${item.onyomi}`);
+                if (item.kunyomi) parts.push(`Kun: ${item.kunyomi}`);
+                readingsEl.innerText = parts.join('   ・   ');
+                readingsEl.style.display = '';
+            } else {
+                readingsEl.innerText = '';
+                readingsEl.style.display = 'none';
+            }
             document.getElementById('cardBackMeaning').innerText = item.meaning;
             document.getElementById('masteryCheckbox').checked = !!state.mastered[item.kanji];
 

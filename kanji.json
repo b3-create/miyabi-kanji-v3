@@ -3,6 +3,8 @@
     "level": "N5",
     "kanji": "一",
     "meaning": "One",
+    "onyomi": "イチ",
+    "kunyomi": "ひと～、ひとつ",
     "ex": [
       [
         "一つ",
@@ -13,6 +15,11 @@
         "一人",
         "hitori",
         "one person"
+      ],
+      [
+        "一番",
+        "ichiban",
+        "first; best; most"
       ]
     ]
   },
@@ -20,6 +27,8 @@
     "level": "N5",
     "kanji": "七",
     "meaning": "Seven",
+    "onyomi": "シチ",
+    "kunyomi": "なな、なな・つ、なの",
     "ex": [
       [
         "七つ",
@@ -30,6 +39,11 @@
         "七日",
         "nanoka",
         "the seventh day of the month"
+      ],
+      [
+        "七月",
+        "shichigatsu",
+        "July"
       ]
     ]
   },
@@ -37,11 +51,23 @@
     "level": "N5",
     "kanji": "万",
     "meaning": "Ten thousand",
+    "onyomi": "マン",
+    "kunyomi": "",
     "ex": [
       [
         "十万",
         "juuman",
         "100,000"
+      ],
+      [
+        "万年筆",
+        "mannenhitsu",
+        "fountain pen"
+      ],
+      [
+        "一万",
+        "ichiman",
+        "ten thousand"
       ]
     ]
   },
@@ -49,6 +75,8 @@
     "level": "N5",
     "kanji": "三",
     "meaning": "Three",
+    "onyomi": "サン",
+    "kunyomi": "みっ・つ、み・つ",
     "ex": [
       [
         "三つ",
@@ -59,6 +87,11 @@
         "三日",
         "mikka",
         "third day of the month"
+      ],
+      [
+        "三月",
+        "sangatsu",
+        "March"
       ]
     ]
   },
@@ -66,6 +99,8 @@
     "level": "N5",
     "kanji": "上",
     "meaning": "Above / Up",
+    "onyomi": "ショウ、ジョウ",
+    "kunyomi": "あ・がる、あ・げる、うえ、うわ～",
     "ex": [
       [
         "上げる",
@@ -76,6 +111,11 @@
         "上手",
         "jouzu",
         "skillful; good at"
+      ],
+      [
+        "上着",
+        "uwagi",
+        "coat; jacket"
       ]
     ]
   },
@@ -83,11 +123,18 @@
     "level": "N5",
     "kanji": "下",
     "meaning": "Below / Descend",
+    "onyomi": "カ、ゲ",
+    "kunyomi": "さ・がる、さ・げる、した、くだ・さる",
     "ex": [
       [
         "地下鉄",
         "chikatetsu",
         "subway"
+      ],
+      [
+        "廊下",
+        "rouka",
+        "corridor; hallway"
       ],
       [
         "靴下",
@@ -100,6 +147,8 @@
     "level": "N5",
     "kanji": "中",
     "meaning": "Middle / Inside",
+    "onyomi": "チュウ",
+    "kunyomi": "うち、なか",
     "ex": [
       [
         "中国",
@@ -110,6 +159,11 @@
         "中",
         "naka",
         "inside"
+      ],
+      [
+        "中学校",
+        "chuugakkou",
+        "middle school"
       ]
     ]
   },
@@ -117,6 +171,8 @@
     "level": "N5",
     "kanji": "九",
     "meaning": "Nine",
+    "onyomi": "キュウ、ク",
+    "kunyomi": "ここの、ここの・つ",
     "ex": [
       [
         "九つ",
@@ -127,6 +183,11 @@
         "九日",
         "kokonoka",
         "the ninth day of the month"
+      ],
+      [
+        "九月",
+        "kugatsu",
+        "September"
       ]
     ]
   },
@@ -134,6 +195,8 @@
     "level": "N5",
     "kanji": "二",
     "meaning": "Two",
+    "onyomi": "ニ",
+    "kunyomi": "ふた・つ",
     "ex": [
       [
         "二つ",
@@ -144,6 +207,11 @@
         "二人",
         "futari",
         "two people"
+      ],
+      [
+        "二日",
+        "futsuka",
+        "second day of the month"
       ]
     ]
   },
@@ -151,6 +219,8 @@
     "level": "N5",
     "kanji": "五",
     "meaning": "Five",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ、いつ・つ",
     "ex": [
       [
         "五つ",
@@ -161,6 +231,11 @@
         "五日",
         "itsuka",
         "the fifth day of the month"
+      ],
+      [
+        "五月",
+        "gogatsu",
+        "May"
       ]
     ]
   },
@@ -168,11 +243,18 @@
     "level": "N5",
     "kanji": "人",
     "meaning": "Person",
+    "onyomi": "ジン、ニン",
+    "kunyomi": "～と、～り、ひと",
     "ex": [
       [
         "一人",
         "hitori",
         "one person"
+      ],
+      [
+        "二人",
+        "futari",
+        "two people"
       ],
       [
         "外国人",
@@ -185,6 +267,8 @@
     "level": "N5",
     "kanji": "今",
     "meaning": "Now",
+    "onyomi": "コン",
+    "kunyomi": "いま",
     "ex": [
       [
         "今年",
@@ -195,6 +279,11 @@
         "今晩",
         "konban",
         "tonight"
+      ],
+      [
+        "今月",
+        "kongetsu",
+        "this month"
       ]
     ]
   },
@@ -202,11 +291,18 @@
     "level": "N5",
     "kanji": "休",
     "meaning": "Rest / Day off",
+    "onyomi": "キュウ",
+    "kunyomi": "やす・む",
     "ex": [
       [
         "休み",
         "yasumi",
         "rest; vacation"
+      ],
+      [
+        "休む",
+        "yasumu",
+        "to rest; to take a day off"
       ],
       [
         "夏休み",
@@ -219,6 +315,8 @@
     "level": "N5",
     "kanji": "会",
     "meaning": "Meet / Association",
+    "onyomi": "カイ",
+    "kunyomi": "あ・う",
     "ex": [
       [
         "会う",
@@ -229,6 +327,11 @@
         "会社",
         "kaisha",
         "company"
+      ],
+      [
+        "会議",
+        "kaigi",
+        "meeting"
       ]
     ]
   },
@@ -236,11 +339,23 @@
     "level": "N5",
     "kanji": "何",
     "meaning": "What",
+    "onyomi": "カ",
+    "kunyomi": "なに、なん",
     "ex": [
       [
         "何の料理",
         "nannoryouri",
         "what kind of food"
+      ],
+      [
+        "何か",
+        "nanika",
+        "something"
+      ],
+      [
+        "何時",
+        "nanji",
+        "what time"
       ]
     ]
   },
@@ -248,6 +363,8 @@
     "level": "N5",
     "kanji": "先",
     "meaning": "Ahead / Previous",
+    "onyomi": "セン",
+    "kunyomi": "さき",
     "ex": [
       [
         "先月",
@@ -257,7 +374,12 @@
       [
         "先生",
         "sensei",
-        "teacher"
+        "teacher; doctor"
+      ],
+      [
+        "先週",
+        "senshuu",
+        "last week"
       ]
     ]
   },
@@ -265,11 +387,18 @@
     "level": "N5",
     "kanji": "入",
     "meaning": "Enter",
+    "onyomi": "ニュウ",
+    "kunyomi": "い・る、い・れる、はい・る",
     "ex": [
       [
         "入れる",
         "ireru",
         "to put in"
+      ],
+      [
+        "入る",
+        "hairu",
+        "to enter; to join"
       ],
       [
         "入口",
@@ -282,6 +411,8 @@
     "level": "N5",
     "kanji": "八",
     "meaning": "Eight",
+    "onyomi": "ハチ",
+    "kunyomi": "や、やっ・つ、や・つ、よう",
     "ex": [
       [
         "八つ",
@@ -291,7 +422,12 @@
       [
         "八日",
         "youka",
-        "eighth day of the month"
+        "the eighth day of the month"
+      ],
+      [
+        "八百屋",
+        "yaoya",
+        "greengrocer"
       ]
     ]
   },
@@ -299,6 +435,8 @@
     "level": "N5",
     "kanji": "六",
     "meaning": "Six",
+    "onyomi": "ロク",
+    "kunyomi": "む、むい、むっ・つ、む・つ",
     "ex": [
       [
         "六つ",
@@ -309,6 +447,11 @@
         "六日",
         "muika",
         "sixth day of the month"
+      ],
+      [
+        "六月",
+        "rokugatsu",
+        "June"
       ]
     ]
   },
@@ -316,11 +459,23 @@
     "level": "N5",
     "kanji": "円",
     "meaning": "Circle / Yen",
+    "onyomi": "エン",
+    "kunyomi": "まる・い",
     "ex": [
       [
         "十円",
         "juuen",
         "10 yen"
+      ],
+      [
+        "百円",
+        "hyakuen",
+        "100 yen"
+      ],
+      [
+        "円い",
+        "marui",
+        "round"
       ]
     ]
   },
@@ -328,16 +483,28 @@
     "level": "N5",
     "kanji": "出",
     "meaning": "Exit / Come out",
+    "onyomi": "シュツ",
+    "kunyomi": "だ・す、で・る",
     "ex": [
       [
         "出す",
         "dasu",
-        "to take out"
+        "to take out; to submit"
+      ],
+      [
+        "出かける",
+        "dekakeru",
+        "to go out"
       ],
       [
         "出口",
         "deguchi",
         "exit"
+      ],
+      [
+        "出来る",
+        "dekiru",
+        "to be able to do"
       ]
     ]
   },
@@ -345,6 +512,8 @@
     "level": "N5",
     "kanji": "分",
     "meaning": "Minute / Understand",
+    "onyomi": "フン、ブン",
+    "kunyomi": "わ・かる、わ・かれる、わ・ける",
     "ex": [
       [
         "分かる",
@@ -355,6 +524,16 @@
         "半分",
         "hanbun",
         "half"
+      ],
+      [
+        "多分",
+        "tabun",
+        "perhaps; probably"
+      ],
+      [
+        "自分",
+        "jibun",
+        "myself; oneself"
       ]
     ]
   },
@@ -362,6 +541,8 @@
     "level": "N5",
     "kanji": "前",
     "meaning": "Before / Front",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ",
     "ex": [
       [
         "午前",
@@ -372,6 +553,11 @@
         "名前",
         "namae",
         "name"
+      ],
+      [
+        "前",
+        "mae",
+        "front; before"
       ]
     ]
   },
@@ -379,11 +565,23 @@
     "level": "N5",
     "kanji": "北",
     "meaning": "North",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
     "ex": [
       [
         "北",
         "kita",
         "north"
+      ],
+      [
+        "北海道",
+        "hokkaidou",
+        "Hokkaido"
+      ],
+      [
+        "東北",
+        "touhoku",
+        "Tohoku (northeast region)"
       ]
     ]
   },
@@ -391,11 +589,23 @@
     "level": "N5",
     "kanji": "十",
     "meaning": "Ten",
+    "onyomi": "ジュウ、ジュッ",
+    "kunyomi": "とお",
     "ex": [
+      [
+        "十個",
+        "jukko",
+        "10 small objects"
+      ],
       [
         "十日",
         "tooka",
         "the tenth day of the month"
+      ],
+      [
+        "十月",
+        "juugatsu",
+        "October"
       ]
     ]
   },
@@ -403,11 +613,23 @@
     "level": "N5",
     "kanji": "千",
     "meaning": "Thousand",
+    "onyomi": "セン",
+    "kunyomi": "",
     "ex": [
       [
         "千",
         "sen",
         "thousand"
+      ],
+      [
+        "三千",
+        "sanzen",
+        "three thousand"
+      ],
+      [
+        "千円",
+        "senen",
+        "1,000 yen"
       ]
     ]
   },
@@ -415,6 +637,8 @@
     "level": "N5",
     "kanji": "午",
     "meaning": "Noon",
+    "onyomi": "ゴ",
+    "kunyomi": "",
     "ex": [
       [
         "午前",
@@ -425,6 +649,11 @@
         "午後",
         "gogo",
         "afternoon; p.m."
+      ],
+      [
+        "正午",
+        "shougo",
+        "noon"
       ]
     ]
   },
@@ -432,11 +661,23 @@
     "level": "N5",
     "kanji": "半",
     "meaning": "Half",
+    "onyomi": "ハン",
+    "kunyomi": "なか・ば",
     "ex": [
       [
         "半分",
         "hanbun",
         "half"
+      ],
+      [
+        "半年",
+        "hantoshi",
+        "half a year"
+      ],
+      [
+        "半日",
+        "hannichi",
+        "half a day"
       ]
     ]
   },
@@ -444,11 +685,23 @@
     "level": "N5",
     "kanji": "南",
     "meaning": "South",
+    "onyomi": "ナン",
+    "kunyomi": "みなみ",
     "ex": [
       [
         "南",
         "minami",
         "south"
+      ],
+      [
+        "南口",
+        "minamiguchi",
+        "south exit"
+      ],
+      [
+        "南極",
+        "nankyoku",
+        "South Pole"
       ]
     ]
   },
@@ -456,11 +709,23 @@
     "level": "N5",
     "kanji": "友",
     "meaning": "Friend",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
     "ex": [
       [
         "友達",
         "tomodachi",
-        "friend"
+        "friend; companion"
+      ],
+      [
+        "友人",
+        "yuujin",
+        "friend (formal)"
+      ],
+      [
+        "親友",
+        "shinyuu",
+        "close friend"
       ]
     ]
   },
@@ -468,6 +733,8 @@
     "level": "N5",
     "kanji": "口",
     "meaning": "Mouth",
+    "onyomi": "ク、コウ",
+    "kunyomi": "くち",
     "ex": [
       [
         "入口",
@@ -478,6 +745,11 @@
         "出口",
         "deguchi",
         "exit"
+      ],
+      [
+        "口",
+        "kuchi",
+        "mouth"
       ]
     ]
   },
@@ -485,11 +757,23 @@
     "level": "N5",
     "kanji": "古",
     "meaning": "Old",
+    "onyomi": "コ",
+    "kunyomi": "ふる・い",
     "ex": [
       [
         "古い",
         "furui",
-        "old (not for people)"
+        "old (not for people); aged"
+      ],
+      [
+        "古本",
+        "furuhon",
+        "used book"
+      ],
+      [
+        "中古",
+        "chuuko",
+        "secondhand"
       ]
     ]
   },
@@ -497,11 +781,23 @@
     "level": "N5",
     "kanji": "右",
     "meaning": "Right",
+    "onyomi": "ウ、ユウ",
+    "kunyomi": "みぎ",
     "ex": [
       [
         "右",
         "migi",
         "right"
+      ],
+      [
+        "右手",
+        "migite",
+        "right hand"
+      ],
+      [
+        "右側",
+        "migigawa",
+        "right side"
       ]
     ]
   },
@@ -509,11 +805,18 @@
     "level": "N5",
     "kanji": "名",
     "meaning": "Name",
+    "onyomi": "ミョウ、メイ",
+    "kunyomi": "な",
     "ex": [
       [
         "名前",
         "namae",
         "name"
+      ],
+      [
+        "平仮名",
+        "hiragana",
+        "hiragana"
       ],
       [
         "有名",
@@ -526,6 +829,8 @@
     "level": "N5",
     "kanji": "四",
     "meaning": "Four",
+    "onyomi": "シ",
+    "kunyomi": "よん、よっ・つ、よ・つ",
     "ex": [
       [
         "四つ",
@@ -536,6 +841,11 @@
         "四日",
         "yokka",
         "fourth day of the month"
+      ],
+      [
+        "四月",
+        "shigatsu",
+        "April"
       ]
     ]
   },
@@ -543,6 +853,8 @@
     "level": "N5",
     "kanji": "国",
     "meaning": "Country",
+    "onyomi": "コク",
+    "kunyomi": "くに",
     "ex": [
       [
         "外国",
@@ -553,6 +865,11 @@
         "外国人",
         "gaikokujin",
         "foreigner"
+      ],
+      [
+        "国語",
+        "kokugo",
+        "national language; Japanese (subject)"
       ]
     ]
   },
@@ -560,11 +877,23 @@
     "level": "N5",
     "kanji": "土",
     "meaning": "Earth / Soil",
+    "onyomi": "ト、ド",
+    "kunyomi": "つち",
     "ex": [
       [
         "土曜日",
         "doyoubi",
         "Saturday"
+      ],
+      [
+        "土地",
+        "tochi",
+        "land"
+      ],
+      [
+        "国土",
+        "kokudo",
+        "national land"
       ]
     ]
   },
@@ -572,11 +901,23 @@
     "level": "N5",
     "kanji": "外",
     "meaning": "Outside",
+    "onyomi": "ガイ",
+    "kunyomi": "そと、はず・す、はず・れる、ほか",
     "ex": [
       [
         "外国",
         "gaikoku",
         "foreign country"
+      ],
+      [
+        "外国人",
+        "gaikokujin",
+        "foreigner"
+      ],
+      [
+        "外",
+        "soto",
+        "outside"
       ]
     ]
   },
@@ -584,11 +925,23 @@
     "level": "N5",
     "kanji": "多",
     "meaning": "Many",
+    "onyomi": "タ",
+    "kunyomi": "おお・い",
     "ex": [
       [
         "多分",
         "tabun",
         "perhaps; probably"
+      ],
+      [
+        "多い",
+        "ooi",
+        "many; much"
+      ],
+      [
+        "多数",
+        "tasuu",
+        "large number"
       ]
     ]
   },
@@ -596,16 +949,28 @@
     "level": "N5",
     "kanji": "大",
     "meaning": "Big",
+    "onyomi": "タイ、ダイ",
+    "kunyomi": "おお・きい",
     "ex": [
-      [
-        "大学",
-        "daigaku",
-        "university"
-      ],
       [
         "大丈夫",
         "daijoubu",
         "alright; OK"
+      ],
+      [
+        "大使館",
+        "taishikan",
+        "embassy"
+      ],
+      [
+        "大切",
+        "taisetsu",
+        "important"
+      ],
+      [
+        "大学",
+        "daigaku",
+        "university"
       ]
     ]
   },
@@ -613,11 +978,23 @@
     "level": "N5",
     "kanji": "天",
     "meaning": "Heavens / Sky",
+    "onyomi": "テン",
+    "kunyomi": "あめ",
     "ex": [
       [
         "天気",
         "tenki",
         "weather"
+      ],
+      [
+        "天ぷら",
+        "tenpura",
+        "tempura"
+      ],
+      [
+        "天国",
+        "tengoku",
+        "heaven; paradise"
       ]
     ]
   },
@@ -625,11 +1002,23 @@
     "level": "N5",
     "kanji": "女",
     "meaning": "Woman",
+    "onyomi": "ジョ",
+    "kunyomi": "おんな",
     "ex": [
       [
         "女の子",
         "onnanoko",
         "girl"
+      ],
+      [
+        "女性",
+        "josei",
+        "woman; female"
+      ],
+      [
+        "女子",
+        "joshi",
+        "girl; female"
       ]
     ]
   },
@@ -637,6 +1026,8 @@
     "level": "N5",
     "kanji": "子",
     "meaning": "Child",
+    "onyomi": "シ、ス",
+    "kunyomi": "こ",
     "ex": [
       [
         "子供",
@@ -647,6 +1038,16 @@
         "女の子",
         "onnanoko",
         "girl"
+      ],
+      [
+        "帽子",
+        "boushi",
+        "hat"
+      ],
+      [
+        "男の子",
+        "otokonoko",
+        "boy"
       ]
     ]
   },
@@ -654,6 +1055,8 @@
     "level": "N5",
     "kanji": "学",
     "meaning": "Study / Learning",
+    "onyomi": "ガク",
+    "kunyomi": "まな・ぶ",
     "ex": [
       [
         "大学",
@@ -664,6 +1067,11 @@
         "学校",
         "gakkou",
         "school"
+      ],
+      [
+        "留学生",
+        "ryuugakusei",
+        "exchange student"
       ]
     ]
   },
@@ -671,11 +1079,23 @@
     "level": "N5",
     "kanji": "安",
     "meaning": "Cheap / Peaceful",
+    "onyomi": "アン",
+    "kunyomi": "やす・い",
     "ex": [
       [
         "安い",
         "yasui",
         "cheap; inexpensive"
+      ],
+      [
+        "安全",
+        "anzen",
+        "safety"
+      ],
+      [
+        "安心",
+        "anshin",
+        "peace of mind"
       ]
     ]
   },
@@ -683,11 +1103,23 @@
     "level": "N5",
     "kanji": "小",
     "meaning": "Small",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい・さい",
     "ex": [
       [
         "小さい",
         "chiisai",
         "small; little"
+      ],
+      [
+        "小さな",
+        "chiisana",
+        "small; little"
+      ],
+      [
+        "小学校",
+        "shougakkou",
+        "elementary school"
       ]
     ]
   },
@@ -695,6 +1127,8 @@
     "level": "N5",
     "kanji": "少",
     "meaning": "Few / Little",
+    "onyomi": "ショウ",
+    "kunyomi": "すく・ない、すこ・し",
     "ex": [
       [
         "少ない",
@@ -705,6 +1139,11 @@
         "少し",
         "sukoshi",
         "a little bit"
+      ],
+      [
+        "少年",
+        "shounen",
+        "boy; young man"
       ]
     ]
   },
@@ -712,6 +1151,8 @@
     "level": "N5",
     "kanji": "山",
     "meaning": "Mountain",
+    "onyomi": "サン",
+    "kunyomi": "やま",
     "ex": [
       [
         "山",
@@ -722,6 +1163,11 @@
         "沢山",
         "takusan",
         "a lot; many"
+      ],
+      [
+        "火山",
+        "kazan",
+        "volcano"
       ]
     ]
   },
@@ -729,11 +1175,23 @@
     "level": "N5",
     "kanji": "川",
     "meaning": "River",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
     "ex": [
       [
         "川",
         "kawa",
         "river"
+      ],
+      [
+        "小川",
+        "ogawa",
+        "stream; brook"
+      ],
+      [
+        "河川",
+        "kasen",
+        "rivers"
       ]
     ]
   },
@@ -741,11 +1199,23 @@
     "level": "N5",
     "kanji": "左",
     "meaning": "Left",
+    "onyomi": "サ、シャ",
+    "kunyomi": "ひだり",
     "ex": [
       [
         "左",
         "hidari",
         "left"
+      ],
+      [
+        "左手",
+        "hidarite",
+        "left hand"
+      ],
+      [
+        "左側",
+        "hidarigawa",
+        "left side"
       ]
     ]
   },
@@ -753,11 +1223,18 @@
     "level": "N5",
     "kanji": "年",
     "meaning": "Year",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
     "ex": [
       [
         "今年",
         "kotoshi",
         "this year"
+      ],
+      [
+        "再来年",
+        "sarainen",
+        "year after next"
       ],
       [
         "毎年",
@@ -770,11 +1247,23 @@
     "level": "N5",
     "kanji": "店",
     "meaning": "Shop / Store",
+    "onyomi": "テン",
+    "kunyomi": "みせ",
     "ex": [
       [
         "喫茶店",
         "kissaten",
         "coffee shop; cafe"
+      ],
+      [
+        "店員",
+        "tenin",
+        "shop clerk"
+      ],
+      [
+        "書店",
+        "shoten",
+        "bookstore"
       ]
     ]
   },
@@ -782,6 +1271,8 @@
     "level": "N5",
     "kanji": "後",
     "meaning": "Back / Later",
+    "onyomi": "コウ、ゴ",
+    "kunyomi": "あと、うし・ろ",
     "ex": [
       [
         "午後",
@@ -792,6 +1283,11 @@
         "後ろ",
         "ushiro",
         "behind; rear"
+      ],
+      [
+        "後で",
+        "atode",
+        "later"
       ]
     ]
   },
@@ -799,11 +1295,23 @@
     "level": "N5",
     "kanji": "手",
     "meaning": "Hand",
+    "onyomi": "シュ、ズ",
+    "kunyomi": "て、た",
     "ex": [
       [
         "上手",
         "jouzu",
         "skillful; good at"
+      ],
+      [
+        "下手",
+        "heta",
+        "unskillful; poor"
+      ],
+      [
+        "切手",
+        "kitte",
+        "stamp (postage)"
       ],
       [
         "手紙",
@@ -816,6 +1324,8 @@
     "level": "N5",
     "kanji": "新",
     "meaning": "New",
+    "onyomi": "シン",
+    "kunyomi": "あたら・しい、あら・た",
     "ex": [
       [
         "新しい",
@@ -826,6 +1336,11 @@
         "新聞",
         "shinbun",
         "newspaper"
+      ],
+      [
+        "新年",
+        "shinnen",
+        "new year"
       ]
     ]
   },
@@ -833,16 +1348,23 @@
     "level": "N5",
     "kanji": "日",
     "meaning": "Sun / Day",
+    "onyomi": "ジツ、ニチ",
+    "kunyomi": "か、び、ひ",
     "ex": [
       [
-        "日曜日",
-        "nichiyoubi",
-        "Sunday"
+        "七日",
+        "nanoka",
+        "the seventh day of the month"
       ],
       [
         "土曜日",
         "doyoubi",
         "Saturday"
+      ],
+      [
+        "日曜日",
+        "nichiyoubi",
+        "Sunday"
       ]
     ]
   },
@@ -850,6 +1372,8 @@
     "level": "N5",
     "kanji": "時",
     "meaning": "Hour / Time",
+    "onyomi": "ジ",
+    "kunyomi": "どき、とき",
     "ex": [
       [
         "時々",
@@ -860,6 +1384,11 @@
         "時間",
         "jikan",
         "time; period of hours"
+      ],
+      [
+        "時計",
+        "tokei",
+        "clock; watch"
       ]
     ]
   },
@@ -867,11 +1396,18 @@
     "level": "N5",
     "kanji": "書",
     "meaning": "Write",
+    "onyomi": "ショ",
+    "kunyomi": "か・く",
     "ex": [
       [
         "図書館",
         "toshokan",
         "library"
+      ],
+      [
+        "葉書",
+        "hagaki",
+        "postcard"
       ],
       [
         "辞書",
@@ -884,11 +1420,23 @@
     "level": "N5",
     "kanji": "月",
     "meaning": "Month / Moon",
+    "onyomi": "ガツ、ゲツ",
+    "kunyomi": "つき",
     "ex": [
+      [
+        "一月",
+        "ichigatsu",
+        "January"
+      ],
       [
         "今月",
         "kongetsu",
         "this month"
+      ],
+      [
+        "先月",
+        "sengetsu",
+        "last month"
       ],
       [
         "月曜日",
@@ -901,11 +1449,23 @@
     "level": "N5",
     "kanji": "木",
     "meaning": "Tree / Wood",
+    "onyomi": "ボク、モク",
+    "kunyomi": "き",
     "ex": [
       [
         "木曜日",
         "mokuyoubi",
         "Thursday"
+      ],
+      [
+        "木材",
+        "mokuzai",
+        "lumber; timber"
+      ],
+      [
+        "植木",
+        "ueki",
+        "garden tree; potted plant"
       ]
     ]
   },
@@ -913,6 +1473,8 @@
     "level": "N5",
     "kanji": "本",
     "meaning": "Book / Origin",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
     "ex": [
       [
         "本当",
@@ -923,6 +1485,11 @@
         "本棚",
         "hondana",
         "bookshelf"
+      ],
+      [
+        "本屋",
+        "honya",
+        "bookstore"
       ]
     ]
   },
@@ -930,16 +1497,23 @@
     "level": "N5",
     "kanji": "来",
     "meaning": "Come / Next",
+    "onyomi": "ライ",
+    "kunyomi": "く・る",
     "ex": [
       [
         "来る",
         "kuru",
-        "to come"
+        "to come; to approach"
       ],
       [
         "来月",
         "raigetsu",
         "next month"
+      ],
+      [
+        "来週",
+        "raishuu",
+        "next week"
       ]
     ]
   },
@@ -947,11 +1521,23 @@
     "level": "N5",
     "kanji": "東",
     "meaning": "East",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
     "ex": [
       [
         "東",
         "higashi",
         "east"
+      ],
+      [
+        "東京",
+        "toukyou",
+        "Tokyo"
+      ],
+      [
+        "東口",
+        "higashiguchi",
+        "east exit"
       ]
     ]
   },
@@ -959,11 +1545,23 @@
     "level": "N5",
     "kanji": "校",
     "meaning": "School",
+    "onyomi": "コウ",
+    "kunyomi": "",
     "ex": [
       [
         "学校",
         "gakkou",
         "school"
+      ],
+      [
+        "校長",
+        "kouchou",
+        "principal"
+      ],
+      [
+        "校庭",
+        "koutei",
+        "schoolyard"
       ]
     ]
   },
@@ -971,11 +1569,23 @@
     "level": "N5",
     "kanji": "母",
     "meaning": "Mother",
+    "onyomi": "ボ",
+    "kunyomi": "はは",
     "ex": [
       [
         "お母さん",
         "okaasan",
         "mother"
+      ],
+      [
+        "母国",
+        "bokoku",
+        "home country"
+      ],
+      [
+        "お母さん",
+        "okaasan",
+        "mother (polite)"
       ]
     ]
   },
@@ -983,16 +1593,23 @@
     "level": "N5",
     "kanji": "毎",
     "meaning": "Every",
+    "onyomi": "マイ",
+    "kunyomi": "",
     "ex": [
+      [
+        "毎年",
+        "maitoshi",
+        "every year"
+      ],
       [
         "毎日",
         "mainichi",
         "every day"
       ],
       [
-        "毎年",
-        "maitoshi",
-        "every year"
+        "毎晩",
+        "maiban",
+        "every night"
       ]
     ]
   },
@@ -1000,6 +1617,8 @@
     "level": "N5",
     "kanji": "気",
     "meaning": "Air / Spirit",
+    "onyomi": "キ、ケ",
+    "kunyomi": "",
     "ex": [
       [
         "元気",
@@ -1010,6 +1629,11 @@
         "天気",
         "tenki",
         "weather"
+      ],
+      [
+        "病気",
+        "byouki",
+        "illness; disease"
       ]
     ]
   },
@@ -1017,6 +1641,8 @@
     "level": "N5",
     "kanji": "水",
     "meaning": "Water",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
     "ex": [
       [
         "水",
@@ -1027,6 +1653,11 @@
         "水曜日",
         "suiyoubi",
         "Wednesday"
+      ],
+      [
+        "水道",
+        "suidou",
+        "water supply"
       ]
     ]
   },
@@ -1034,11 +1665,23 @@
     "level": "N5",
     "kanji": "火",
     "meaning": "Fire",
+    "onyomi": "カ",
+    "kunyomi": "ひ、び",
     "ex": [
       [
         "火曜日",
         "kayoubi",
         "Tuesday"
+      ],
+      [
+        "火事",
+        "kaji",
+        "fire (disaster)"
+      ],
+      [
+        "花火",
+        "hanabi",
+        "fireworks"
       ]
     ]
   },
@@ -1046,11 +1689,23 @@
     "level": "N5",
     "kanji": "父",
     "meaning": "Father",
+    "onyomi": "フ",
+    "kunyomi": "ちち",
     "ex": [
       [
         "お父さん",
         "otousan",
         "father"
+      ],
+      [
+        "父親",
+        "chichioya",
+        "father"
+      ],
+      [
+        "お父さん",
+        "otousan",
+        "father (polite)"
       ]
     ]
   },
@@ -1058,16 +1713,28 @@
     "level": "N5",
     "kanji": "生",
     "meaning": "Life / Birth",
+    "onyomi": "ショウ、セイ",
+    "kunyomi": "うま・れる、う・む、い・きる、なま",
     "ex": [
       [
         "先生",
         "sensei",
-        "teacher"
+        "teacher; doctor"
       ],
       [
         "生まれる",
         "umareru",
         "to be born"
+      ],
+      [
+        "生徒",
+        "seito",
+        "student"
+      ],
+      [
+        "誕生日",
+        "tanjoubi",
+        "birthday"
       ]
     ]
   },
@@ -1075,11 +1742,23 @@
     "level": "N5",
     "kanji": "男",
     "meaning": "Male",
+    "onyomi": "ダン",
+    "kunyomi": "おとこ",
     "ex": [
       [
         "男の子",
         "otokonoko",
         "boy"
+      ],
+      [
+        "男性",
+        "dansei",
+        "man; male"
+      ],
+      [
+        "男子",
+        "danshi",
+        "boy; male"
       ]
     ]
   },
@@ -1087,11 +1766,23 @@
     "level": "N5",
     "kanji": "白",
     "meaning": "White",
+    "onyomi": "ハク",
+    "kunyomi": "しろ・い",
     "ex": [
       [
         "白い",
         "shiroi",
         "white"
+      ],
+      [
+        "面白い",
+        "omoshiroi",
+        "interesting; fascinating"
+      ],
+      [
+        "白紙",
+        "hakushi",
+        "blank paper"
       ]
     ]
   },
@@ -1099,11 +1790,23 @@
     "level": "N5",
     "kanji": "百",
     "meaning": "Hundred",
+    "onyomi": "ヒャク、ビャク",
+    "kunyomi": "",
     "ex": [
       [
         "百",
         "hyaku",
         "100"
+      ],
+      [
+        "百人",
+        "hyakunin",
+        "100 people"
+      ],
+      [
+        "何百",
+        "nanbyaku",
+        "hundreds of"
       ]
     ]
   },
@@ -1111,11 +1814,23 @@
     "level": "N5",
     "kanji": "目",
     "meaning": "Eye",
+    "onyomi": "モク",
+    "kunyomi": "め",
     "ex": [
       [
         "目",
         "me",
         "eye"
+      ],
+      [
+        "目的",
+        "mokuteki",
+        "purpose; goal"
+      ],
+      [
+        "目玉",
+        "medama",
+        "eyeball"
       ]
     ]
   },
@@ -1123,11 +1838,23 @@
     "level": "N5",
     "kanji": "社",
     "meaning": "Company / Shrine",
+    "onyomi": "シャ",
+    "kunyomi": "やしろ",
     "ex": [
       [
         "会社",
         "kaisha",
         "company"
+      ],
+      [
+        "社長",
+        "shachou",
+        "company president"
+      ],
+      [
+        "神社",
+        "jinja",
+        "shrine"
       ]
     ]
   },
@@ -1135,11 +1862,23 @@
     "level": "N5",
     "kanji": "空",
     "meaning": "Empty / Sky",
+    "onyomi": "クウ",
+    "kunyomi": "そら、あ・く、あ・ける",
     "ex": [
       [
         "空",
         "sora",
         "sky"
+      ],
+      [
+        "空港",
+        "kuukou",
+        "airport"
+      ],
+      [
+        "空気",
+        "kuuki",
+        "air"
       ]
     ]
   },
@@ -1147,11 +1886,23 @@
     "level": "N5",
     "kanji": "立",
     "meaning": "Stand",
+    "onyomi": "リツ",
+    "kunyomi": "た・つ、た・てる",
     "ex": [
       [
         "立つ",
         "tatsu",
         "to stand; to rise"
+      ],
+      [
+        "立派",
+        "rippa",
+        "splendid; fine"
+      ],
+      [
+        "立場",
+        "tachiba",
+        "standpoint"
       ]
     ]
   },
@@ -1159,11 +1910,23 @@
     "level": "N5",
     "kanji": "耳",
     "meaning": "Ear",
+    "onyomi": "ジ",
+    "kunyomi": "みみ",
     "ex": [
       [
         "耳",
         "mimi",
         "ear"
+      ],
+      [
+        "耳が痛い",
+        "mimigaitai",
+        "(one's) ear hurts"
+      ],
+      [
+        "耳鼻科",
+        "jibika",
+        "ENT clinic"
       ]
     ]
   },
@@ -1171,6 +1934,8 @@
     "level": "N5",
     "kanji": "聞",
     "meaning": "Hear / Ask",
+    "onyomi": "ブン",
+    "kunyomi": "き・く",
     "ex": [
       [
         "聞く",
@@ -1181,6 +1946,11 @@
         "新聞",
         "shinbun",
         "newspaper"
+      ],
+      [
+        "聞こえる",
+        "kikoeru",
+        "to be audible"
       ]
     ]
   },
@@ -1188,11 +1958,23 @@
     "level": "N5",
     "kanji": "花",
     "meaning": "Flower",
+    "onyomi": "カ",
+    "kunyomi": "はな",
     "ex": [
       [
         "花瓶",
         "kabin",
         "flower vase"
+      ],
+      [
+        "花見",
+        "hanami",
+        "flower viewing"
+      ],
+      [
+        "花束",
+        "hanataba",
+        "bouquet"
       ]
     ]
   },
@@ -1200,16 +1982,28 @@
     "level": "N5",
     "kanji": "行",
     "meaning": "Go",
+    "onyomi": "ギョウ、コウ",
+    "kunyomi": "い・く、おこな・う、ゆ・く",
     "ex": [
       [
         "行く",
         "iku",
-        "to go"
+        "to go; to head towards"
       ],
       [
         "旅行",
         "ryokou",
         "trip"
+      ],
+      [
+        "銀行",
+        "ginkou",
+        "bank"
+      ],
+      [
+        "飛行機",
+        "hikouki",
+        "airplane"
       ]
     ]
   },
@@ -1217,11 +2011,23 @@
     "level": "N5",
     "kanji": "西",
     "meaning": "West",
+    "onyomi": "サイ、セイ",
+    "kunyomi": "にし",
     "ex": [
       [
         "西",
         "nishi",
         "west"
+      ],
+      [
+        "西口",
+        "nishiguchi",
+        "west exit"
+      ],
+      [
+        "西洋",
+        "seiyou",
+        "the West; Occident"
       ]
     ]
   },
@@ -1229,16 +2035,23 @@
     "level": "N5",
     "kanji": "見",
     "meaning": "See / Look",
+    "onyomi": "ケン",
+    "kunyomi": "み・る、み・せる",
     "ex": [
+      [
+        "見せる",
+        "miseru",
+        "to show; to display"
+      ],
       [
         "見る",
         "miru",
         "to see; to look"
       ],
       [
-        "見せる",
-        "miseru",
-        "to show"
+        "見物",
+        "kenbutsu",
+        "sightseeing"
       ]
     ]
   },
@@ -1246,16 +2059,23 @@
     "level": "N5",
     "kanji": "言",
     "meaning": "Say / Word",
+    "onyomi": "ゲン、ゴン",
+    "kunyomi": "い・う、こと",
     "ex": [
       [
         "言う",
         "iu",
-        "to say"
+        "to say; to utter"
       ],
       [
         "言葉",
         "kotoba",
         "word; phrase"
+      ],
+      [
+        "言語",
+        "gengo",
+        "language"
       ]
     ]
   },
@@ -1263,16 +2083,23 @@
     "level": "N5",
     "kanji": "話",
     "meaning": "Talk / Tale",
+    "onyomi": "ワ",
+    "kunyomi": "はなし、はな・す",
     "ex": [
       [
         "話す",
         "hanasu",
-        "to talk; to speak"
+        "to talk; to converse"
       ],
       [
         "電話",
         "denwa",
         "telephone"
+      ],
+      [
+        "話題",
+        "wadai",
+        "topic"
       ]
     ]
   },
@@ -1280,11 +2107,23 @@
     "level": "N5",
     "kanji": "語",
     "meaning": "Language",
+    "onyomi": "ゴ",
+    "kunyomi": "かた・る",
     "ex": [
       [
         "英語",
         "eigo",
         "English (language)"
+      ],
+      [
+        "日本語",
+        "nihongo",
+        "Japanese language"
+      ],
+      [
+        "語る",
+        "kataru",
+        "to narrate; to tell"
       ]
     ]
   },
@@ -1292,11 +2131,23 @@
     "level": "N5",
     "kanji": "読",
     "meaning": "Read",
+    "onyomi": "ドク",
+    "kunyomi": "よ・む",
     "ex": [
       [
         "読む",
         "yomu",
         "to read"
+      ],
+      [
+        "読書",
+        "dokusho",
+        "reading (books)"
+      ],
+      [
+        "読み方",
+        "yomikata",
+        "how to read"
       ]
     ]
   },
@@ -1304,6 +2155,8 @@
     "level": "N5",
     "kanji": "買",
     "meaning": "Buy",
+    "onyomi": "バイ",
+    "kunyomi": "か・う",
     "ex": [
       [
         "買う",
@@ -1314,6 +2167,11 @@
         "買い物",
         "kaimono",
         "shopping"
+      ],
+      [
+        "売買",
+        "baibai",
+        "buying and selling"
       ]
     ]
   },
@@ -1321,11 +2179,23 @@
     "level": "N5",
     "kanji": "足",
     "meaning": "Foot / Leg",
+    "onyomi": "ソク",
+    "kunyomi": "あし、た・す、た・りる",
     "ex": [
       [
         "足",
         "ashi",
         "leg; foot"
+      ],
+      [
+        "足りる",
+        "tariru",
+        "to be sufficient"
+      ],
+      [
+        "足音",
+        "ashioto",
+        "footstep sound"
       ]
     ]
   },
@@ -1333,7 +2203,14 @@
     "level": "N5",
     "kanji": "車",
     "meaning": "Car",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
     "ex": [
+      [
+        "自動車",
+        "jidousha",
+        "automobile"
+      ],
       [
         "自転車",
         "jitensha",
@@ -1350,6 +2227,8 @@
     "level": "N5",
     "kanji": "週",
     "meaning": "Week",
+    "onyomi": "シュウ",
+    "kunyomi": "",
     "ex": [
       [
         "今週",
@@ -1357,9 +2236,19 @@
         "this week"
       ],
       [
+        "先週",
+        "senshuu",
+        "last week"
+      ],
+      [
         "来週",
         "raishuu",
         "next week"
+      ],
+      [
+        "毎週",
+        "maishuu",
+        "every week"
       ]
     ]
   },
@@ -1367,11 +2256,23 @@
     "level": "N5",
     "kanji": "道",
     "meaning": "Road",
+    "onyomi": "トウ、ドウ",
+    "kunyomi": "みち",
     "ex": [
       [
         "道",
         "michi",
         "road"
+      ],
+      [
+        "道具",
+        "dougu",
+        "tool"
+      ],
+      [
+        "水道",
+        "suidou",
+        "water supply"
       ]
     ]
   },
@@ -1379,7 +2280,19 @@
     "level": "N5",
     "kanji": "金",
     "meaning": "Gold / Money",
+    "onyomi": "キン",
+    "kunyomi": "かね",
     "ex": [
+      [
+        "金曜日",
+        "kinyoubi",
+        "Friday"
+      ],
+      [
+        "お金",
+        "okane",
+        "money"
+      ],
       [
         "金曜日",
         "kinyoubi",
@@ -1391,11 +2304,23 @@
     "level": "N5",
     "kanji": "長",
     "meaning": "Long / Leader",
+    "onyomi": "チョウ",
+    "kunyomi": "なが・い",
     "ex": [
       [
         "長い",
         "nagai",
-        "long (time or distance)"
+        "long (distance or time)"
+      ],
+      [
+        "長さ",
+        "nagasa",
+        "length"
+      ],
+      [
+        "社長",
+        "shachou",
+        "company president"
       ]
     ]
   },
@@ -1403,6 +2328,8 @@
     "level": "N5",
     "kanji": "間",
     "meaning": "Interval / Space",
+    "onyomi": "カン、ケン",
+    "kunyomi": "あいだ、ま",
     "ex": [
       [
         "時間",
@@ -1413,6 +2340,11 @@
         "週間",
         "shuukan",
         "period of weeks"
+      ],
+      [
+        "人間",
+        "ningen",
+        "human being"
       ]
     ]
   },
@@ -1420,11 +2352,23 @@
     "level": "N5",
     "kanji": "雨",
     "meaning": "Rain",
+    "onyomi": "ウ",
+    "kunyomi": "あめ",
     "ex": [
       [
         "雨",
         "ame",
         "rain"
+      ],
+      [
+        "大雨",
+        "ooame",
+        "heavy rain"
+      ],
+      [
+        "梅雨",
+        "tsuyu",
+        "rainy season"
       ]
     ]
   },
@@ -1432,7 +2376,14 @@
     "level": "N5",
     "kanji": "電",
     "meaning": "Electricity",
+    "onyomi": "デン",
+    "kunyomi": "",
     "ex": [
+      [
+        "電気",
+        "denki",
+        "electricity"
+      ],
       [
         "電話",
         "denwa",
@@ -1449,6 +2400,8 @@
     "level": "N5",
     "kanji": "食",
     "meaning": "Eat / Food",
+    "onyomi": "ショク",
+    "kunyomi": "た・べる、く・う",
     "ex": [
       [
         "食べる",
@@ -1459,6 +2412,11 @@
         "食べ物",
         "tabemono",
         "food"
+      ],
+      [
+        "食堂",
+        "shokudou",
+        "cafeteria"
       ]
     ]
   },
@@ -1466,16 +2424,23 @@
     "level": "N5",
     "kanji": "飲",
     "meaning": "Drink",
+    "onyomi": "イン",
+    "kunyomi": "の・む",
     "ex": [
       [
         "飲む",
         "nomu",
-        "to drink"
+        "to drink; to take (medicine)"
       ],
       [
         "飲み物",
         "nomimono",
         "drink; beverage"
+      ],
+      [
+        "飲み会",
+        "nomikai",
+        "drinking party"
       ]
     ]
   },
@@ -1483,11 +2448,23 @@
     "level": "N5",
     "kanji": "駅",
     "meaning": "Station",
+    "onyomi": "エキ",
+    "kunyomi": "",
     "ex": [
       [
         "駅",
         "eki",
         "train station"
+      ],
+      [
+        "駅員",
+        "ekiin",
+        "station staff"
+      ],
+      [
+        "駅前",
+        "ekimae",
+        "in front of the station"
       ]
     ]
   },
@@ -1495,6 +2472,8 @@
     "level": "N5",
     "kanji": "高",
     "meaning": "High / Expensive",
+    "onyomi": "コウ",
+    "kunyomi": "たか・い、たか・まる",
     "ex": [
       [
         "高い",
@@ -1505,6 +2484,11 @@
         "高校",
         "koukou",
         "high school"
+      ],
+      [
+        "高校生",
+        "koukousei",
+        "high school student"
       ]
     ]
   },
@@ -1512,11 +2496,23 @@
     "level": "N5",
     "kanji": "魚",
     "meaning": "Fish",
+    "onyomi": "ギョ",
+    "kunyomi": "さかな",
     "ex": [
       [
         "魚",
         "sakana",
         "fish"
+      ],
+      [
+        "魚屋",
+        "sakanaya",
+        "fish shop"
+      ],
+      [
+        "魚市場",
+        "uoichiba",
+        "fish market"
       ]
     ]
   },
@@ -1524,11 +2520,23 @@
     "level": "N4",
     "kanji": "銀",
     "meaning": "Silver",
+    "onyomi": "ギン",
+    "kunyomi": "",
     "ex": [
       [
         "銀行",
         "ginkou",
         "bank"
+      ],
+      [
+        "銀色",
+        "giniro",
+        "silver color"
+      ],
+      [
+        "銀メダル",
+        "ginmedaru",
+        "silver medal"
       ]
     ]
   },
@@ -1536,11 +2544,23 @@
     "level": "N4",
     "kanji": "病",
     "meaning": "Illness",
+    "onyomi": "ビョウ",
+    "kunyomi": "や・む、やまい",
     "ex": [
       [
         "病院",
         "byouin",
         "hospital"
+      ],
+      [
+        "病気",
+        "byouki",
+        "illness"
+      ],
+      [
+        "病人",
+        "byounin",
+        "sick person"
       ]
     ]
   },
@@ -1548,11 +2568,23 @@
     "level": "N4",
     "kanji": "院",
     "meaning": "Institution",
+    "onyomi": "イン",
+    "kunyomi": "",
     "ex": [
       [
         "病院",
         "byouin",
         "hospital"
+      ],
+      [
+        "大学院",
+        "daigakuin",
+        "graduate school"
+      ],
+      [
+        "入院",
+        "nyuuin",
+        "hospitalization"
       ]
     ]
   },
@@ -1560,11 +2592,23 @@
     "level": "N4",
     "kanji": "医",
     "meaning": "Medicine / Doctor",
+    "onyomi": "イ",
+    "kunyomi": "",
     "ex": [
       [
         "医者",
         "isha",
         "doctor"
+      ],
+      [
+        "医学",
+        "igaku",
+        "medicine (study)"
+      ],
+      [
+        "医師",
+        "ishi",
+        "physician"
       ]
     ]
   },
@@ -1572,11 +2616,23 @@
     "level": "N4",
     "kanji": "者",
     "meaning": "Person",
+    "onyomi": "シャ",
+    "kunyomi": "もの",
     "ex": [
       [
         "学者",
         "gakusha",
         "scholar"
+      ],
+      [
+        "医者",
+        "isha",
+        "doctor"
+      ],
+      [
+        "記者",
+        "kisha",
+        "journalist"
       ]
     ]
   },
@@ -1584,11 +2640,23 @@
     "level": "N4",
     "kanji": "図",
     "meaning": "Diagram / Plan",
+    "onyomi": "ズ、ト",
+    "kunyomi": "はか・る",
     "ex": [
       [
         "図書館",
         "toshokan",
         "library"
+      ],
+      [
+        "地図",
+        "chizu",
+        "map"
+      ],
+      [
+        "図る",
+        "hakaru",
+        "to plan; to measure"
       ]
     ]
   },
@@ -1596,11 +2664,23 @@
     "level": "N4",
     "kanji": "館",
     "meaning": "Building / Hall",
+    "onyomi": "カン",
+    "kunyomi": "",
     "ex": [
       [
         "図書館",
         "toshokan",
         "library"
+      ],
+      [
+        "美術館",
+        "bijutsukan",
+        "art museum"
+      ],
+      [
+        "旅館",
+        "ryokan",
+        "Japanese-style inn"
       ]
     ]
   },
@@ -1608,11 +2688,23 @@
     "level": "N4",
     "kanji": "働",
     "meaning": "Work",
+    "onyomi": "ドウ",
+    "kunyomi": "はたら・く",
     "ex": [
       [
         "労働",
         "roudou",
         "labor"
+      ],
+      [
+        "働く",
+        "hataraku",
+        "to work"
+      ],
+      [
+        "共働き",
+        "tomobataraki",
+        "dual income"
       ]
     ]
   },
@@ -1620,11 +2712,23 @@
     "level": "N4",
     "kanji": "業",
     "meaning": "Business / Work",
+    "onyomi": "ギョウ、ゴウ",
+    "kunyomi": "わざ",
     "ex": [
       [
         "授業",
         "jugyou",
         "class; lesson"
+      ],
+      [
+        "卒業",
+        "sotsugyou",
+        "graduation"
+      ],
+      [
+        "職業",
+        "shokugyou",
+        "occupation"
       ]
     ]
   },
@@ -1632,11 +2736,23 @@
     "level": "N4",
     "kanji": "産",
     "meaning": "Produce / Birth",
+    "onyomi": "サン",
+    "kunyomi": "う・む、うぶ",
     "ex": [
       [
         "生産",
         "seisan",
         "production"
+      ],
+      [
+        "産業",
+        "sangyou",
+        "industry"
+      ],
+      [
+        "出産",
+        "shussan",
+        "childbirth"
       ]
     ]
   },
@@ -1644,11 +2760,23 @@
     "level": "N4",
     "kanji": "品",
     "meaning": "Article / Goods",
+    "onyomi": "ヒン",
+    "kunyomi": "しな",
     "ex": [
       [
         "食品",
         "shokuhin",
         "food products"
+      ],
+      [
+        "作品",
+        "sakuhin",
+        "(a) work; piece"
+      ],
+      [
+        "商品",
+        "shouhin",
+        "merchandise"
       ]
     ]
   },
@@ -1656,11 +2784,23 @@
     "level": "N4",
     "kanji": "場",
     "meaning": "Place / Site",
+    "onyomi": "ジョウ",
+    "kunyomi": "ば",
     "ex": [
       [
         "工場",
         "koujou",
         "factory"
+      ],
+      [
+        "会場",
+        "kaijou",
+        "venue"
+      ],
+      [
+        "場所",
+        "basho",
+        "place"
       ]
     ]
   },
@@ -1668,11 +2808,23 @@
     "level": "N4",
     "kanji": "工",
     "meaning": "Craft / Work",
+    "onyomi": "コウ、ク",
+    "kunyomi": "",
     "ex": [
       [
         "工場",
         "koujou",
         "factory"
+      ],
+      [
+        "工事",
+        "kouji",
+        "construction work"
+      ],
+      [
+        "大工",
+        "daiku",
+        "carpenter"
       ]
     ]
   },
@@ -1680,11 +2832,23 @@
     "level": "N4",
     "kanji": "地",
     "meaning": "Ground / Place",
+    "onyomi": "チ、ジ",
+    "kunyomi": "",
     "ex": [
       [
         "地図",
         "chizu",
         "map"
+      ],
+      [
+        "地下",
+        "chika",
+        "basement; underground"
+      ],
+      [
+        "地域",
+        "chiiki",
+        "region; area"
       ]
     ]
   },
@@ -1692,11 +2856,23 @@
     "level": "N4",
     "kanji": "橋",
     "meaning": "Bridge",
+    "onyomi": "キョウ",
+    "kunyomi": "はし",
     "ex": [
       [
         "橋",
         "hashi",
         "bridge"
+      ],
+      [
+        "石橋",
+        "ishibashi",
+        "stone bridge"
+      ],
+      [
+        "陸橋",
+        "rikkyou",
+        "overpass"
       ]
     ]
   },
@@ -1704,11 +2880,23 @@
     "level": "N4",
     "kanji": "港",
     "meaning": "Harbor / Port",
+    "onyomi": "コウ",
+    "kunyomi": "みなと",
     "ex": [
       [
         "空港",
         "kuukou",
         "airport"
+      ],
+      [
+        "港町",
+        "minatomachi",
+        "port town"
+      ],
+      [
+        "漁港",
+        "gyokou",
+        "fishing port"
       ]
     ]
   },
@@ -1716,11 +2904,23 @@
     "level": "N4",
     "kanji": "船",
     "meaning": "Ship / Boat",
+    "onyomi": "セン",
+    "kunyomi": "ふね、ふな",
     "ex": [
       [
         "船旅",
         "funatabi",
         "sea voyage"
+      ],
+      [
+        "船便",
+        "funabin",
+        "sea mail"
+      ],
+      [
+        "船長",
+        "senchou",
+        "ship captain"
       ]
     ]
   },
@@ -1728,11 +2928,23 @@
     "level": "N4",
     "kanji": "乗",
     "meaning": "Ride / Board",
+    "onyomi": "ジョウ",
+    "kunyomi": "の・る、の・せる",
     "ex": [
       [
         "乗車",
         "jousha",
         "boarding"
+      ],
+      [
+        "乗る",
+        "noru",
+        "to ride; to board"
+      ],
+      [
+        "乗り物",
+        "norimono",
+        "vehicle"
       ]
     ]
   },
@@ -1740,11 +2952,23 @@
     "level": "N4",
     "kanji": "降",
     "meaning": "Descend / Fall",
+    "onyomi": "コウ",
+    "kunyomi": "お・りる、ふ・る",
     "ex": [
       [
         "下降",
         "kakou",
         "descent"
+      ],
+      [
+        "降りる",
+        "oriru",
+        "to get off; to descend"
+      ],
+      [
+        "雨が降る",
+        "amegafuru",
+        "it rains"
       ]
     ]
   },
@@ -1752,11 +2976,23 @@
     "level": "N4",
     "kanji": "着",
     "meaning": "Wear / Arrive",
+    "onyomi": "チャク",
+    "kunyomi": "き・る、つ・く",
     "ex": [
       [
         "到着",
         "touchaku",
         "arrival"
+      ],
+      [
+        "着く",
+        "tsuku",
+        "to arrive"
+      ],
+      [
+        "着る",
+        "kiru",
+        "to wear"
       ]
     ]
   },
@@ -1764,11 +3000,23 @@
     "level": "N4",
     "kanji": "曜",
     "meaning": "Day of the week",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
     "ex": [
       [
         "月曜日",
         "getsuyoubi",
         "Monday"
+      ],
+      [
+        "何曜日",
+        "nanyoubi",
+        "what day of the week"
+      ],
+      [
+        "土曜日",
+        "doyoubi",
+        "Saturday"
       ]
     ]
   },
@@ -1776,11 +3024,23 @@
     "level": "N4",
     "kanji": "去",
     "meaning": "Past / Leave",
+    "onyomi": "キョ、コ",
+    "kunyomi": "さ・る",
     "ex": [
       [
         "去年",
         "kyonen",
         "last year"
+      ],
+      [
+        "去る",
+        "saru",
+        "to leave; to go away"
+      ],
+      [
+        "過去",
+        "kako",
+        "the past"
       ]
     ]
   },
@@ -1788,11 +3048,23 @@
     "level": "N4",
     "kanji": "以",
     "meaning": "By means of / Since",
+    "onyomi": "イ",
+    "kunyomi": "",
     "ex": [
       [
         "以前",
         "izen",
         "before; formerly"
+      ],
+      [
+        "以下",
+        "ika",
+        "below; the following"
+      ],
+      [
+        "以上",
+        "ijou",
+        "above; the above"
       ]
     ]
   },
@@ -1800,11 +3072,23 @@
     "level": "N4",
     "kanji": "速",
     "meaning": "Fast / Speed",
+    "onyomi": "ソク",
+    "kunyomi": "はや・い、はや・める",
     "ex": [
       [
         "速度",
         "sokudo",
         "speed"
+      ],
+      [
+        "速い",
+        "hayai",
+        "fast (speed)"
+      ],
+      [
+        "高速",
+        "kousoku",
+        "high speed"
       ]
     ]
   },
@@ -1812,11 +3096,23 @@
     "level": "N4",
     "kanji": "遅",
     "meaning": "Late / Slow",
+    "onyomi": "チ",
+    "kunyomi": "おそ・い、おく・れる",
     "ex": [
       [
         "遅刻",
         "chikoku",
         "being late"
+      ],
+      [
+        "遅い",
+        "osoi",
+        "slow; late"
+      ],
+      [
+        "遅れる",
+        "okureru",
+        "to be late"
       ]
     ]
   },
@@ -1824,11 +3120,23 @@
     "level": "N4",
     "kanji": "早",
     "meaning": "Early / Fast",
+    "onyomi": "ソウ",
+    "kunyomi": "はや・い、はや・める",
     "ex": [
       [
         "早朝",
         "souchou",
         "early morning"
+      ],
+      [
+        "早い",
+        "hayai",
+        "early"
+      ],
+      [
+        "早く",
+        "hayaku",
+        "quickly; early"
       ]
     ]
   },
@@ -1836,11 +3144,23 @@
     "level": "N4",
     "kanji": "朝",
     "meaning": "Morning",
+    "onyomi": "チョウ",
+    "kunyomi": "あさ",
     "ex": [
       [
         "毎朝",
         "maiasa",
         "every morning"
+      ],
+      [
+        "朝食",
+        "choushoku",
+        "breakfast"
+      ],
+      [
+        "今朝",
+        "kesa",
+        "this morning"
       ]
     ]
   },
@@ -1848,11 +3168,23 @@
     "level": "N4",
     "kanji": "昼",
     "meaning": "Noon / Daytime",
+    "onyomi": "チュウ",
+    "kunyomi": "ひる",
     "ex": [
       [
         "昼食",
         "chuushoku",
         "lunch"
+      ],
+      [
+        "昼休み",
+        "hiruyasumi",
+        "lunch break"
+      ],
+      [
+        "昼間",
+        "hiruma",
+        "daytime"
       ]
     ]
   },
@@ -1860,11 +3192,23 @@
     "level": "N4",
     "kanji": "夜",
     "meaning": "Night",
+    "onyomi": "ヤ",
+    "kunyomi": "よる、よ",
     "ex": [
       [
         "夜中",
         "yonaka",
         "midnight"
+      ],
+      [
+        "夜中",
+        "yonaka",
+        "midnight"
+      ],
+      [
+        "今夜",
+        "konya",
+        "tonight"
       ]
     ]
   },
@@ -1872,11 +3216,23 @@
     "level": "N4",
     "kanji": "夕",
     "meaning": "Evening",
+    "onyomi": "セキ",
+    "kunyomi": "ゆう",
     "ex": [
       [
         "夕食",
         "yuushoku",
         "dinner"
+      ],
+      [
+        "夕方",
+        "yuugata",
+        "evening"
+      ],
+      [
+        "夕日",
+        "yuuhi",
+        "evening sun"
       ]
     ]
   },
@@ -1884,11 +3240,23 @@
     "level": "N4",
     "kanji": "初",
     "meaning": "First / Beginning",
+    "onyomi": "ショ",
+    "kunyomi": "はじ・め、はつ、うい",
     "ex": [
       [
         "最初",
         "saisho",
         "the first"
+      ],
+      [
+        "初めて",
+        "hajimete",
+        "for the first time"
+      ],
+      [
+        "初日",
+        "shonichi",
+        "first day"
       ]
     ]
   },
@@ -1896,7 +3264,43 @@
     "level": "N4",
     "kanji": "最",
     "meaning": "Most / Utmost",
+    "onyomi": "サイ",
+    "kunyomi": "もっと・も",
     "ex": [
+      [
+        "最近",
+        "saikin",
+        "recently"
+      ],
+      [
+        "最後",
+        "saigo",
+        "the last"
+      ],
+      [
+        "最高",
+        "saikou",
+        "the best; the highest"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "近",
+    "meaning": "Near / Recent",
+    "onyomi": "キン",
+    "kunyomi": "ちか・い",
+    "ex": [
+      [
+        "近所",
+        "kinjo",
+        "neighborhood"
+      ],
+      [
+        "近く",
+        "chikaku",
+        "nearby"
+      ],
       [
         "最近",
         "saikin",
@@ -1906,25 +3310,25 @@
   },
   {
     "level": "N4",
-    "kanji": "近",
-    "meaning": "Near / Recent",
-    "ex": [
-      [
-        "近所",
-        "kinjo",
-        "neighborhood"
-      ]
-    ]
-  },
-  {
-    "level": "N4",
     "kanji": "当",
     "meaning": "Hit / Current",
+    "onyomi": "トウ",
+    "kunyomi": "あ・たる、あ・てる",
     "ex": [
       [
         "当日",
         "toujitsu",
         "that day"
+      ],
+      [
+        "本当",
+        "hontou",
+        "truth; really"
+      ],
+      [
+        "担当",
+        "tantou",
+        "being in charge of"
       ]
     ]
   },
@@ -1932,11 +3336,23 @@
     "level": "N4",
     "kanji": "代",
     "meaning": "Era / Generation",
+    "onyomi": "ダイ、タイ",
+    "kunyomi": "か・える、よ",
     "ex": [
       [
         "時代",
         "jidai",
         "era"
+      ],
+      [
+        "代わりに",
+        "kawarini",
+        "instead of"
+      ],
+      [
+        "世代",
+        "sedai",
+        "generation"
       ]
     ]
   },
@@ -1944,11 +3360,23 @@
     "level": "N4",
     "kanji": "期",
     "meaning": "Period / Term",
+    "onyomi": "キ、ゴ",
+    "kunyomi": "",
     "ex": [
       [
         "時期",
         "jiki",
         "time; period"
+      ],
+      [
+        "期間",
+        "kikan",
+        "period; term"
+      ],
+      [
+        "学期",
+        "gakki",
+        "school term"
       ]
     ]
   },
@@ -1956,11 +3384,23 @@
     "level": "N4",
     "kanji": "思",
     "meaning": "Think / Feel",
+    "onyomi": "シ",
+    "kunyomi": "おも・う",
     "ex": [
       [
         "思想",
         "shisou",
         "thought; ideology"
+      ],
+      [
+        "思う",
+        "omou",
+        "to think; to feel"
+      ],
+      [
+        "思い出",
+        "omoide",
+        "memory"
       ]
     ]
   },
@@ -1968,11 +3408,23 @@
     "level": "N4",
     "kanji": "知",
     "meaning": "Know",
+    "onyomi": "チ",
+    "kunyomi": "し・る",
     "ex": [
       [
         "知識",
         "chishiki",
         "knowledge"
+      ],
+      [
+        "知る",
+        "shiru",
+        "to come to know"
+      ],
+      [
+        "知り合い",
+        "shiriai",
+        "acquaintance"
       ]
     ]
   },
@@ -1980,11 +3432,23 @@
     "level": "N4",
     "kanji": "使",
     "meaning": "Use",
+    "onyomi": "シ",
+    "kunyomi": "つか・う",
     "ex": [
       [
         "使用",
         "shiyou",
         "use; usage"
+      ],
+      [
+        "使う",
+        "tsukau",
+        "to use"
+      ],
+      [
+        "大使",
+        "taishi",
+        "ambassador"
       ]
     ]
   },
@@ -1992,11 +3456,23 @@
     "level": "N4",
     "kanji": "始",
     "meaning": "Begin",
+    "onyomi": "シ",
+    "kunyomi": "はじ・める、はじ・まる",
     "ex": [
       [
         "開始",
         "kaishi",
         "start"
+      ],
+      [
+        "始める",
+        "hajimeru",
+        "to begin (something)"
+      ],
+      [
+        "始まる",
+        "hajimaru",
+        "to begin (on its own)"
       ]
     ]
   },
@@ -2004,11 +3480,23 @@
     "level": "N4",
     "kanji": "終",
     "meaning": "End / Finish",
+    "onyomi": "シュウ",
+    "kunyomi": "お・わる、お・える",
     "ex": [
       [
         "終了",
         "shuuryou",
         "completion"
+      ],
+      [
+        "終わる",
+        "owaru",
+        "to end"
+      ],
+      [
+        "最終",
+        "saishuu",
+        "final; last"
       ]
     ]
   },
@@ -2016,11 +3504,23 @@
     "level": "N4",
     "kanji": "教",
     "meaning": "Teach",
+    "onyomi": "キョウ",
+    "kunyomi": "おし・える、おそ・わる",
     "ex": [
       [
         "教室",
         "kyoushitsu",
         "classroom"
+      ],
+      [
+        "教える",
+        "oshieru",
+        "to teach"
+      ],
+      [
+        "教科書",
+        "kyoukasho",
+        "textbook"
       ]
     ]
   },
@@ -2028,11 +3528,23 @@
     "level": "N4",
     "kanji": "習",
     "meaning": "Learn / Practice",
+    "onyomi": "シュウ",
+    "kunyomi": "なら・う",
     "ex": [
       [
         "練習",
         "renshuu",
         "practice"
+      ],
+      [
+        "習う",
+        "narau",
+        "to learn (from someone)"
+      ],
+      [
+        "復習",
+        "fukushuu",
+        "review (study)"
       ]
     ]
   },
@@ -2040,11 +3552,23 @@
     "level": "N4",
     "kanji": "集",
     "meaning": "Gather / Collect",
+    "onyomi": "シュウ",
+    "kunyomi": "あつ・まる、あつ・める",
     "ex": [
       [
         "集中",
         "shuuchuu",
         "concentration"
+      ],
+      [
+        "集める",
+        "atsumeru",
+        "to gather (things)"
+      ],
+      [
+        "集まる",
+        "atsumaru",
+        "to gather (people)"
       ]
     ]
   },
@@ -2052,11 +3576,23 @@
     "level": "N4",
     "kanji": "困",
     "meaning": "Be troubled",
+    "onyomi": "コン",
+    "kunyomi": "こま・る",
     "ex": [
       [
         "困難",
         "konnan",
         "difficulty"
+      ],
+      [
+        "困る",
+        "komaru",
+        "to be troubled"
+      ],
+      [
+        "困った",
+        "komatta",
+        "in trouble"
       ]
     ]
   },
@@ -2064,11 +3600,23 @@
     "level": "N4",
     "kanji": "忘",
     "meaning": "Forget",
+    "onyomi": "ボウ",
+    "kunyomi": "わす・れる",
     "ex": [
       [
         "忘れ物",
         "wasuremono",
         "forgotten item"
+      ],
+      [
+        "忘れる",
+        "wasureru",
+        "to forget"
+      ],
+      [
+        "忘年会",
+        "bounenkai",
+        "year-end party"
       ]
     ]
   },
@@ -2076,11 +3624,23 @@
     "level": "N4",
     "kanji": "決",
     "meaning": "Decide",
+    "onyomi": "ケツ",
+    "kunyomi": "き・める、き・まる",
     "ex": [
       [
         "決定",
         "kettei",
         "decision"
+      ],
+      [
+        "決める",
+        "kimeru",
+        "to decide"
+      ],
+      [
+        "決まる",
+        "kimaru",
+        "to be decided"
       ]
     ]
   },
@@ -2088,11 +3648,23 @@
     "level": "N4",
     "kanji": "考",
     "meaning": "Think / Consider",
+    "onyomi": "コウ",
+    "kunyomi": "かんが・える",
     "ex": [
       [
         "考え方",
         "kangaekata",
         "way of thinking"
+      ],
+      [
+        "考える",
+        "kangaeru",
+        "to think; to consider"
+      ],
+      [
+        "考え",
+        "kangae",
+        "a thought; an idea"
       ]
     ]
   },
@@ -2100,11 +3672,23 @@
     "level": "N4",
     "kanji": "調",
     "meaning": "Investigate / Tune",
+    "onyomi": "チョウ",
+    "kunyomi": "しら・べる、ととの・う",
     "ex": [
       [
         "調査",
         "chousa",
         "investigation"
+      ],
+      [
+        "調べる",
+        "shiraberu",
+        "to investigate; to check"
+      ],
+      [
+        "調子",
+        "choushi",
+        "condition; tone"
       ]
     ]
   },
@@ -2112,11 +3696,23 @@
     "level": "N4",
     "kanji": "試",
     "meaning": "Try / Test",
+    "onyomi": "シ",
+    "kunyomi": "こころ・みる、ため・す",
     "ex": [
       [
         "試験",
         "shiken",
         "exam"
+      ],
+      [
+        "試す",
+        "tamesu",
+        "to try; to test"
+      ],
+      [
+        "試合",
+        "shiai",
+        "match; game"
       ]
     ]
   },
@@ -2124,11 +3720,23 @@
     "level": "N4",
     "kanji": "験",
     "meaning": "Test / Experience",
+    "onyomi": "ケン、ゲン",
+    "kunyomi": "",
     "ex": [
       [
         "経験",
         "keiken",
         "experience"
+      ],
+      [
+        "実験",
+        "jikken",
+        "experiment"
+      ],
+      [
+        "研究室",
+        "kenkyuushitsu",
+        "research lab"
       ]
     ]
   },
@@ -2136,11 +3744,23 @@
     "level": "N4",
     "kanji": "答",
     "meaning": "Answer",
+    "onyomi": "トウ",
+    "kunyomi": "こた・える、こたえ",
     "ex": [
       [
         "回答",
         "kaitou",
         "response"
+      ],
+      [
+        "答える",
+        "kotaeru",
+        "to answer"
+      ],
+      [
+        "答え",
+        "kotae",
+        "an answer"
       ]
     ]
   },
@@ -2148,11 +3768,23 @@
     "level": "N4",
     "kanji": "問",
     "meaning": "Question",
+    "onyomi": "モン",
+    "kunyomi": "と・う、とい、とん",
     "ex": [
       [
         "問題",
         "mondai",
         "problem"
+      ],
+      [
+        "問い",
+        "toi",
+        "a question"
+      ],
+      [
+        "質問",
+        "shitsumon",
+        "a question (formal)"
       ]
     ]
   },
@@ -2160,11 +3792,23 @@
     "level": "N4",
     "kanji": "説",
     "meaning": "Explain / Theory",
+    "onyomi": "セツ、ゼイ",
+    "kunyomi": "と・く",
     "ex": [
       [
         "説明",
         "setsumei",
         "explanation"
+      ],
+      [
+        "小説",
+        "shousetsu",
+        "novel"
+      ],
+      [
+        "伝説",
+        "densetsu",
+        "legend"
       ]
     ]
   },
@@ -2172,11 +3816,23 @@
     "level": "N4",
     "kanji": "明",
     "meaning": "Bright / Clear",
+    "onyomi": "メイ、ミョウ",
+    "kunyomi": "あか・るい、あ・ける",
     "ex": [
       [
         "説明",
         "setsumei",
         "explanation"
+      ],
+      [
+        "明るい",
+        "akarui",
+        "bright"
+      ],
+      [
+        "明日",
+        "ashita",
+        "tomorrow"
       ]
     ]
   },
@@ -2184,11 +3840,23 @@
     "level": "N4",
     "kanji": "急",
     "meaning": "Hurry / Urgent",
+    "onyomi": "キュウ",
+    "kunyomi": "いそ・ぐ",
     "ex": [
       [
         "急行",
         "kyuukou",
         "express train"
+      ],
+      [
+        "急ぐ",
+        "isogu",
+        "to hurry"
+      ],
+      [
+        "急に",
+        "kyuuni",
+        "suddenly"
       ]
     ]
   },
@@ -2196,11 +3864,23 @@
     "level": "N4",
     "kanji": "運",
     "meaning": "Carry / Luck",
+    "onyomi": "ウン",
+    "kunyomi": "はこ・ぶ",
     "ex": [
       [
         "運動",
         "undou",
         "exercise"
+      ],
+      [
+        "運ぶ",
+        "hakobu",
+        "to carry"
+      ],
+      [
+        "運転",
+        "unten",
+        "driving"
       ]
     ]
   },
@@ -2208,11 +3888,23 @@
     "level": "N4",
     "kanji": "動",
     "meaning": "Move",
+    "onyomi": "ドウ",
+    "kunyomi": "うご・く、うご・かす",
     "ex": [
       [
         "自動",
         "jidou",
         "automatic"
+      ],
+      [
+        "動く",
+        "ugoku",
+        "to move"
+      ],
+      [
+        "動物",
+        "doubutsu",
+        "animal"
       ]
     ]
   },
@@ -2220,11 +3912,23 @@
     "level": "N4",
     "kanji": "起",
     "meaning": "Wake up / Occur",
+    "onyomi": "キ",
+    "kunyomi": "お・きる、お・こる、お・こす",
     "ex": [
       [
         "起床",
         "kishou",
         "getting up"
+      ],
+      [
+        "起きる",
+        "okiru",
+        "to wake up; to occur"
+      ],
+      [
+        "起こる",
+        "okoru",
+        "to occur"
       ]
     ]
   },
@@ -2232,11 +3936,23 @@
     "level": "N4",
     "kanji": "返",
     "meaning": "Return",
+    "onyomi": "ヘン",
+    "kunyomi": "かえ・る、かえ・す",
     "ex": [
       [
         "返事",
         "henji",
         "reply"
+      ],
+      [
+        "返す",
+        "kaesu",
+        "to give back"
+      ],
+      [
+        "返る",
+        "kaeru",
+        "to be returned"
       ]
     ]
   },
@@ -2244,11 +3960,23 @@
     "level": "N4",
     "kanji": "送",
     "meaning": "Send",
+    "onyomi": "ソウ",
+    "kunyomi": "おく・る",
     "ex": [
       [
         "送料",
         "souryou",
         "shipping fee"
+      ],
+      [
+        "送る",
+        "okuru",
+        "to send"
+      ],
+      [
+        "送別会",
+        "soubetsukai",
+        "farewell party"
       ]
     ]
   },
@@ -2256,11 +3984,23 @@
     "level": "N4",
     "kanji": "受",
     "meaning": "Receive / Pass exam",
+    "onyomi": "ジュ",
+    "kunyomi": "う・ける、う・かる",
     "ex": [
       [
         "受験",
         "juken",
         "taking an exam"
+      ],
+      [
+        "受ける",
+        "ukeru",
+        "to receive; to take (a test)"
+      ],
+      [
+        "受付",
+        "uketsuke",
+        "reception desk"
       ]
     ]
   },
@@ -2268,11 +4008,23 @@
     "level": "N4",
     "kanji": "待",
     "meaning": "Wait",
+    "onyomi": "タイ",
+    "kunyomi": "ま・つ",
     "ex": [
       [
         "期待",
         "kitai",
         "expectation"
+      ],
+      [
+        "待つ",
+        "matsu",
+        "to wait"
+      ],
+      [
+        "待合室",
+        "machiaishitsu",
+        "waiting room"
       ]
     ]
   },
@@ -2280,11 +4032,23 @@
     "level": "N4",
     "kanji": "持",
     "meaning": "Hold / Have",
+    "onyomi": "ジ",
+    "kunyomi": "も・つ",
     "ex": [
       [
         "持参",
         "jisan",
         "bringing along"
+      ],
+      [
+        "持つ",
+        "motsu",
+        "to hold; to have"
+      ],
+      [
+        "気持ち",
+        "kimochi",
+        "feeling"
       ]
     ]
   },
@@ -2292,11 +4056,23 @@
     "level": "N4",
     "kanji": "開",
     "meaning": "Open",
+    "onyomi": "カイ",
+    "kunyomi": "ひら・く、あ・ける",
     "ex": [
       [
         "開始",
         "kaishi",
         "start"
+      ],
+      [
+        "開く",
+        "hiraku",
+        "to open"
+      ],
+      [
+        "開ける",
+        "akeru",
+        "to open (something)"
       ]
     ]
   },
@@ -2304,11 +4080,23 @@
     "level": "N4",
     "kanji": "閉",
     "meaning": "Close",
+    "onyomi": "ヘイ",
+    "kunyomi": "し・める、し・まる、と・じる",
     "ex": [
       [
         "閉店",
         "heiten",
         "closing time"
+      ],
+      [
+        "閉める",
+        "shimeru",
+        "to close (something)"
+      ],
+      [
+        "閉まる",
+        "shimaru",
+        "to close (on its own)"
       ]
     ]
   },
@@ -2316,11 +4104,23 @@
     "level": "N4",
     "kanji": "切",
     "meaning": "Cut",
+    "onyomi": "セツ、サイ",
+    "kunyomi": "き・る、き・れる",
     "ex": [
       [
         "大切",
         "taisetsu",
         "important"
+      ],
+      [
+        "切る",
+        "kiru",
+        "to cut"
+      ],
+      [
+        "切符",
+        "kippu",
+        "ticket"
       ]
     ]
   },
@@ -2328,11 +4128,23 @@
     "level": "N4",
     "kanji": "落",
     "meaning": "Fall / Drop",
+    "onyomi": "ラク",
+    "kunyomi": "お・ちる、お・とす",
     "ex": [
       [
         "落下",
         "rakka",
         "falling down"
+      ],
+      [
+        "落ちる",
+        "ochiru",
+        "to fall"
+      ],
+      [
+        "落とす",
+        "otosu",
+        "to drop (something)"
       ]
     ]
   },
@@ -2340,11 +4152,23 @@
     "level": "N4",
     "kanji": "払",
     "meaning": "Pay / Sweep",
+    "onyomi": "フツ",
+    "kunyomi": "はら・う",
     "ex": [
       [
         "支払い",
         "shiharai",
         "payment"
+      ],
+      [
+        "払う",
+        "harau",
+        "to pay"
+      ],
+      [
+        "支払う",
+        "shiharau",
+        "to pay"
       ]
     ]
   },
@@ -2352,11 +4176,23 @@
     "level": "N4",
     "kanji": "海",
     "meaning": "Sea / Ocean",
+    "onyomi": "カイ",
+    "kunyomi": "うみ",
     "ex": [
       [
         "海岸",
         "kaigan",
         "coast"
+      ],
+      [
+        "海外",
+        "kaigai",
+        "overseas"
+      ],
+      [
+        "海水浴",
+        "kaisuiyoku",
+        "sea bathing"
       ]
     ]
   },
@@ -2364,11 +4200,23 @@
     "level": "N4",
     "kanji": "風",
     "meaning": "Wind",
+    "onyomi": "フウ、フ",
+    "kunyomi": "かぜ、かざ",
     "ex": [
       [
         "台風",
         "taifuu",
         "typhoon"
+      ],
+      [
+        "風邪",
+        "kaze",
+        "a cold (illness)"
+      ],
+      [
+        "風呂",
+        "furo",
+        "bath"
       ]
     ]
   },
@@ -2376,11 +4224,23 @@
     "level": "N4",
     "kanji": "雪",
     "meaning": "Snow",
+    "onyomi": "セツ",
+    "kunyomi": "ゆき",
     "ex": [
       [
         "大雪",
         "ooyuki",
         "heavy snow"
+      ],
+      [
+        "雪だるま",
+        "yukidaruma",
+        "snowman"
+      ],
+      [
+        "雪国",
+        "yukiguni",
+        "snow country"
       ]
     ]
   },
@@ -2388,11 +4248,23 @@
     "level": "N4",
     "kanji": "春",
     "meaning": "Spring",
+    "onyomi": "シュン",
+    "kunyomi": "はる",
     "ex": [
       [
         "春休み",
         "haruyasumi",
         "spring break"
+      ],
+      [
+        "春休み",
+        "haruyasumi",
+        "spring break"
+      ],
+      [
+        "青春",
+        "seishun",
+        "youth"
       ]
     ]
   },
@@ -2400,11 +4272,23 @@
     "level": "N4",
     "kanji": "夏",
     "meaning": "Summer",
+    "onyomi": "カ、ゲ",
+    "kunyomi": "なつ",
     "ex": [
       [
         "夏休み",
         "natsuyasumi",
         "summer vacation"
+      ],
+      [
+        "夏休み",
+        "natsuyasumi",
+        "summer vacation"
+      ],
+      [
+        "真夏",
+        "manatsu",
+        "midsummer"
       ]
     ]
   },
@@ -2412,11 +4296,23 @@
     "level": "N4",
     "kanji": "秋",
     "meaning": "Autumn",
+    "onyomi": "シュウ",
+    "kunyomi": "あき",
     "ex": [
       [
         "秋分",
         "shuubun",
         "autumnal equinox"
+      ],
+      [
+        "秋分",
+        "shuubun",
+        "autumnal equinox"
+      ],
+      [
+        "秋刀魚",
+        "sanma",
+        "Pacific saury"
       ]
     ]
   },
@@ -2424,11 +4320,23 @@
     "level": "N4",
     "kanji": "冬",
     "meaning": "Winter",
+    "onyomi": "トウ",
+    "kunyomi": "ふゆ",
     "ex": [
       [
         "冬休み",
         "fuyuyasumi",
         "winter break"
+      ],
+      [
+        "冬眠",
+        "toumin",
+        "hibernation"
+      ],
+      [
+        "真冬",
+        "mafuyu",
+        "midwinter"
       ]
     ]
   },
@@ -2436,11 +4344,23 @@
     "level": "N4",
     "kanji": "星",
     "meaning": "Star",
+    "onyomi": "セイ、ショウ",
+    "kunyomi": "ほし",
     "ex": [
       [
         "星座",
         "seiza",
         "constellation"
+      ],
+      [
+        "星空",
+        "hoshizora",
+        "starry sky"
+      ],
+      [
+        "星占い",
+        "hoshiuranai",
+        "astrology; horoscope"
       ]
     ]
   },
@@ -2448,11 +4368,23 @@
     "level": "N4",
     "kanji": "光",
     "meaning": "Light",
+    "onyomi": "コウ",
+    "kunyomi": "ひかり、ひか・る",
     "ex": [
       [
         "光線",
         "kousen",
         "ray of light"
+      ],
+      [
+        "日光",
+        "nikkou",
+        "sunlight"
+      ],
+      [
+        "光る",
+        "hikaru",
+        "to shine"
       ]
     ]
   },
@@ -2460,11 +4392,23 @@
     "level": "N4",
     "kanji": "音",
     "meaning": "Sound",
+    "onyomi": "オン、イン",
+    "kunyomi": "おと、ね",
     "ex": [
       [
         "音楽",
         "ongaku",
         "music"
+      ],
+      [
+        "音",
+        "oto",
+        "sound"
+      ],
+      [
+        "発音",
+        "hatsuon",
+        "pronunciation"
       ]
     ]
   },
@@ -2472,11 +4416,23 @@
     "level": "N4",
     "kanji": "林",
     "meaning": "Grove / Woods",
+    "onyomi": "リン",
+    "kunyomi": "はやし",
     "ex": [
       [
         "森林",
         "shinrin",
         "forest"
+      ],
+      [
+        "林業",
+        "ringyou",
+        "forestry"
+      ],
+      [
+        "林檎",
+        "ringo",
+        "apple"
       ]
     ]
   },
@@ -2484,11 +4440,23 @@
     "level": "N4",
     "kanji": "森",
     "meaning": "Forest",
+    "onyomi": "シン",
+    "kunyomi": "もり",
     "ex": [
       [
         "森林",
         "shinrin",
         "forest"
+      ],
+      [
+        "森",
+        "mori",
+        "forest"
+      ],
+      [
+        "森林浴",
+        "shinrinyoku",
+        "forest bathing"
       ]
     ]
   },
@@ -2496,11 +4464,23 @@
     "level": "N4",
     "kanji": "池",
     "meaning": "Pond",
+    "onyomi": "チ",
+    "kunyomi": "いけ",
     "ex": [
       [
         "電池",
         "denchi",
         "battery"
+      ],
+      [
+        "池",
+        "ike",
+        "pond"
+      ],
+      [
+        "貯水池",
+        "chosuichi",
+        "reservoir"
       ]
     ]
   },
@@ -2508,11 +4488,23 @@
     "level": "N4",
     "kanji": "島",
     "meaning": "Island",
+    "onyomi": "トウ",
+    "kunyomi": "しま",
     "ex": [
       [
         "半島",
         "hantou",
         "peninsula"
+      ],
+      [
+        "島国",
+        "shimaguni",
+        "island country"
+      ],
+      [
+        "島民",
+        "toumin",
+        "islander"
       ]
     ]
   },
@@ -2520,11 +4512,23 @@
     "level": "N4",
     "kanji": "谷",
     "meaning": "Valley",
+    "onyomi": "コク",
+    "kunyomi": "たに",
     "ex": [
       [
         "渓谷",
         "keikoku",
         "ravine"
+      ],
+      [
+        "谷間",
+        "tanima",
+        "valley"
+      ],
+      [
+        "谷底",
+        "tanizoko",
+        "bottom of a valley"
       ]
     ]
   },
@@ -2532,11 +4536,23 @@
     "level": "N4",
     "kanji": "岩",
     "meaning": "Rock / Boulder",
+    "onyomi": "ガン",
+    "kunyomi": "いわ",
     "ex": [
       [
         "岩石",
         "ganseki",
         "rock"
+      ],
+      [
+        "岩",
+        "iwa",
+        "rock; boulder"
+      ],
+      [
+        "岩盤",
+        "ganban",
+        "bedrock"
       ]
     ]
   },
@@ -2544,11 +4560,23 @@
     "level": "N4",
     "kanji": "砂",
     "meaning": "Sand",
+    "onyomi": "サ、シャ",
+    "kunyomi": "すな",
     "ex": [
       [
         "砂漠",
         "sabaku",
         "desert"
+      ],
+      [
+        "砂糖",
+        "satou",
+        "sugar"
+      ],
+      [
+        "砂浜",
+        "sunahama",
+        "sandy beach"
       ]
     ]
   },
@@ -2556,11 +4584,23 @@
     "level": "N4",
     "kanji": "雲",
     "meaning": "Cloud",
+    "onyomi": "ウン",
+    "kunyomi": "くも",
     "ex": [
       [
         "雲",
         "kumo",
         "cloud"
+      ],
+      [
+        "入道雲",
+        "nyuudougumo",
+        "towering cumulus cloud"
+      ],
+      [
+        "雨雲",
+        "amagumo",
+        "rain cloud"
       ]
     ]
   },
@@ -2568,11 +4608,23 @@
     "level": "N4",
     "kanji": "暖",
     "meaning": "Warm",
+    "onyomi": "ダン",
+    "kunyomi": "あたた・かい、あたた・める",
     "ex": [
       [
         "温暖",
         "ondan",
         "warm (climate)"
+      ],
+      [
+        "暖かい",
+        "atatakai",
+        "warm"
+      ],
+      [
+        "暖房",
+        "danbou",
+        "heating"
       ]
     ]
   },
@@ -2580,11 +4632,23 @@
     "level": "N4",
     "kanji": "寒",
     "meaning": "Cold",
+    "onyomi": "カン",
+    "kunyomi": "さむ・い",
     "ex": [
       [
         "寒波",
         "kanpa",
         "cold wave"
+      ],
+      [
+        "寒い",
+        "samui",
+        "cold"
+      ],
+      [
+        "寒気",
+        "samuke",
+        "a chill"
       ]
     ]
   },
@@ -2592,11 +4656,23 @@
     "level": "N4",
     "kanji": "暑",
     "meaning": "Hot (weather)",
+    "onyomi": "ショ",
+    "kunyomi": "あつ・い",
     "ex": [
       [
         "猛暑",
         "mousho",
         "intense heat"
+      ],
+      [
+        "暑い",
+        "atsui",
+        "hot (weather)"
+      ],
+      [
+        "暑さ",
+        "atsusa",
+        "the heat"
       ]
     ]
   },
@@ -2604,11 +4680,23 @@
     "level": "N4",
     "kanji": "涼",
     "meaning": "Cool / Refreshing",
+    "onyomi": "リョウ",
+    "kunyomi": "すず・しい、すず・む",
     "ex": [
       [
         "涼しい",
         "suzushii",
         "cool"
+      ],
+      [
+        "涼む",
+        "suzumu",
+        "to cool off"
+      ],
+      [
+        "涼風",
+        "ryoufuu",
+        "cool breeze"
       ]
     ]
   },
@@ -2616,11 +4704,23 @@
     "level": "N4",
     "kanji": "温",
     "meaning": "Warm / Temperature",
+    "onyomi": "オン",
+    "kunyomi": "あたた・かい、あたた・める",
     "ex": [
       [
         "気温",
         "kion",
         "air temperature"
+      ],
+      [
+        "温泉",
+        "onsen",
+        "hot spring"
+      ],
+      [
+        "温度",
+        "ondo",
+        "temperature"
       ]
     ]
   },
@@ -2628,11 +4728,23 @@
     "level": "N4",
     "kanji": "湖",
     "meaning": "Lake",
+    "onyomi": "コ",
+    "kunyomi": "みずうみ",
     "ex": [
       [
         "湖",
         "mizuumi",
         "lake"
+      ],
+      [
+        "湖畔",
+        "kohan",
+        "lakeside"
+      ],
+      [
+        "湖水",
+        "kosui",
+        "lake water"
       ]
     ]
   },
@@ -2640,7 +4752,19 @@
     "level": "N4",
     "kanji": "族",
     "meaning": "Family / Tribe",
+    "onyomi": "ゾク",
+    "kunyomi": "",
     "ex": [
+      [
+        "家族",
+        "kazoku",
+        "family"
+      ],
+      [
+        "民族",
+        "minzoku",
+        "ethnic group"
+      ],
       [
         "家族",
         "kazoku",
@@ -2652,11 +4776,23 @@
     "level": "N4",
     "kanji": "夫",
     "meaning": "Husband",
+    "onyomi": "フ、フウ",
+    "kunyomi": "おっと",
     "ex": [
       [
         "夫婦",
         "fuufu",
         "married couple"
+      ],
+      [
+        "夫妻",
+        "fusai",
+        "husband and wife"
+      ],
+      [
+        "大丈夫",
+        "daijoubu",
+        "alright; OK"
       ]
     ]
   },
@@ -2664,11 +4800,23 @@
     "level": "N4",
     "kanji": "兄",
     "meaning": "Older brother",
+    "onyomi": "キョウ、ケイ",
+    "kunyomi": "あに",
     "ex": [
       [
         "兄弟",
         "kyoudai",
         "siblings"
+      ],
+      [
+        "兄さん",
+        "niisan",
+        "older brother (address)"
+      ],
+      [
+        "父兄",
+        "fukei",
+        "guardians (of students)"
       ]
     ]
   },
@@ -2676,11 +4824,23 @@
     "level": "N4",
     "kanji": "弟",
     "meaning": "Younger brother",
+    "onyomi": "テイ、ダイ",
+    "kunyomi": "おとうと",
     "ex": [
       [
         "兄弟",
         "kyoudai",
         "siblings"
+      ],
+      [
+        "弟子",
+        "deshi",
+        "apprentice; disciple"
+      ],
+      [
+        "弟妹",
+        "teimai",
+        "younger siblings"
       ]
     ]
   },
@@ -2688,11 +4848,23 @@
     "level": "N4",
     "kanji": "姉",
     "meaning": "Older sister",
+    "onyomi": "シ",
+    "kunyomi": "あね",
     "ex": [
       [
         "姉妹",
         "shimai",
         "sisters"
+      ],
+      [
+        "姉さん",
+        "neesan",
+        "older sister (address)"
+      ],
+      [
+        "姉ちゃん",
+        "neechan",
+        "big sis (casual)"
       ]
     ]
   },
@@ -2700,11 +4872,23 @@
     "level": "N4",
     "kanji": "妹",
     "meaning": "Younger sister",
+    "onyomi": "マイ",
+    "kunyomi": "いもうと",
     "ex": [
       [
         "姉妹",
         "shimai",
         "sisters"
+      ],
+      [
+        "妹さん",
+        "imoutosan",
+        "(someone's) younger sister"
+      ],
+      [
+        "兄弟姉妹",
+        "kyoudaishimai",
+        "siblings (all)"
       ]
     ]
   },
@@ -2712,11 +4896,23 @@
     "level": "N4",
     "kanji": "妻",
     "meaning": "Wife",
+    "onyomi": "サイ",
+    "kunyomi": "つま",
     "ex": [
       [
         "妻子",
         "saishi",
         "wife and children"
+      ],
+      [
+        "人妻",
+        "hitozuma",
+        "married woman"
+      ],
+      [
+        "妻",
+        "tsuma",
+        "wife"
       ]
     ]
   },
@@ -2724,11 +4920,23 @@
     "level": "N4",
     "kanji": "親",
     "meaning": "Parent / Intimate",
+    "onyomi": "シン",
+    "kunyomi": "おや、した・しい",
     "ex": [
       [
         "親切",
         "shinsetsu",
         "kindness"
+      ],
+      [
+        "両親",
+        "ryoushin",
+        "parents"
+      ],
+      [
+        "親友",
+        "shinyuu",
+        "close friend"
       ]
     ]
   },
@@ -2736,11 +4944,23 @@
     "level": "N4",
     "kanji": "供",
     "meaning": "Accompany / Offer",
+    "onyomi": "キョウ、ク",
+    "kunyomi": "とも、そな・える",
     "ex": [
       [
         "子供",
         "kodomo",
         "child"
+      ],
+      [
+        "供給",
+        "kyoukyuu",
+        "supply"
+      ],
+      [
+        "提供",
+        "teikyou",
+        "provision; offer"
       ]
     ]
   },
@@ -2748,11 +4968,23 @@
     "level": "N4",
     "kanji": "級",
     "meaning": "Class / Grade / Level",
+    "onyomi": "キュウ",
+    "kunyomi": "",
     "ex": [
       [
         "上級",
         "joukyuu",
         "advanced level"
+      ],
+      [
+        "学級",
+        "gakkyuu",
+        "class (school)"
+      ],
+      [
+        "級友",
+        "kyuuyuu",
+        "classmate"
       ]
     ]
   },
@@ -2760,11 +4992,23 @@
     "level": "N4",
     "kanji": "科",
     "meaning": "Department / Subject",
+    "onyomi": "カ",
+    "kunyomi": "",
     "ex": [
       [
         "科学",
         "kagaku",
         "science"
+      ],
+      [
+        "科目",
+        "kamoku",
+        "(school) subject"
+      ],
+      [
+        "内科",
+        "naika",
+        "internal medicine dept."
       ]
     ]
   },
@@ -2772,11 +5016,23 @@
     "level": "N4",
     "kanji": "研",
     "meaning": "Polish / Study",
+    "onyomi": "ケン",
+    "kunyomi": "と・ぐ",
     "ex": [
       [
         "研究",
         "kenkyuu",
         "research"
+      ],
+      [
+        "研修",
+        "kenshuu",
+        "training"
+      ],
+      [
+        "研究室",
+        "kenkyuushitsu",
+        "research lab"
       ]
     ]
   },
@@ -2784,11 +5040,23 @@
     "level": "N4",
     "kanji": "究",
     "meaning": "Investigate / Exhaust",
+    "onyomi": "キュウ",
+    "kunyomi": "きわ・める",
     "ex": [
       [
         "研究",
         "kenkyuu",
         "research"
+      ],
+      [
+        "追究",
+        "tsuikyuu",
+        "pursuit of truth"
+      ],
+      [
+        "究極",
+        "kyuukyoku",
+        "ultimate"
       ]
     ]
   },
@@ -2796,11 +5064,23 @@
     "level": "N4",
     "kanji": "留",
     "meaning": "Stay / Keep",
+    "onyomi": "リュウ、ル",
+    "kunyomi": "と・める、と・まる",
     "ex": [
       [
         "留学",
         "ryuugaku",
         "studying abroad"
+      ],
+      [
+        "留守",
+        "rusu",
+        "being away from home"
+      ],
+      [
+        "留学生",
+        "ryuugakusei",
+        "international student"
       ]
     ]
   },
@@ -2808,11 +5088,23 @@
     "level": "N4",
     "kanji": "意",
     "meaning": "Intention / Meaning",
+    "onyomi": "イ",
+    "kunyomi": "",
     "ex": [
       [
         "注意",
         "chuui",
         "caution"
+      ],
+      [
+        "意見",
+        "iken",
+        "opinion"
+      ],
+      [
+        "用意",
+        "youi",
+        "preparation"
       ]
     ]
   },
@@ -2820,11 +5112,23 @@
     "level": "N4",
     "kanji": "注",
     "meaning": "Pour / Note",
+    "onyomi": "チュウ",
+    "kunyomi": "そそ・ぐ",
     "ex": [
       [
         "注意",
         "chuui",
         "caution"
+      ],
+      [
+        "注文",
+        "chuumon",
+        "an order (for goods)"
+      ],
+      [
+        "注目",
+        "chuumoku",
+        "attention"
       ]
     ]
   },
@@ -2832,11 +5136,23 @@
     "level": "N4",
     "kanji": "家",
     "meaning": "House / Family",
+    "onyomi": "カ、ケ",
+    "kunyomi": "いえ、や",
     "ex": [
       [
         "家族",
         "kazoku",
         "family"
+      ],
+      [
+        "家庭",
+        "katei",
+        "household"
+      ],
+      [
+        "作家",
+        "sakka",
+        "author"
       ]
     ]
   },
@@ -2844,11 +5160,23 @@
     "level": "N4",
     "kanji": "体",
     "meaning": "Body",
+    "onyomi": "タイ、テイ",
+    "kunyomi": "からだ",
     "ex": [
       [
         "体力",
         "tairyoku",
         "physical strength"
+      ],
+      [
+        "体験",
+        "taiken",
+        "personal experience"
+      ],
+      [
+        "体育",
+        "taiiku",
+        "physical education"
       ]
     ]
   },
@@ -2856,11 +5184,23 @@
     "level": "N4",
     "kanji": "頭",
     "meaning": "Head",
+    "onyomi": "ズ、トウ",
+    "kunyomi": "あたま、かしら",
     "ex": [
       [
         "頭痛",
         "zutsuu",
         "headache"
+      ],
+      [
+        "頭がいい",
+        "atamagaii",
+        "smart"
+      ],
+      [
+        "先頭",
+        "sentou",
+        "the front; the head"
       ]
     ]
   },
@@ -2868,11 +5208,23 @@
     "level": "N4",
     "kanji": "顔",
     "meaning": "Face",
+    "onyomi": "ガン",
+    "kunyomi": "かお",
     "ex": [
       [
         "洗顔",
         "sengan",
         "face washing"
+      ],
+      [
+        "笑顔",
+        "egao",
+        "smiling face"
+      ],
+      [
+        "顔色",
+        "kaoiro",
+        "complexion; look on face"
       ]
     ]
   },
@@ -2880,11 +5232,23 @@
     "level": "N4",
     "kanji": "首",
     "meaning": "Neck",
+    "onyomi": "シュ",
+    "kunyomi": "くび",
     "ex": [
       [
         "首相",
         "shushou",
         "prime minister"
+      ],
+      [
+        "手首",
+        "tekubi",
+        "wrist"
+      ],
+      [
+        "首都",
+        "shuto",
+        "capital city"
       ]
     ]
   },
@@ -2892,11 +5256,23 @@
     "level": "N4",
     "kanji": "腹",
     "meaning": "Belly / Stomach",
+    "onyomi": "フク",
+    "kunyomi": "はら",
     "ex": [
       [
         "空腹",
         "kuufuku",
         "hunger"
+      ],
+      [
+        "腹痛",
+        "fukutsuu",
+        "stomachache"
+      ],
+      [
+        "満腹",
+        "manpuku",
+        "full stomach"
       ]
     ]
   },
@@ -2904,11 +5280,23 @@
     "level": "N4",
     "kanji": "背",
     "meaning": "Back / Height",
+    "onyomi": "ハイ",
+    "kunyomi": "せ、せい、そむ・く",
     "ex": [
       [
         "背中",
         "senaka",
         "back (of body)"
+      ],
+      [
+        "背が高い",
+        "segatakai",
+        "tall"
+      ],
+      [
+        "背骨",
+        "sebone",
+        "spine"
       ]
     ]
   },
@@ -2916,11 +5304,23 @@
     "level": "N4",
     "kanji": "声",
     "meaning": "Voice",
+    "onyomi": "セイ、ショウ",
+    "kunyomi": "こえ、こわ",
     "ex": [
       [
         "声優",
         "seiyuu",
         "voice actor"
+      ],
+      [
+        "声",
+        "koe",
+        "voice"
+      ],
+      [
+        "大声",
+        "oogoe",
+        "loud voice"
       ]
     ]
   },
@@ -2928,11 +5328,23 @@
     "level": "N4",
     "kanji": "色",
     "meaning": "Color",
+    "onyomi": "ショク、シキ",
+    "kunyomi": "いろ",
     "ex": [
       [
         "色々",
         "iroiro",
         "various"
+      ],
+      [
+        "色鉛筆",
+        "iroenpitsu",
+        "colored pencil"
+      ],
+      [
+        "景色",
+        "keshiki",
+        "scenery"
       ]
     ]
   },
@@ -2940,11 +5352,23 @@
     "level": "N4",
     "kanji": "形",
     "meaning": "Shape / Form",
+    "onyomi": "ケイ、ギョウ",
+    "kunyomi": "かたち、かた",
     "ex": [
       [
         "図形",
         "zukei",
         "geometric shape"
+      ],
+      [
+        "人形",
+        "ningyou",
+        "doll"
+      ],
+      [
+        "三角形",
+        "sankakukei",
+        "triangle"
       ]
     ]
   },
@@ -2952,11 +5376,23 @@
     "level": "N4",
     "kanji": "倍",
     "meaning": "Double / Times",
+    "onyomi": "バイ",
+    "kunyomi": "",
     "ex": [
       [
         "二倍",
         "nibai",
         "twice"
+      ],
+      [
+        "倍率",
+        "bairitsu",
+        "magnification; ratio"
+      ],
+      [
+        "何倍",
+        "nanbai",
+        "how many times"
       ]
     ]
   },
@@ -2964,11 +5400,23 @@
     "level": "N4",
     "kanji": "数",
     "meaning": "Number / Count",
+    "onyomi": "スウ、ス",
+    "kunyomi": "かず、かぞ・える",
     "ex": [
       [
         "数学",
         "suugaku",
         "mathematics"
+      ],
+      [
+        "数える",
+        "kazoeru",
+        "to count"
+      ],
+      [
+        "人数",
+        "ninzuu",
+        "number of people"
       ]
     ]
   },
@@ -2976,11 +5424,23 @@
     "level": "N4",
     "kanji": "計",
     "meaning": "Measure / Plan",
+    "onyomi": "ケイ",
+    "kunyomi": "はか・る",
     "ex": [
       [
         "時計",
         "tokei",
         "clock; watch"
+      ],
+      [
+        "計画",
+        "keikaku",
+        "plan"
+      ],
+      [
+        "合計",
+        "goukei",
+        "total"
       ]
     ]
   },
@@ -2988,11 +5448,23 @@
     "level": "N4",
     "kanji": "量",
     "meaning": "Quantity",
+    "onyomi": "リョウ",
+    "kunyomi": "はか・る",
     "ex": [
       [
         "分量",
         "bunryou",
         "amount"
+      ],
+      [
+        "量る",
+        "hakaru",
+        "to measure (weight/volume)"
+      ],
+      [
+        "大量",
+        "tairyou",
+        "large amount"
       ]
     ]
   },
@@ -3000,11 +5472,23 @@
     "level": "N4",
     "kanji": "重",
     "meaning": "Heavy / Important",
+    "onyomi": "ジュウ、チョウ",
+    "kunyomi": "おも・い、かさ・ねる",
     "ex": [
       [
         "重要",
         "juuyou",
         "important"
+      ],
+      [
+        "体重",
+        "taijuu",
+        "body weight"
+      ],
+      [
+        "重い",
+        "omoi",
+        "heavy"
       ]
     ]
   },
@@ -3012,11 +5496,23 @@
     "level": "N4",
     "kanji": "軽",
     "meaning": "Light (weight)",
+    "onyomi": "ケイ",
+    "kunyomi": "かる・い",
     "ex": [
       [
         "軽食",
         "keishoku",
         "light meal"
+      ],
+      [
+        "軽い",
+        "karui",
+        "light (weight)"
+      ],
+      [
+        "軽自動車",
+        "keijidousha",
+        "kei car"
       ]
     ]
   },
@@ -3024,11 +5520,23 @@
     "level": "N4",
     "kanji": "強",
     "meaning": "Strong",
+    "onyomi": "キョウ",
+    "kunyomi": "つよ・い、し・いる",
     "ex": [
       [
         "強調",
         "kyouchou",
         "emphasis"
+      ],
+      [
+        "強調",
+        "kyouchou",
+        "emphasis"
+      ],
+      [
+        "勉強",
+        "benkyou",
+        "study"
       ]
     ]
   },
@@ -3036,11 +5544,23 @@
     "level": "N4",
     "kanji": "弱",
     "meaning": "Weak",
+    "onyomi": "ジャク",
+    "kunyomi": "よわ・い、よわ・める",
     "ex": [
       [
         "弱点",
         "jakuten",
         "weak point"
+      ],
+      [
+        "弱い",
+        "yowai",
+        "weak"
+      ],
+      [
+        "弱さ",
+        "yowasa",
+        "weakness"
       ]
     ]
   },
@@ -3048,11 +5568,23 @@
     "level": "N4",
     "kanji": "太",
     "meaning": "Fat / Thick",
+    "onyomi": "タイ、タ",
+    "kunyomi": "ふと・い、ふと・る",
     "ex": [
       [
         "太陽",
         "taiyou",
         "sun"
+      ],
+      [
+        "太い",
+        "futoi",
+        "thick; fat"
+      ],
+      [
+        "太る",
+        "futoru",
+        "to gain weight"
       ]
     ]
   },
@@ -3060,11 +5592,23 @@
     "level": "N4",
     "kanji": "細",
     "meaning": "Thin / Detailed",
+    "onyomi": "サイ",
+    "kunyomi": "ほそ・い、こま・かい",
     "ex": [
       [
         "細かい",
         "komakai",
         "detailed"
+      ],
+      [
+        "細い",
+        "hosoi",
+        "thin (shape)"
+      ],
+      [
+        "細長い",
+        "hosonagai",
+        "long and thin"
       ]
     ]
   },
@@ -3072,11 +5616,23 @@
     "level": "N4",
     "kanji": "好",
     "meaning": "Like / Fond",
+    "onyomi": "コウ",
+    "kunyomi": "す・き、この・む、よ・い",
     "ex": [
       [
         "好意",
         "koui",
         "goodwill"
+      ],
+      [
+        "好き",
+        "suki",
+        "liked; favorite"
+      ],
+      [
+        "好物",
+        "koubutsu",
+        "favorite food"
       ]
     ]
   },
@@ -3084,11 +5640,23 @@
     "level": "N4",
     "kanji": "悪",
     "meaning": "Bad / Evil",
+    "onyomi": "アク、オ",
+    "kunyomi": "わる・い、にく・む",
     "ex": [
       [
         "悪化",
         "akka",
         "deterioration"
+      ],
+      [
+        "悪い",
+        "warui",
+        "bad"
+      ],
+      [
+        "最悪",
+        "saiaku",
+        "the worst"
       ]
     ]
   },
@@ -3096,11 +5664,23 @@
     "level": "N4",
     "kanji": "正",
     "meaning": "Correct / Right",
+    "onyomi": "セイ、ショウ",
+    "kunyomi": "ただ・しい、まさ",
     "ex": [
       [
         "正解",
         "seikai",
         "correct answer"
+      ],
+      [
+        "正しい",
+        "tadashii",
+        "correct"
+      ],
+      [
+        "正月",
+        "shougatsu",
+        "New Year"
       ]
     ]
   },
@@ -3108,11 +5688,23 @@
     "level": "N4",
     "kanji": "反",
     "meaning": "Oppose / Anti",
+    "onyomi": "ハン、ホン、タン",
+    "kunyomi": "そ・る、そ・らす",
     "ex": [
       [
         "反対",
         "hantai",
         "opposition"
+      ],
+      [
+        "反省",
+        "hansei",
+        "reflection; regret"
+      ],
+      [
+        "反応",
+        "hannou",
+        "reaction"
       ]
     ]
   },
@@ -3120,11 +5712,23 @@
     "level": "N4",
     "kanji": "必",
     "meaning": "Necessary",
+    "onyomi": "ヒツ",
+    "kunyomi": "かなら・ず",
     "ex": [
       [
         "必要",
         "hitsuyou",
         "necessary"
+      ],
+      [
+        "必ず",
+        "kanarazu",
+        "certainly; without fail"
+      ],
+      [
+        "必死",
+        "hisshi",
+        "desperate"
       ]
     ]
   },
@@ -3132,11 +5736,23 @@
     "level": "N4",
     "kanji": "要",
     "meaning": "Need / Essential",
+    "onyomi": "ヨウ",
+    "kunyomi": "い・る、かなめ",
     "ex": [
       [
         "重要",
         "juuyou",
         "important"
+      ],
+      [
+        "必要",
+        "hitsuyou",
+        "necessary"
+      ],
+      [
+        "要求",
+        "youkyuu",
+        "demand; request"
       ]
     ]
   },
@@ -3144,11 +5760,23 @@
     "level": "N4",
     "kanji": "由",
     "meaning": "Reason / Cause",
+    "onyomi": "ユ、ユウ、ユイ",
+    "kunyomi": "よし、よ・る",
     "ex": [
       [
         "理由",
         "riyuu",
         "reason"
+      ],
+      [
+        "自由",
+        "jiyuu",
+        "freedom"
+      ],
+      [
+        "経由",
+        "keiyu",
+        "via; by way of"
       ]
     ]
   },
@@ -3156,11 +5784,23 @@
     "level": "N4",
     "kanji": "理",
     "meaning": "Reason / Logic",
+    "onyomi": "リ",
+    "kunyomi": "",
     "ex": [
       [
         "理由",
         "riyuu",
         "reason"
+      ],
+      [
+        "料理",
+        "ryouri",
+        "cooking; cuisine"
+      ],
+      [
+        "無理",
+        "muri",
+        "impossible; unreasonable"
       ]
     ]
   },
@@ -3168,11 +5808,23 @@
     "level": "N4",
     "kanji": "両",
     "meaning": "Both",
+    "onyomi": "リョウ",
+    "kunyomi": "",
     "ex": [
       [
         "両方",
         "ryouhou",
         "both sides"
+      ],
+      [
+        "両親",
+        "ryoushin",
+        "parents"
+      ],
+      [
+        "両手",
+        "ryoute",
+        "both hands"
       ]
     ]
   },
@@ -3180,11 +5832,23 @@
     "level": "N4",
     "kanji": "他",
     "meaning": "Other",
+    "onyomi": "タ",
+    "kunyomi": "ほか",
     "ex": [
       [
         "その他",
         "sonota",
         "others; etc."
+      ],
+      [
+        "他人",
+        "tanin",
+        "another person; stranger"
+      ],
+      [
+        "他の",
+        "hokano",
+        "other"
       ]
     ]
   },
@@ -3192,11 +5856,23 @@
     "level": "N4",
     "kanji": "特",
     "meaning": "Special",
+    "onyomi": "トク",
+    "kunyomi": "",
     "ex": [
       [
         "特別",
         "tokubetsu",
         "special"
+      ],
+      [
+        "独特",
+        "dokutoku",
+        "unique"
+      ],
+      [
+        "特に",
+        "tokuni",
+        "especially"
       ]
     ]
   },
@@ -3204,11 +5880,23 @@
     "level": "N4",
     "kanji": "別",
     "meaning": "Separate / Different",
+    "onyomi": "ベツ",
+    "kunyomi": "わか・れる",
     "ex": [
       [
         "特別",
         "tokubetsu",
         "special"
+      ],
+      [
+        "別々",
+        "betsubetsu",
+        "separately"
+      ],
+      [
+        "別れる",
+        "wakareru",
+        "to part ways"
       ]
     ]
   },
@@ -3216,11 +5904,23 @@
     "level": "N4",
     "kanji": "相",
     "meaning": "Mutual / Each other",
+    "onyomi": "ソウ、ショウ",
+    "kunyomi": "あい",
     "ex": [
       [
         "相談",
         "soudan",
         "consultation"
+      ],
+      [
+        "相手",
+        "aite",
+        "partner; opponent"
+      ],
+      [
+        "相互",
+        "sougo",
+        "mutual"
       ]
     ]
   },
@@ -3228,11 +5928,23 @@
     "level": "N4",
     "kanji": "談",
     "meaning": "Talk / Discuss",
+    "onyomi": "ダン",
+    "kunyomi": "",
     "ex": [
       [
         "相談",
         "soudan",
         "consultation"
+      ],
+      [
+        "談話",
+        "danwa",
+        "conversation; chat"
+      ],
+      [
+        "冗談",
+        "joudan",
+        "joke"
       ]
     ]
   },
@@ -3240,11 +5952,23 @@
     "level": "N4",
     "kanji": "交",
     "meaning": "Exchange / Cross",
+    "onyomi": "コウ",
+    "kunyomi": "まじ・わる、か・う",
     "ex": [
       [
         "交通",
         "koutsuu",
         "traffic; transportation"
+      ],
+      [
+        "交換",
+        "koukan",
+        "exchange"
+      ],
+      [
+        "社交",
+        "shakou",
+        "socializing"
       ]
     ]
   },
@@ -3252,11 +5976,23 @@
     "level": "N4",
     "kanji": "通",
     "meaning": "Pass through / Commute",
+    "onyomi": "ツウ",
+    "kunyomi": "とお・る、かよ・う",
     "ex": [
       [
         "交通",
         "koutsuu",
         "traffic; transportation"
+      ],
+      [
+        "通勤",
+        "tsuukin",
+        "commuting to work"
+      ],
+      [
+        "普通",
+        "futsuu",
+        "normal; usual"
       ]
     ]
   },
@@ -3264,11 +6000,23 @@
     "level": "N4",
     "kanji": "同",
     "meaning": "Same",
+    "onyomi": "ドウ",
+    "kunyomi": "おな・じ",
     "ex": [
       [
         "同時",
         "douji",
         "simultaneously"
+      ],
+      [
+        "同じ",
+        "onaji",
+        "same"
+      ],
+      [
+        "同級生",
+        "doukyuusei",
+        "classmate"
       ]
     ]
   },
@@ -3276,11 +6024,23 @@
     "level": "N4",
     "kanji": "変",
     "meaning": "Change / Strange",
+    "onyomi": "ヘン",
+    "kunyomi": "か・える、か・わる",
     "ex": [
       [
         "変化",
         "henka",
         "change"
+      ],
+      [
+        "変な",
+        "henna",
+        "strange"
+      ],
+      [
+        "大変",
+        "taihen",
+        "tough; a big deal"
       ]
     ]
   },
@@ -3288,11 +6048,23 @@
     "level": "N4",
     "kanji": "化",
     "meaning": "Change / Transform",
+    "onyomi": "カ、ケ",
+    "kunyomi": "ば・ける、ば・かす",
     "ex": [
       [
         "文化",
         "bunka",
         "culture"
+      ],
+      [
+        "化学",
+        "kagaku",
+        "chemistry"
+      ],
+      [
+        "進化",
+        "shinka",
+        "evolution"
       ]
     ]
   },
