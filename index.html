@@ -172,7 +172,7 @@
 
         window.addEventListener('load', async () => {
             try {
-                const response = await fetch('./kanji.json');
+                const response = await fetch('./kanji.json?v=' + Date.now());
                 DATA = await response.json();
             } catch (err) {
                 console.error("Could not load kanji.json, fallback to embedded data", err);
