@@ -6071,12 +6071,19 @@
   {
     "level": "N3",
     "kanji": "政",
-    "meaning": "Politics",
+    "meaning": "Government / Politics",
+    "onyomi": "セイ、ショウ",
+    "kunyomi": "まつりごと",
     "ex": [
       [
         "政治",
         "seiji",
         "politics"
+      ],
+      [
+        "行政",
+        "gyousei",
+        "administration"
       ],
       [
         "政府",
@@ -6087,8 +6094,634 @@
   },
   {
     "level": "N3",
+    "kanji": "議",
+    "meaning": "Discuss / Debate",
+    "onyomi": "ギ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "会議",
+        "kaigi",
+        "meeting"
+      ],
+      [
+        "議論",
+        "giron",
+        "discussion"
+      ],
+      [
+        "議員",
+        "giin",
+        "member of parliament"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "民",
+    "meaning": "People / Nation",
+    "onyomi": "ミン",
+    "kunyomi": "たみ",
+    "ex": [
+      [
+        "国民",
+        "kokumin",
+        "citizen"
+      ],
+      [
+        "民間",
+        "minkan",
+        "private sector"
+      ],
+      [
+        "民族",
+        "minzoku",
+        "ethnic group"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "選",
+    "meaning": "Choose / Elect",
+    "onyomi": "セン",
+    "kunyomi": "えらぶ",
+    "ex": [
+      [
+        "選挙",
+        "senkyo",
+        "election"
+      ],
+      [
+        "選手",
+        "senshu",
+        "athlete"
+      ],
+      [
+        "選択",
+        "sentaku",
+        "choice"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "戦",
+    "meaning": "War / Battle",
+    "onyomi": "セン",
+    "kunyomi": "いくさ、たたかう",
+    "ex": [
+      [
+        "戦争",
+        "sensou",
+        "war"
+      ],
+      [
+        "挑戦",
+        "chousen",
+        "challenge"
+      ],
+      [
+        "戦う",
+        "tatakau",
+        "to fight"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "官",
+    "meaning": "Bureaucrat / Government",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "ex": [
+      [
+        "官僚",
+        "kanryou",
+        "bureaucrat"
+      ],
+      [
+        "警官",
+        "keikan",
+        "police officer"
+      ],
+      [
+        "官庁",
+        "kanchou",
+        "government office"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "権",
+    "meaning": "Right / Authority",
+    "onyomi": "ケン、ゴン",
+    "kunyomi": "",
+    "ex": [
+      [
+        "権利",
+        "kenri",
+        "right"
+      ],
+      [
+        "人権",
+        "jinken",
+        "human rights"
+      ],
+      [
+        "権力",
+        "kenryoku",
+        "power; authority"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "制",
+    "meaning": "System / Control",
+    "onyomi": "セイ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "制度",
+        "seido",
+        "system"
+      ],
+      [
+        "規制",
+        "kisei",
+        "regulation"
+      ],
+      [
+        "制服",
+        "seifuku",
+        "uniform"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "治",
+    "meaning": "Reign / Govern / Cure",
+    "onyomi": "ジ、チ",
+    "kunyomi": "おさめる、なおる",
+    "ex": [
+      [
+        "政治",
+        "seiji",
+        "politics"
+      ],
+      [
+        "治療",
+        "chiryou",
+        "medical treatment"
+      ],
+      [
+        "自治",
+        "jichi",
+        "self-government"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "法",
+    "meaning": "Law / Method",
+    "onyomi": "ホウ、ホッ、ハッ",
+    "kunyomi": "のり",
+    "ex": [
+      [
+        "方法",
+        "houhou",
+        "method"
+      ],
+      [
+        "法律",
+        "houritsu",
+        "law"
+      ],
+      [
+        "文法",
+        "bunpou",
+        "grammar"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "判",
+    "meaning": "Judge / Seal",
+    "onyomi": "ハン、バン",
+    "kunyomi": "",
+    "ex": [
+      [
+        "判断",
+        "handan",
+        "judgment"
+      ],
+      [
+        "裁判",
+        "saiban",
+        "trial"
+      ],
+      [
+        "評判",
+        "hyouban",
+        "reputation"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "告",
+    "meaning": "Tell / Announce",
+    "onyomi": "コク",
+    "kunyomi": "つげる",
+    "ex": [
+      [
+        "広告",
+        "koukoku",
+        "advertisement"
+      ],
+      [
+        "報告",
+        "houkoku",
+        "report"
+      ],
+      [
+        "告白",
+        "kokuhaku",
+        "confession"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "認",
+    "meaning": "Acknowledge / Recognize",
+    "onyomi": "ニン",
+    "kunyomi": "みとめる",
+    "ex": [
+      [
+        "確認",
+        "kakunin",
+        "confirmation"
+      ],
+      [
+        "認識",
+        "ninshiki",
+        "recognition"
+      ],
+      [
+        "認める",
+        "mitomeru",
+        "to acknowledge"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "参",
+    "meaning": "Participate / Visit shrine",
+    "onyomi": "サン",
+    "kunyomi": "まいる",
+    "ex": [
+      [
+        "参加",
+        "sanka",
+        "participation"
+      ],
+      [
+        "参考",
+        "sankou",
+        "reference"
+      ],
+      [
+        "参議院",
+        "sangiin",
+        "House of Councillors"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "任",
+    "meaning": "Entrust / Responsibility",
+    "onyomi": "ニン",
+    "kunyomi": "まかせる、まかす",
+    "ex": [
+      [
+        "責任",
+        "sekinin",
+        "responsibility"
+      ],
+      [
+        "任務",
+        "ninmu",
+        "duty"
+      ],
+      [
+        "任命",
+        "ninmei",
+        "appointment"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "論",
+    "meaning": "Argument / Theory",
+    "onyomi": "ロン",
+    "kunyomi": "あげつらう",
+    "ex": [
+      [
+        "議論",
+        "giron",
+        "argument"
+      ],
+      [
+        "理論",
+        "riron",
+        "theory"
+      ],
+      [
+        "論文",
+        "ronbun",
+        "thesis; essay"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "争",
+    "meaning": "Contend / Dispute",
+    "onyomi": "ソウ",
+    "kunyomi": "あらそう",
+    "ex": [
+      [
+        "戦争",
+        "sensou",
+        "war"
+      ],
+      [
+        "論争",
+        "ronsou",
+        "controversy"
+      ],
+      [
+        "競争",
+        "kyousou",
+        "competition"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "勝",
+    "meaning": "Victory / Win",
+    "onyomi": "ショウ",
+    "kunyomi": "かつ、まさる",
+    "ex": [
+      [
+        "勝利",
+        "shouri",
+        "victory"
+      ],
+      [
+        "優勝",
+        "yuushou",
+        "championship"
+      ],
+      [
+        "勝つ",
+        "katsu",
+        "to win"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "負",
+    "meaning": "Defeat / Bear",
+    "onyomi": "フ",
+    "kunyomi": "まける、おう",
+    "ex": [
+      [
+        "勝負",
+        "shoubu",
+        "match"
+      ],
+      [
+        "負担",
+        "futan",
+        "burden"
+      ],
+      [
+        "負ける",
+        "makeru",
+        "to lose"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "敗",
+    "meaning": "Failure / Defeat",
+    "onyomi": "ハイ",
+    "kunyomi": "やぶれる",
+    "ex": [
+      [
+        "失敗",
+        "shippai",
+        "failure"
+      ],
+      [
+        "敗北",
+        "haiboku",
+        "defeat"
+      ],
+      [
+        "敗因",
+        "haiin",
+        "cause of defeat"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "警",
+    "meaning": "Admonish / Warning",
+    "onyomi": "ケイ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "警察",
+        "keisatsu",
+        "police"
+      ],
+      [
+        "警告",
+        "keikoku",
+        "warning"
+      ],
+      [
+        "警備",
+        "keibi",
+        "security guard duty"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "察",
+    "meaning": "Guess / Judge",
+    "onyomi": "サツ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "観察",
+        "kansatsu",
+        "observation"
+      ],
+      [
+        "警察",
+        "keisatsu",
+        "police"
+      ],
+      [
+        "察する",
+        "sassuru",
+        "to sense; to guess"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "罪",
+    "meaning": "Guilt / Crime",
+    "onyomi": "ザイ",
+    "kunyomi": "つみ",
+    "ex": [
+      [
+        "犯罪",
+        "hanzai",
+        "crime"
+      ],
+      [
+        "有罪",
+        "yuuzai",
+        "guilty"
+      ],
+      [
+        "罪人",
+        "zainin",
+        "criminal"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "犯",
+    "meaning": "Crime / Commit",
+    "onyomi": "ハン",
+    "kunyomi": "おかす",
+    "ex": [
+      [
+        "犯罪",
+        "hanzai",
+        "crime"
+      ],
+      [
+        "犯人",
+        "hannin",
+        "criminal"
+      ],
+      [
+        "犯す",
+        "okasu",
+        "to commit (a crime)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "部",
+    "meaning": "Section / Department",
+    "onyomi": "ブ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "部分",
+        "bubun",
+        "part"
+      ],
+      [
+        "部長",
+        "buchou",
+        "department manager"
+      ],
+      [
+        "部屋",
+        "heya",
+        "room"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "市",
+    "meaning": "City / Market",
+    "onyomi": "シ",
+    "kunyomi": "いち",
+    "ex": [
+      [
+        "市場",
+        "shijou",
+        "market"
+      ],
+      [
+        "都市",
+        "toshi",
+        "city"
+      ],
+      [
+        "市民",
+        "shimin",
+        "citizen"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "米",
+    "meaning": "Rice / USA",
+    "onyomi": "ベイ、マイ",
+    "kunyomi": "こめ",
+    "ex": [
+      [
+        "米国",
+        "beikoku",
+        "USA"
+      ],
+      [
+        "新米",
+        "shinmai",
+        "beginner"
+      ],
+      [
+        "米",
+        "kome",
+        "rice"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
     "kanji": "経",
-    "meaning": "Pass through",
+    "meaning": "Pass through / Manage",
+    "onyomi": "ケイ、キョウ",
+    "kunyomi": "へる、たつ",
     "ex": [
       [
         "経済",
@@ -6099,6 +6732,1763 @@
         "経験",
         "keiken",
         "experience"
+      ],
+      [
+        "経営",
+        "keiei",
+        "management"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "済",
+    "meaning": "Settle / Finish",
+    "onyomi": "サイ、セイ",
+    "kunyomi": "すむ、すます",
+    "ex": [
+      [
+        "経済",
+        "keizai",
+        "economy"
+      ],
+      [
+        "返済",
+        "hensai",
+        "repayment"
+      ],
+      [
+        "済む",
+        "sumu",
+        "to be finished"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "務",
+    "meaning": "Task / Duty",
+    "onyomi": "ム",
+    "kunyomi": "つとめる、つとまる",
+    "ex": [
+      [
+        "義務",
+        "gimu",
+        "duty"
+      ],
+      [
+        "事務",
+        "jimu",
+        "office work"
+      ],
+      [
+        "公務員",
+        "koumuin",
+        "civil servant"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "成",
+    "meaning": "Become / Achieve",
+    "onyomi": "セイ、ジョウ",
+    "kunyomi": "なる",
+    "ex": [
+      [
+        "成功",
+        "seikou",
+        "success"
+      ],
+      [
+        "完成",
+        "kansei",
+        "completion"
+      ],
+      [
+        "成長",
+        "seichou",
+        "growth"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "報",
+    "meaning": "Report / Reward",
+    "onyomi": "ホウ",
+    "kunyomi": "むくいる",
+    "ex": [
+      [
+        "報告",
+        "houkoku",
+        "report"
+      ],
+      [
+        "情報",
+        "jouhou",
+        "information"
+      ],
+      [
+        "報道",
+        "houdou",
+        "news report"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "資",
+    "meaning": "Assets / Capital",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "資料",
+        "shiryou",
+        "materials"
+      ],
+      [
+        "投資",
+        "toushi",
+        "investment"
+      ],
+      [
+        "資金",
+        "shikin",
+        "funds"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "利",
+    "meaning": "Profit / Advantage",
+    "onyomi": "リ",
+    "kunyomi": "きく",
+    "ex": [
+      [
+        "利益",
+        "rieki",
+        "profit"
+      ],
+      [
+        "便利",
+        "benri",
+        "convenient"
+      ],
+      [
+        "利用",
+        "riyou",
+        "use; utilization"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "組",
+    "meaning": "Construct / Team",
+    "onyomi": "ソ",
+    "kunyomi": "くむ、くみ",
+    "ex": [
+      [
+        "組織",
+        "soshiki",
+        "organization"
+      ],
+      [
+        "番組",
+        "bangumi",
+        "program"
+      ],
+      [
+        "組み合わせ",
+        "kumiawase",
+        "combination"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "増",
+    "meaning": "Increase",
+    "onyomi": "ゾウ",
+    "kunyomi": "ます、ふえる、ふやす",
+    "ex": [
+      [
+        "増加",
+        "zouka",
+        "increase"
+      ],
+      [
+        "人口増",
+        "jinkouzou",
+        "population growth"
+      ],
+      [
+        "増える",
+        "fueru",
+        "to increase"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "職",
+    "meaning": "Employment / Post",
+    "onyomi": "ショク",
+    "kunyomi": "",
+    "ex": [
+      [
+        "職業",
+        "shokugyou",
+        "occupation"
+      ],
+      [
+        "転職",
+        "tenshoku",
+        "job change"
+      ],
+      [
+        "就職",
+        "shuushoku",
+        "finding employment"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "役",
+    "meaning": "Duty / Role",
+    "onyomi": "ヤク、エキ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "役割",
+        "yakuwari",
+        "role"
+      ],
+      [
+        "主役",
+        "shuyaku",
+        "leading role"
+      ],
+      [
+        "役に立つ",
+        "yakunitatsu",
+        "to be useful"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "構",
+    "meaning": "Construct / Posture",
+    "onyomi": "コウ",
+    "kunyomi": "かまう",
+    "ex": [
+      [
+        "構造",
+        "kouzou",
+        "structure"
+      ],
+      [
+        "機構",
+        "kikou",
+        "mechanism"
+      ],
+      [
+        "結構",
+        "kekkou",
+        "fine; sufficient"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "割",
+    "meaning": "Divide / Proportion",
+    "onyomi": "カツ",
+    "kunyomi": "わる、わり",
+    "ex": [
+      [
+        "役割",
+        "yakuwari",
+        "role"
+      ],
+      [
+        "分割",
+        "bunkatsu",
+        "division"
+      ],
+      [
+        "割合",
+        "wariai",
+        "ratio; proportion"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "費",
+    "meaning": "Expense / Consume",
+    "onyomi": "ヒ",
+    "kunyomi": "ついやす",
+    "ex": [
+      [
+        "費用",
+        "hiyou",
+        "cost"
+      ],
+      [
+        "消費",
+        "shouhi",
+        "consumption"
+      ],
+      [
+        "食費",
+        "shokuhi",
+        "food expenses"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "収",
+    "meaning": "Income / Obtain",
+    "onyomi": "シュウ",
+    "kunyomi": "おさめる",
+    "ex": [
+      [
+        "収入",
+        "shuunyuu",
+        "income"
+      ],
+      [
+        "回収",
+        "kaishuu",
+        "collection"
+      ],
+      [
+        "収入",
+        "shuunyuu",
+        "income"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "商",
+    "meaning": "Deal / Merchant",
+    "onyomi": "ショウ",
+    "kunyomi": "あきなう",
+    "ex": [
+      [
+        "商品",
+        "shouhin",
+        "product"
+      ],
+      [
+        "商業",
+        "shougyou",
+        "commerce"
+      ],
+      [
+        "商店",
+        "shouten",
+        "shop"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "労",
+    "meaning": "Labor / Toil",
+    "onyomi": "ロウ",
+    "kunyomi": "ろうする、いたわる",
+    "ex": [
+      [
+        "労働",
+        "roudou",
+        "labor"
+      ],
+      [
+        "疲労",
+        "hirou",
+        "fatigue"
+      ],
+      [
+        "労力",
+        "rouryoku",
+        "effort; labor"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "財",
+    "meaning": "Property / Wealth",
+    "onyomi": "ザイ、サイ、ゾク",
+    "kunyomi": "",
+    "ex": [
+      [
+        "財産",
+        "zaisan",
+        "property"
+      ],
+      [
+        "財政",
+        "zaisei",
+        "finance"
+      ],
+      [
+        "財布",
+        "saifu",
+        "wallet"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "値",
+    "meaning": "Price / Value",
+    "onyomi": "チ",
+    "kunyomi": "ね、あたい",
+    "ex": [
+      [
+        "価値",
+        "kachi",
+        "value"
+      ],
+      [
+        "値段",
+        "nedan",
+        "price"
+      ],
+      [
+        "数値",
+        "suuchi",
+        "numerical value"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "積",
+    "meaning": "Pile up / Volume",
+    "onyomi": "セキ",
+    "kunyomi": "つむ、つもる",
+    "ex": [
+      [
+        "体積",
+        "taiseki",
+        "volume"
+      ],
+      [
+        "積極的",
+        "sekkyokuteki",
+        "positive"
+      ],
+      [
+        "面積",
+        "menseki",
+        "surface area"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "給",
+    "meaning": "Salary / Supply",
+    "onyomi": "キュウ",
+    "kunyomi": "たまう、たもう",
+    "ex": [
+      [
+        "給料",
+        "kyuuryou",
+        "salary"
+      ],
+      [
+        "供給",
+        "kyoukyuu",
+        "supply"
+      ],
+      [
+        "給食",
+        "kyuushoku",
+        "school lunch"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "客",
+    "meaning": "Customer / Guest",
+    "onyomi": "キャク、カク",
+    "kunyomi": "",
+    "ex": [
+      [
+        "客室",
+        "kyakushitsu",
+        "guest room"
+      ],
+      [
+        "乗客",
+        "joukyaku",
+        "passenger"
+      ],
+      [
+        "観光客",
+        "kankoukyaku",
+        "tourist"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "賛",
+    "meaning": "Approve / Praise",
+    "onyomi": "サン",
+    "kunyomi": "",
+    "ex": [
+      [
+        "賛成",
+        "sansei",
+        "approval"
+      ],
+      [
+        "協賛",
+        "kyousan",
+        "support"
+      ],
+      [
+        "賛同",
+        "sandou",
+        "agreement; support"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "富",
+    "meaning": "Wealth / Abundant",
+    "onyomi": "フ、フウ",
+    "kunyomi": "とむ、とみ",
+    "ex": [
+      [
+        "富士山",
+        "fujisan",
+        "Mt. Fuji"
+      ],
+      [
+        "豊富",
+        "houfu",
+        "abundant"
+      ],
+      [
+        "富む",
+        "tomu",
+        "to be rich"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "易",
+    "meaning": "Easy / Simple",
+    "onyomi": "エキ、イ",
+    "kunyomi": "やさしい、やすい",
+    "ex": [
+      [
+        "容易",
+        "youi",
+        "easy"
+      ],
+      [
+        "貿易",
+        "boueki",
+        "trade"
+      ],
+      [
+        "安易",
+        "ani",
+        "easy; simplistic"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "勤",
+    "meaning": "Work for / Serve",
+    "onyomi": "キン、ゴン",
+    "kunyomi": "つとめる、つとまる",
+    "ex": [
+      [
+        "勤務",
+        "kinmu",
+        "service"
+      ],
+      [
+        "出勤",
+        "shukkin",
+        "going to work"
+      ],
+      [
+        "勤める",
+        "tsutomeru",
+        "to work for (a company)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "約",
+    "meaning": "Approximately / Promise",
+    "onyomi": "ヤク",
+    "kunyomi": "つづまる",
+    "ex": [
+      [
+        "約束",
+        "yakusoku",
+        "promise"
+      ],
+      [
+        "予約",
+        "yoyaku",
+        "reservation"
+      ],
+      [
+        "大約",
+        "taiyaku",
+        "approximately"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "件",
+    "meaning": "Matter / Case",
+    "onyomi": "ケン",
+    "kunyomi": "くだん",
+    "ex": [
+      [
+        "事件",
+        "jiken",
+        "incident"
+      ],
+      [
+        "条件",
+        "jouken",
+        "condition"
+      ],
+      [
+        "用件",
+        "youken",
+        "business matter"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "係",
+    "meaning": "Person in charge",
+    "onyomi": "ケイ",
+    "kunyomi": "かかる、かかり",
+    "ex": [
+      [
+        "関係",
+        "kankei",
+        "relation"
+      ],
+      [
+        "係員",
+        "kakariin",
+        "attendant"
+      ],
+      [
+        "関係者",
+        "kankeisha",
+        "person concerned"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "位",
+    "meaning": "Rank / Position",
+    "onyomi": "イ",
+    "kunyomi": "くらい",
+    "ex": [
+      [
+        "地位",
+        "chii",
+        "position"
+      ],
+      [
+        "単位",
+        "tani",
+        "unit"
+      ],
+      [
+        "一位",
+        "ichii",
+        "first place"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "格",
+    "meaning": "Status / Rank",
+    "onyomi": "カク、コウ、キャク",
+    "kunyomi": "",
+    "ex": [
+      [
+        "資格",
+        "shikaku",
+        "qualification"
+      ],
+      [
+        "格差",
+        "kakusa",
+        "gap"
+      ],
+      [
+        "性格",
+        "seikaku",
+        "personality"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "局",
+    "meaning": "Bureau / Situation",
+    "onyomi": "キョク",
+    "kunyomi": "",
+    "ex": [
+      [
+        "局面",
+        "kyokumen",
+        "situation"
+      ],
+      [
+        "結局",
+        "kekkyoku",
+        "after all"
+      ],
+      [
+        "薬局",
+        "yakkyoku",
+        "pharmacy"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "規",
+    "meaning": "Standard / Measure",
+    "onyomi": "キ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "規則",
+        "kisoku",
+        "rule"
+      ],
+      [
+        "規模",
+        "kibo",
+        "scale"
+      ],
+      [
+        "規定",
+        "kitei",
+        "regulation"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "記",
+    "meaning": "Write down / Record",
+    "onyomi": "キ",
+    "kunyomi": "しるす",
+    "ex": [
+      [
+        "記録",
+        "kiroku",
+        "record"
+      ],
+      [
+        "記事",
+        "kiji",
+        "article"
+      ],
+      [
+        "日記",
+        "nikki",
+        "diary"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "例",
+    "meaning": "Example",
+    "onyomi": "レイ",
+    "kunyomi": "たとえば",
+    "ex": [
+      [
+        "例外",
+        "reigai",
+        "exception"
+      ],
+      [
+        "実例",
+        "jitsurei",
+        "example"
+      ],
+      [
+        "例えば",
+        "tatoeba",
+        "for example"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "伝",
+    "meaning": "Transmit / Communicate",
+    "onyomi": "デン",
+    "kunyomi": "つたわる、つたえる",
+    "ex": [
+      [
+        "伝統",
+        "dentou",
+        "tradition"
+      ],
+      [
+        "伝言",
+        "dengon",
+        "message"
+      ],
+      [
+        "伝える",
+        "tsutaeru",
+        "to convey"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "呼",
+    "meaning": "Call / Invite",
+    "onyomi": "コ",
+    "kunyomi": "よぶ",
+    "ex": [
+      [
+        "呼吸",
+        "kokyuu",
+        "breathing"
+      ],
+      [
+        "点呼",
+        "tenko",
+        "roll call"
+      ],
+      [
+        "呼び出す",
+        "yobidasu",
+        "to call out; to summon"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "識",
+    "meaning": "Know / Discriminate",
+    "onyomi": "シキ",
+    "kunyomi": "しる",
+    "ex": [
+      [
+        "知識",
+        "chishiki",
+        "knowledge"
+      ],
+      [
+        "意識",
+        "ishiki",
+        "consciousness"
+      ],
+      [
+        "常識",
+        "joushiki",
+        "common sense"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "誤",
+    "meaning": "Mistake / Error",
+    "onyomi": "ゴ",
+    "kunyomi": "あやまる",
+    "ex": [
+      [
+        "誤解",
+        "gokai",
+        "misunderstanding"
+      ],
+      [
+        "誤字",
+        "goji",
+        "miswritten character"
+      ],
+      [
+        "誤り",
+        "ayamari",
+        "mistake"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "礼",
+    "meaning": "Courtesy / Thanks",
+    "onyomi": "レイ、ライ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "礼儀",
+        "reigi",
+        "etiquette"
+      ],
+      [
+        "失礼",
+        "shitsurei",
+        "rudeness"
+      ],
+      [
+        "お礼",
+        "orei",
+        "thanks; gratitude"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "示",
+    "meaning": "Show / Indicate",
+    "onyomi": "ジ、シ",
+    "kunyomi": "しめす",
+    "ex": [
+      [
+        "表示",
+        "hyouji",
+        "display"
+      ],
+      [
+        "指示",
+        "shiji",
+        "instruction"
+      ],
+      [
+        "展示",
+        "tenji",
+        "exhibition"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "達",
+    "meaning": "Accomplished / Reach",
+    "onyomi": "タツ、ダ",
+    "kunyomi": "たち",
+    "ex": [
+      [
+        "発達",
+        "hattatsu",
+        "development"
+      ],
+      [
+        "友達",
+        "tomodachi",
+        "friend"
+      ],
+      [
+        "上達",
+        "joutatsu",
+        "improvement (of skill)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "指",
+    "meaning": "Finger / Point to",
+    "onyomi": "シ",
+    "kunyomi": "ゆび、さす",
+    "ex": [
+      [
+        "指示",
+        "shiji",
+        "instruction"
+      ],
+      [
+        "指導",
+        "shidou",
+        "guidance"
+      ],
+      [
+        "指す",
+        "sasu",
+        "to point at"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "訪",
+    "meaning": "Call on / Visit",
+    "onyomi": "ホウ",
+    "kunyomi": "おとずれる、たずねる",
+    "ex": [
+      [
+        "訪問",
+        "houmon",
+        "visit"
+      ],
+      [
+        "来訪",
+        "raihou",
+        "visit"
+      ],
+      [
+        "訪ねる",
+        "tazuneru",
+        "to visit"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "招",
+    "meaning": "Invite / Summon",
+    "onyomi": "ショウ",
+    "kunyomi": "まねく",
+    "ex": [
+      [
+        "招待",
+        "shoutai",
+        "invitation"
+      ],
+      [
+        "招集",
+        "shoushuu",
+        "convening"
+      ],
+      [
+        "招く",
+        "maneku",
+        "to invite"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "許",
+    "meaning": "Permit / Approve",
+    "onyomi": "キョ",
+    "kunyomi": "ゆるす",
+    "ex": [
+      [
+        "許可",
+        "kyoka",
+        "permission"
+      ],
+      [
+        "免許",
+        "menkyo",
+        "license"
+      ],
+      [
+        "許す",
+        "yurusu",
+        "to permit; to forgive"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "頼",
+    "meaning": "Trust / Request",
+    "onyomi": "ライ",
+    "kunyomi": "たのむ、たよる",
+    "ex": [
+      [
+        "依頼",
+        "irai",
+        "request"
+      ],
+      [
+        "信頼",
+        "shinrai",
+        "trust"
+      ],
+      [
+        "頼む",
+        "tanomu",
+        "to ask a favor"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "願",
+    "meaning": "Request / Wish",
+    "onyomi": "ガン",
+    "kunyomi": "ねがう",
+    "ex": [
+      [
+        "願望",
+        "ganbou",
+        "wish"
+      ],
+      [
+        "志願",
+        "shigan",
+        "aspiration"
+      ],
+      [
+        "お願い",
+        "onegai",
+        "a request; please"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "号",
+    "meaning": "Number / Item",
+    "onyomi": "ゴウ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "番号",
+        "bangou",
+        "number"
+      ],
+      [
+        "信号",
+        "shingou",
+        "signal"
+      ],
+      [
+        "記号",
+        "kigou",
+        "symbol"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "求",
+    "meaning": "Request / Demand",
+    "onyomi": "キュウ",
+    "kunyomi": "もとめる",
+    "ex": [
+      [
+        "要求",
+        "youkyuu",
+        "demand"
+      ],
+      [
+        "求人",
+        "kyuujin",
+        "job offer"
+      ],
+      [
+        "求める",
+        "motomeru",
+        "to seek; to request"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "投",
+    "meaning": "Throw / Cast",
+    "onyomi": "トウ",
+    "kunyomi": "なげる",
+    "ex": [
+      [
+        "投票",
+        "touhyou",
+        "voting"
+      ],
+      [
+        "投資",
+        "toushi",
+        "investment"
+      ],
+      [
+        "投げる",
+        "nageru",
+        "to throw"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "述",
+    "meaning": "Narrate / Describe",
+    "onyomi": "ジュツ",
+    "kunyomi": "すべ",
+    "ex": [
+      [
+        "述べる",
+        "noberu",
+        "to state; to mention"
+      ],
+      [
+        "記述",
+        "kijutsu",
+        "description"
+      ],
+      [
+        "述語",
+        "jutsugo",
+        "predicate (grammar)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "感",
+    "meaning": "Feeling / Sensation",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "ex": [
+      [
+        "感情",
+        "kanjou",
+        "emotion"
+      ],
+      [
+        "感動",
+        "kandou",
+        "impression"
+      ],
+      [
+        "感じる",
+        "kanjiru",
+        "to feel"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "情",
+    "meaning": "Emotion / Feelings",
+    "onyomi": "ジョウ、セイ",
+    "kunyomi": "なさけ",
+    "ex": [
+      [
+        "感情",
+        "kanjou",
+        "feeling"
+      ],
+      [
+        "同情",
+        "doujou",
+        "sympathy"
+      ],
+      [
+        "事情",
+        "jijou",
+        "circumstances"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "想",
+    "meaning": "Concept / Think",
+    "onyomi": "ソウ、ソ",
+    "kunyomi": "おもう",
+    "ex": [
+      [
+        "思想",
+        "shisou",
+        "thought"
+      ],
+      [
+        "想像",
+        "souzou",
+        "imagination"
+      ],
+      [
+        "予想",
+        "yosou",
+        "prediction"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "優",
+    "meaning": "Tenderness / Actor",
+    "onyomi": "ユウ、ウ",
+    "kunyomi": "やさしい、すぐれる",
+    "ex": [
+      [
+        "優勝",
+        "yuushou",
+        "championship"
+      ],
+      [
+        "優秀",
+        "yuushuu",
+        "excellent"
+      ],
+      [
+        "優しい",
+        "yasashii",
+        "kind; gentle"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "愛",
+    "meaning": "Love / Affection",
+    "onyomi": "アイ",
+    "kunyomi": "いとしい、まな",
+    "ex": [
+      [
+        "愛情",
+        "aijou",
+        "affection"
+      ],
+      [
+        "恋愛",
+        "renai",
+        "romance"
+      ],
+      [
+        "愛する",
+        "aisuru",
+        "to love"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "幸",
+    "meaning": "Happiness / Fortune",
+    "onyomi": "コウ",
+    "kunyomi": "しあわせ、さいわい、さち",
+    "ex": [
+      [
+        "幸福",
+        "koufuku",
+        "happiness"
+      ],
+      [
+        "不幸",
+        "fukou",
+        "misfortune"
+      ],
+      [
+        "幸せ",
+        "shiawase",
+        "happiness"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "喜",
+    "meaning": "Rejoice / Pleasure",
+    "onyomi": "キ",
+    "kunyomi": "よろこぶ",
+    "ex": [
+      [
+        "喜劇",
+        "kigeki",
+        "comedy"
+      ],
+      [
+        "歓喜",
+        "kanki",
+        "delight"
+      ],
+      [
+        "喜ぶ",
+        "yorokobu",
+        "to be pleased"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "悲",
+    "meaning": "Sad / Grieve",
+    "onyomi": "ヒ",
+    "kunyomi": "かなしい、かなしむ",
+    "ex": [
+      [
+        "悲劇",
+        "higeki",
+        "tragedy"
+      ],
+      [
+        "悲しみ",
+        "kanashimi",
+        "sadness"
+      ],
+      [
+        "悲しい",
+        "kanashii",
+        "sad"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "怒",
+    "meaning": "Angry / Offended",
+    "onyomi": "ド",
+    "kunyomi": "おこる、いかる",
+    "ex": [
+      [
+        "怒り",
+        "ikari",
+        "anger"
+      ],
+      [
+        "激怒",
+        "gekido",
+        "rage"
+      ],
+      [
+        "怒る",
+        "okoru",
+        "to get angry"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "恐",
+    "meaning": "Fear / Dread",
+    "onyomi": "キョウ",
+    "kunyomi": "おそれる、おそろしい、こわい",
+    "ex": [
+      [
+        "恐怖",
+        "kyoufu",
+        "fear"
+      ],
+      [
+        "恐竜",
+        "kyouryuu",
+        "dinosaur"
+      ],
+      [
+        "恐ろしい",
+        "osoroshii",
+        "dreadful"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "怖",
+    "meaning": "Dreadful / Fearful",
+    "onyomi": "フ",
+    "kunyomi": "こわい、おじる",
+    "ex": [
+      [
+        "恐怖",
+        "kyoufu",
+        "terror"
+      ],
+      [
+        "怖い",
+        "kowai",
+        "scary"
+      ],
+      [
+        "怖がる",
+        "kowagaru",
+        "to be afraid of"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "笑",
+    "meaning": "Laugh / Smile",
+    "onyomi": "ショウ",
+    "kunyomi": "わらう、えむ",
+    "ex": [
+      [
+        "笑顔",
+        "egao",
+        "smile"
+      ],
+      [
+        "微笑",
+        "bishou",
+        "slight smile"
+      ],
+      [
+        "笑う",
+        "warau",
+        "to laugh"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "夢",
+    "meaning": "Dream / Vision",
+    "onyomi": "ム",
+    "kunyomi": "ゆめ",
+    "ex": [
+      [
+        "夢中",
+        "muchuu",
+        "absorbed in"
+      ],
+      [
+        "悪夢",
+        "akumu",
+        "nightmare"
+      ],
+      [
+        "夢を見る",
+        "yumewomiru",
+        "to have a dream"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "望",
+    "meaning": "Hope / Desire",
+    "onyomi": "ボウ",
+    "kunyomi": "のぞむ、もち",
+    "ex": [
+      [
+        "希望",
+        "kibou",
+        "hope"
+      ],
+      [
+        "願望",
+        "ganbou",
+        "desire"
+      ],
+      [
+        "展望",
+        "tenbou",
+        "view; prospect"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "覚",
+    "meaning": "Memorize / Awake",
+    "onyomi": "カク",
+    "kunyomi": "おぼえる、さめる、さます",
+    "ex": [
+      [
+        "感覚",
+        "kankaku",
+        "sense"
+      ],
+      [
+        "自覚",
+        "jikaku",
+        "awareness"
+      ],
+      [
+        "覚える",
+        "oboeru",
+        "to memorize"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "恥",
+    "meaning": "Shame / Dishonor",
+    "onyomi": "チ",
+    "kunyomi": "はじ、はずかしい、はじる",
+    "ex": [
+      [
+        "恥ずかしい",
+        "hazukashii",
+        "embarrassed"
+      ],
+      [
+        "羞恥",
+        "shuuchi",
+        "shame"
+      ],
+      [
+        "恥をかく",
+        "hajiwokaku",
+        "to be embarrassed"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "疑",
+    "meaning": "Doubt / Distrust",
+    "onyomi": "ギ",
+    "kunyomi": "うたがう",
+    "ex": [
+      [
+        "疑問",
+        "gimon",
+        "doubt"
+      ],
+      [
+        "容疑",
+        "yougi",
+        "suspicion"
+      ],
+      [
+        "疑う",
+        "utagau",
+        "to suspect"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "息",
+    "meaning": "Breath / Son",
+    "onyomi": "ソク、ムス",
+    "kunyomi": "いき",
+    "ex": [
+      [
+        "休息",
+        "kyuusoku",
+        "rest"
+      ],
+      [
+        "息子",
+        "musuko",
+        "son"
+      ],
+      [
+        "息",
+        "iki",
+        "breath"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "迷",
+    "meaning": "Be perplexed / Lost",
+    "onyomi": "メイ",
+    "kunyomi": "まよう",
+    "ex": [
+      [
+        "迷惑",
+        "meiwaku",
+        "trouble"
+      ],
+      [
+        "迷子",
+        "maigo",
+        "lost child"
+      ],
+      [
+        "迷う",
+        "mayou",
+        "to be lost; to hesitate"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "助",
+    "meaning": "Help / Rescue",
+    "onyomi": "ジョ",
+    "kunyomi": "たすける",
+    "ex": [
+      [
+        "助言",
+        "jogen",
+        "advice"
+      ],
+      [
+        "救助",
+        "kyuujo",
+        "rescue"
+      ],
+      [
+        "助ける",
+        "tasukeru",
+        "to help"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "信",
+    "meaning": "Faith / Trust",
+    "onyomi": "シン",
+    "kunyomi": "",
+    "ex": [
+      [
+        "信用",
+        "shinyou",
+        "trust"
+      ],
+      [
+        "通信",
+        "tsuushin",
+        "communication"
+      ],
+      [
+        "自信",
+        "jishin",
+        "confidence"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "福",
+    "meaning": "Blessing / Fortune",
+    "onyomi": "フク",
+    "kunyomi": "",
+    "ex": [
+      [
+        "幸福",
+        "koufuku",
+        "happiness"
+      ],
+      [
+        "福祉",
+        "fukushi",
+        "welfare"
+      ],
+      [
+        "福袋",
+        "fukubukuro",
+        "lucky bag"
       ]
     ]
   },
