@@ -1522,35 +1522,1777 @@
   },
   {
     "level": "N4",
-    "kanji": "道",
-    "meaning": "Road",
+    "kanji": "銀",
+    "meaning": "Silver",
     "ex": [
       [
-        "道",
-        "michi",
-        "road"
-      ],
-      [
-        "水道",
-        "suidou",
-        "water supply"
+        "銀行",
+        "ginkou",
+        "bank"
       ]
     ]
   },
   {
     "level": "N4",
-    "kanji": "新",
-    "meaning": "New",
+    "kanji": "病",
+    "meaning": "Illness",
     "ex": [
       [
-        "新しい",
-        "atarashii",
-        "new"
-      ],
+        "病院",
+        "byouin",
+        "hospital"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "院",
+    "meaning": "Institution",
+    "ex": [
       [
-        "新聞",
-        "shinbun",
-        "newspaper"
+        "病院",
+        "byouin",
+        "hospital"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "医",
+    "meaning": "Medicine / Doctor",
+    "ex": [
+      [
+        "医者",
+        "isha",
+        "doctor"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "者",
+    "meaning": "Person",
+    "ex": [
+      [
+        "学者",
+        "gakusha",
+        "scholar"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "図",
+    "meaning": "Diagram / Plan",
+    "ex": [
+      [
+        "図書館",
+        "toshokan",
+        "library"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "館",
+    "meaning": "Building / Hall",
+    "ex": [
+      [
+        "図書館",
+        "toshokan",
+        "library"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "働",
+    "meaning": "Work",
+    "ex": [
+      [
+        "労働",
+        "roudou",
+        "labor"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "業",
+    "meaning": "Business / Work",
+    "ex": [
+      [
+        "授業",
+        "jugyou",
+        "class; lesson"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "産",
+    "meaning": "Produce / Birth",
+    "ex": [
+      [
+        "生産",
+        "seisan",
+        "production"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "品",
+    "meaning": "Article / Goods",
+    "ex": [
+      [
+        "食品",
+        "shokuhin",
+        "food products"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "場",
+    "meaning": "Place / Site",
+    "ex": [
+      [
+        "工場",
+        "koujou",
+        "factory"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "工",
+    "meaning": "Craft / Work",
+    "ex": [
+      [
+        "工場",
+        "koujou",
+        "factory"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "地",
+    "meaning": "Ground / Place",
+    "ex": [
+      [
+        "地図",
+        "chizu",
+        "map"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "橋",
+    "meaning": "Bridge",
+    "ex": [
+      [
+        "橋",
+        "hashi",
+        "bridge"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "港",
+    "meaning": "Harbor / Port",
+    "ex": [
+      [
+        "空港",
+        "kuukou",
+        "airport"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "船",
+    "meaning": "Ship / Boat",
+    "ex": [
+      [
+        "船旅",
+        "funatabi",
+        "sea voyage"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "乗",
+    "meaning": "Ride / Board",
+    "ex": [
+      [
+        "乗車",
+        "jousha",
+        "boarding"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "降",
+    "meaning": "Descend / Fall",
+    "ex": [
+      [
+        "下降",
+        "kakou",
+        "descent"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "着",
+    "meaning": "Wear / Arrive",
+    "ex": [
+      [
+        "到着",
+        "touchaku",
+        "arrival"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "曜",
+    "meaning": "Day of the week",
+    "ex": [
+      [
+        "月曜日",
+        "getsuyoubi",
+        "Monday"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "去",
+    "meaning": "Past / Leave",
+    "ex": [
+      [
+        "去年",
+        "kyonen",
+        "last year"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "以",
+    "meaning": "By means of / Since",
+    "ex": [
+      [
+        "以前",
+        "izen",
+        "before; formerly"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "速",
+    "meaning": "Fast / Speed",
+    "ex": [
+      [
+        "速度",
+        "sokudo",
+        "speed"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "遅",
+    "meaning": "Late / Slow",
+    "ex": [
+      [
+        "遅刻",
+        "chikoku",
+        "being late"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "早",
+    "meaning": "Early / Fast",
+    "ex": [
+      [
+        "早朝",
+        "souchou",
+        "early morning"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "朝",
+    "meaning": "Morning",
+    "ex": [
+      [
+        "毎朝",
+        "maiasa",
+        "every morning"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "昼",
+    "meaning": "Noon / Daytime",
+    "ex": [
+      [
+        "昼食",
+        "chuushoku",
+        "lunch"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "夜",
+    "meaning": "Night",
+    "ex": [
+      [
+        "夜中",
+        "yonaka",
+        "midnight"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "夕",
+    "meaning": "Evening",
+    "ex": [
+      [
+        "夕食",
+        "yuushoku",
+        "dinner"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "初",
+    "meaning": "First / Beginning",
+    "ex": [
+      [
+        "最初",
+        "saisho",
+        "the first"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "最",
+    "meaning": "Most / Utmost",
+    "ex": [
+      [
+        "最近",
+        "saikin",
+        "recently"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "近",
+    "meaning": "Near / Recent",
+    "ex": [
+      [
+        "近所",
+        "kinjo",
+        "neighborhood"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "当",
+    "meaning": "Hit / Current",
+    "ex": [
+      [
+        "当日",
+        "toujitsu",
+        "that day"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "代",
+    "meaning": "Era / Generation",
+    "ex": [
+      [
+        "時代",
+        "jidai",
+        "era"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "期",
+    "meaning": "Period / Term",
+    "ex": [
+      [
+        "時期",
+        "jiki",
+        "time; period"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "思",
+    "meaning": "Think / Feel",
+    "ex": [
+      [
+        "思想",
+        "shisou",
+        "thought; ideology"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "知",
+    "meaning": "Know",
+    "ex": [
+      [
+        "知識",
+        "chishiki",
+        "knowledge"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "使",
+    "meaning": "Use",
+    "ex": [
+      [
+        "使用",
+        "shiyou",
+        "use; usage"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "始",
+    "meaning": "Begin",
+    "ex": [
+      [
+        "開始",
+        "kaishi",
+        "start"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "終",
+    "meaning": "End / Finish",
+    "ex": [
+      [
+        "終了",
+        "shuuryou",
+        "completion"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "教",
+    "meaning": "Teach",
+    "ex": [
+      [
+        "教室",
+        "kyoushitsu",
+        "classroom"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "習",
+    "meaning": "Learn / Practice",
+    "ex": [
+      [
+        "練習",
+        "renshuu",
+        "practice"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "集",
+    "meaning": "Gather / Collect",
+    "ex": [
+      [
+        "集中",
+        "shuuchuu",
+        "concentration"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "困",
+    "meaning": "Be troubled",
+    "ex": [
+      [
+        "困難",
+        "konnan",
+        "difficulty"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "忘",
+    "meaning": "Forget",
+    "ex": [
+      [
+        "忘れ物",
+        "wasuremono",
+        "forgotten item"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "決",
+    "meaning": "Decide",
+    "ex": [
+      [
+        "決定",
+        "kettei",
+        "decision"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "考",
+    "meaning": "Think / Consider",
+    "ex": [
+      [
+        "考え方",
+        "kangaekata",
+        "way of thinking"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "調",
+    "meaning": "Investigate / Tune",
+    "ex": [
+      [
+        "調査",
+        "chousa",
+        "investigation"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "試",
+    "meaning": "Try / Test",
+    "ex": [
+      [
+        "試験",
+        "shiken",
+        "exam"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "験",
+    "meaning": "Test / Experience",
+    "ex": [
+      [
+        "経験",
+        "keiken",
+        "experience"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "答",
+    "meaning": "Answer",
+    "ex": [
+      [
+        "回答",
+        "kaitou",
+        "response"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "問",
+    "meaning": "Question",
+    "ex": [
+      [
+        "問題",
+        "mondai",
+        "problem"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "説",
+    "meaning": "Explain / Theory",
+    "ex": [
+      [
+        "説明",
+        "setsumei",
+        "explanation"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "明",
+    "meaning": "Bright / Clear",
+    "ex": [
+      [
+        "説明",
+        "setsumei",
+        "explanation"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "急",
+    "meaning": "Hurry / Urgent",
+    "ex": [
+      [
+        "急行",
+        "kyuukou",
+        "express train"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "運",
+    "meaning": "Carry / Luck",
+    "ex": [
+      [
+        "運動",
+        "undou",
+        "exercise"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "動",
+    "meaning": "Move",
+    "ex": [
+      [
+        "自動",
+        "jidou",
+        "automatic"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "起",
+    "meaning": "Wake up / Occur",
+    "ex": [
+      [
+        "起床",
+        "kishou",
+        "getting up"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "返",
+    "meaning": "Return",
+    "ex": [
+      [
+        "返事",
+        "henji",
+        "reply"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "送",
+    "meaning": "Send",
+    "ex": [
+      [
+        "送料",
+        "souryou",
+        "shipping fee"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "受",
+    "meaning": "Receive / Pass exam",
+    "ex": [
+      [
+        "受験",
+        "juken",
+        "taking an exam"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "待",
+    "meaning": "Wait",
+    "ex": [
+      [
+        "期待",
+        "kitai",
+        "expectation"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "持",
+    "meaning": "Hold / Have",
+    "ex": [
+      [
+        "持参",
+        "jisan",
+        "bringing along"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "開",
+    "meaning": "Open",
+    "ex": [
+      [
+        "開始",
+        "kaishi",
+        "start"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "閉",
+    "meaning": "Close",
+    "ex": [
+      [
+        "閉店",
+        "heiten",
+        "closing time"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "切",
+    "meaning": "Cut",
+    "ex": [
+      [
+        "大切",
+        "taisetsu",
+        "important"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "落",
+    "meaning": "Fall / Drop",
+    "ex": [
+      [
+        "落下",
+        "rakka",
+        "falling down"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "払",
+    "meaning": "Pay / Sweep",
+    "ex": [
+      [
+        "支払い",
+        "shiharai",
+        "payment"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "海",
+    "meaning": "Sea / Ocean",
+    "ex": [
+      [
+        "海岸",
+        "kaigan",
+        "coast"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "風",
+    "meaning": "Wind",
+    "ex": [
+      [
+        "台風",
+        "taifuu",
+        "typhoon"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "雪",
+    "meaning": "Snow",
+    "ex": [
+      [
+        "大雪",
+        "ooyuki",
+        "heavy snow"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "春",
+    "meaning": "Spring",
+    "ex": [
+      [
+        "春休み",
+        "haruyasumi",
+        "spring break"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "夏",
+    "meaning": "Summer",
+    "ex": [
+      [
+        "夏休み",
+        "natsuyasumi",
+        "summer vacation"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "秋",
+    "meaning": "Autumn",
+    "ex": [
+      [
+        "秋分",
+        "shuubun",
+        "autumnal equinox"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "冬",
+    "meaning": "Winter",
+    "ex": [
+      [
+        "冬休み",
+        "fuyuyasumi",
+        "winter break"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "星",
+    "meaning": "Star",
+    "ex": [
+      [
+        "星座",
+        "seiza",
+        "constellation"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "光",
+    "meaning": "Light",
+    "ex": [
+      [
+        "光線",
+        "kousen",
+        "ray of light"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "音",
+    "meaning": "Sound",
+    "ex": [
+      [
+        "音楽",
+        "ongaku",
+        "music"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "林",
+    "meaning": "Grove / Woods",
+    "ex": [
+      [
+        "森林",
+        "shinrin",
+        "forest"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "森",
+    "meaning": "Forest",
+    "ex": [
+      [
+        "森林",
+        "shinrin",
+        "forest"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "池",
+    "meaning": "Pond",
+    "ex": [
+      [
+        "電池",
+        "denchi",
+        "battery"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "島",
+    "meaning": "Island",
+    "ex": [
+      [
+        "半島",
+        "hantou",
+        "peninsula"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "谷",
+    "meaning": "Valley",
+    "ex": [
+      [
+        "渓谷",
+        "keikoku",
+        "ravine"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "岩",
+    "meaning": "Rock / Boulder",
+    "ex": [
+      [
+        "岩石",
+        "ganseki",
+        "rock"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "砂",
+    "meaning": "Sand",
+    "ex": [
+      [
+        "砂漠",
+        "sabaku",
+        "desert"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "雲",
+    "meaning": "Cloud",
+    "ex": [
+      [
+        "雲",
+        "kumo",
+        "cloud"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "暖",
+    "meaning": "Warm",
+    "ex": [
+      [
+        "温暖",
+        "ondan",
+        "warm (climate)"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "寒",
+    "meaning": "Cold",
+    "ex": [
+      [
+        "寒波",
+        "kanpa",
+        "cold wave"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "暑",
+    "meaning": "Hot (weather)",
+    "ex": [
+      [
+        "猛暑",
+        "mousho",
+        "intense heat"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "涼",
+    "meaning": "Cool / Refreshing",
+    "ex": [
+      [
+        "涼しい",
+        "suzushii",
+        "cool"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "温",
+    "meaning": "Warm / Temperature",
+    "ex": [
+      [
+        "気温",
+        "kion",
+        "air temperature"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "湖",
+    "meaning": "Lake",
+    "ex": [
+      [
+        "湖",
+        "mizuumi",
+        "lake"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "族",
+    "meaning": "Family / Tribe",
+    "ex": [
+      [
+        "家族",
+        "kazoku",
+        "family"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "夫",
+    "meaning": "Husband",
+    "ex": [
+      [
+        "夫婦",
+        "fuufu",
+        "married couple"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "兄",
+    "meaning": "Older brother",
+    "ex": [
+      [
+        "兄弟",
+        "kyoudai",
+        "siblings"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "弟",
+    "meaning": "Younger brother",
+    "ex": [
+      [
+        "兄弟",
+        "kyoudai",
+        "siblings"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "姉",
+    "meaning": "Older sister",
+    "ex": [
+      [
+        "姉妹",
+        "shimai",
+        "sisters"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "妹",
+    "meaning": "Younger sister",
+    "ex": [
+      [
+        "姉妹",
+        "shimai",
+        "sisters"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "妻",
+    "meaning": "Wife",
+    "ex": [
+      [
+        "妻子",
+        "saishi",
+        "wife and children"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "親",
+    "meaning": "Parent / Intimate",
+    "ex": [
+      [
+        "親切",
+        "shinsetsu",
+        "kindness"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "供",
+    "meaning": "Accompany / Offer",
+    "ex": [
+      [
+        "子供",
+        "kodomo",
+        "child"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "級",
+    "meaning": "Class / Grade / Level",
+    "ex": [
+      [
+        "上級",
+        "joukyuu",
+        "advanced level"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "科",
+    "meaning": "Department / Subject",
+    "ex": [
+      [
+        "科学",
+        "kagaku",
+        "science"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "研",
+    "meaning": "Polish / Study",
+    "ex": [
+      [
+        "研究",
+        "kenkyuu",
+        "research"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "究",
+    "meaning": "Investigate / Exhaust",
+    "ex": [
+      [
+        "研究",
+        "kenkyuu",
+        "research"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "留",
+    "meaning": "Stay / Keep",
+    "ex": [
+      [
+        "留学",
+        "ryuugaku",
+        "studying abroad"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "意",
+    "meaning": "Intention / Meaning",
+    "ex": [
+      [
+        "注意",
+        "chuui",
+        "caution"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "注",
+    "meaning": "Pour / Note",
+    "ex": [
+      [
+        "注意",
+        "chuui",
+        "caution"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "家",
+    "meaning": "House / Family",
+    "ex": [
+      [
+        "家族",
+        "kazoku",
+        "family"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "体",
+    "meaning": "Body",
+    "ex": [
+      [
+        "体力",
+        "tairyoku",
+        "physical strength"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "頭",
+    "meaning": "Head",
+    "ex": [
+      [
+        "頭痛",
+        "zutsuu",
+        "headache"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "顔",
+    "meaning": "Face",
+    "ex": [
+      [
+        "洗顔",
+        "sengan",
+        "face washing"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "首",
+    "meaning": "Neck",
+    "ex": [
+      [
+        "首相",
+        "shushou",
+        "prime minister"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "腹",
+    "meaning": "Belly / Stomach",
+    "ex": [
+      [
+        "空腹",
+        "kuufuku",
+        "hunger"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "背",
+    "meaning": "Back / Height",
+    "ex": [
+      [
+        "背中",
+        "senaka",
+        "back (of body)"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "声",
+    "meaning": "Voice",
+    "ex": [
+      [
+        "声優",
+        "seiyuu",
+        "voice actor"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "色",
+    "meaning": "Color",
+    "ex": [
+      [
+        "色々",
+        "iroiro",
+        "various"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "形",
+    "meaning": "Shape / Form",
+    "ex": [
+      [
+        "図形",
+        "zukei",
+        "geometric shape"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "倍",
+    "meaning": "Double / Times",
+    "ex": [
+      [
+        "二倍",
+        "nibai",
+        "twice"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "数",
+    "meaning": "Number / Count",
+    "ex": [
+      [
+        "数学",
+        "suugaku",
+        "mathematics"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "計",
+    "meaning": "Measure / Plan",
+    "ex": [
+      [
+        "時計",
+        "tokei",
+        "clock; watch"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "量",
+    "meaning": "Quantity",
+    "ex": [
+      [
+        "分量",
+        "bunryou",
+        "amount"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "重",
+    "meaning": "Heavy / Important",
+    "ex": [
+      [
+        "重要",
+        "juuyou",
+        "important"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "軽",
+    "meaning": "Light (weight)",
+    "ex": [
+      [
+        "軽食",
+        "keishoku",
+        "light meal"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "強",
+    "meaning": "Strong",
+    "ex": [
+      [
+        "強調",
+        "kyouchou",
+        "emphasis"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "弱",
+    "meaning": "Weak",
+    "ex": [
+      [
+        "弱点",
+        "jakuten",
+        "weak point"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "太",
+    "meaning": "Fat / Thick",
+    "ex": [
+      [
+        "太陽",
+        "taiyou",
+        "sun"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "細",
+    "meaning": "Thin / Detailed",
+    "ex": [
+      [
+        "細かい",
+        "komakai",
+        "detailed"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "好",
+    "meaning": "Like / Fond",
+    "ex": [
+      [
+        "好意",
+        "koui",
+        "goodwill"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "悪",
+    "meaning": "Bad / Evil",
+    "ex": [
+      [
+        "悪化",
+        "akka",
+        "deterioration"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "正",
+    "meaning": "Correct / Right",
+    "ex": [
+      [
+        "正解",
+        "seikai",
+        "correct answer"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "反",
+    "meaning": "Oppose / Anti",
+    "ex": [
+      [
+        "反対",
+        "hantai",
+        "opposition"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "必",
+    "meaning": "Necessary",
+    "ex": [
+      [
+        "必要",
+        "hitsuyou",
+        "necessary"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "要",
+    "meaning": "Need / Essential",
+    "ex": [
+      [
+        "重要",
+        "juuyou",
+        "important"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "由",
+    "meaning": "Reason / Cause",
+    "ex": [
+      [
+        "理由",
+        "riyuu",
+        "reason"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "理",
+    "meaning": "Reason / Logic",
+    "ex": [
+      [
+        "理由",
+        "riyuu",
+        "reason"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "両",
+    "meaning": "Both",
+    "ex": [
+      [
+        "両方",
+        "ryouhou",
+        "both sides"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "他",
+    "meaning": "Other",
+    "ex": [
+      [
+        "その他",
+        "sonota",
+        "others; etc."
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "特",
+    "meaning": "Special",
+    "ex": [
+      [
+        "特別",
+        "tokubetsu",
+        "special"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "別",
+    "meaning": "Separate / Different",
+    "ex": [
+      [
+        "特別",
+        "tokubetsu",
+        "special"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "相",
+    "meaning": "Mutual / Each other",
+    "ex": [
+      [
+        "相談",
+        "soudan",
+        "consultation"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "談",
+    "meaning": "Talk / Discuss",
+    "ex": [
+      [
+        "相談",
+        "soudan",
+        "consultation"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "交",
+    "meaning": "Exchange / Cross",
+    "ex": [
+      [
+        "交通",
+        "koutsuu",
+        "traffic; transportation"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "通",
+    "meaning": "Pass through / Commute",
+    "ex": [
+      [
+        "交通",
+        "koutsuu",
+        "traffic; transportation"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "同",
+    "meaning": "Same",
+    "ex": [
+      [
+        "同時",
+        "douji",
+        "simultaneously"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "変",
+    "meaning": "Change / Strange",
+    "ex": [
+      [
+        "変化",
+        "henka",
+        "change"
+      ]
+    ]
+  },
+  {
+    "level": "N4",
+    "kanji": "化",
+    "meaning": "Change / Transform",
+    "ex": [
+      [
+        "文化",
+        "bunka",
+        "culture"
       ]
     ]
   },
