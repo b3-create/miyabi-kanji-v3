@@ -146,7 +146,7 @@
                 <div class="flex justify-between items-center">
                     <div>
                         <h2 class="text-xl font-bold text-[#1a1918]">Deck Dashboard</h2>
-                        <p class="text-xs text-[#7a756e] mt-0.5">Click any Kanji to load into active card</p>
+                        <p class="text-xs text-[#7a756e] mt-0.5">Click any Kanji to load into active card <span id="deckCountLabel" class="text-[#a59f95]"></span></p>
                     </div>
                     <span id="masteryPercentage" class="px-3 py-1 bg-brand-muted text-brand text-xs font-bold rounded-full border border-blue-200">0% Mastered</span>
                 </div>
@@ -188,7 +188,11 @@
                 filteredDeck = filteredDeck.filter(item => 
                     item.kanji.includes(q) || 
                     item.meaning.toLowerCase().includes(q) ||
-                    (item.ex && item.ex.some(ex => ex[0].includes(q) || ex[2].toLowerCase().includes(q)))
+                    (item.ex && item.ex.some(ex => 
+                        ex[0].includes(q) || 
+                        (ex[1] && ex[1].toLowerCase().includes(q)) || 
+                        ex[2].toLowerCase().includes(q)
+                    ))
                 );
             }
             if (state.currentIndex >= filteredDeck.length) state.currentIndex = 0;
@@ -293,6 +297,12 @@
         function renderDashboardGrid() {
             const grid = document.getElementById('kanjiGrid');
             grid.innerHTML = '';
+            const countLabel = document.getElementById('deckCountLabel');
+            if (countLabel) {
+                countLabel.innerText = filteredDeck.length > 25 
+                    ? `(${filteredDeck.length} total — scroll for more)` 
+                    : `(${filteredDeck.length} total)`;
+            }
             filteredDeck.forEach((item, index) => {
                 const btn = document.createElement('button');
                 const isSelected = index === state.currentIndex;
