@@ -268,8 +268,10 @@
         });
 
         function updateDeck() {
-            filteredDeck = DATA.filter(item => item.level === state.level);
-            if (state.search.trim() !== '') {
+            const hasSearch = state.search.trim() !== '';
+            filteredDeck = hasSearch ? DATA.slice() : DATA.filter(item => item.level === state.level);
+
+            if (hasSearch) {
                 const q = state.search.toLowerCase().trim();
                 filteredDeck = filteredDeck.filter(item => 
                     item.kanji.includes(q) || 
@@ -290,15 +292,21 @@
             renderMasteryProgress();
         }
 
-        function setLevel(lvl) {
-            state.level = lvl;
-            state.currentIndex = 0;
+        function highlightTab(lvl) {
             ['N5', 'N4', 'N3', 'N2', 'N1'].forEach(l => {
                 const tab = document.getElementById(`tab-${l}`);
                 tab.className = l === lvl 
                     ? "px-4 py-2 text-sm font-bold rounded-lg bg-brand text-white shadow-sm"
                     : "px-4 py-2 text-sm font-bold rounded-lg text-[#7a756e] hover:bg-cream-50";
             });
+        }
+
+        function setLevel(lvl) {
+            state.level = lvl;
+            state.currentIndex = 0;
+            state.search = '';
+            document.getElementById('searchInput').value = '';
+            highlightTab(lvl);
 
             const isUnderConstruction = (lvl === 'N2' || lvl === 'N1');
             document.getElementById('flashcard').parentElement.classList.toggle('hidden', isUnderConstruction);
@@ -340,8 +348,9 @@
 
             document.getElementById('cardProgressTag').innerText = progressStr;
             document.getElementById('cardBackProgressTag').innerText = progressStr;
-            document.getElementById('cardLevelTag').innerText = state.level;
-            document.getElementById('cardBackLevelTag').innerText = state.level;
+            const displayLevel = item ? item.level : state.level;
+            document.getElementById('cardLevelTag').innerText = displayLevel;
+            document.getElementById('cardBackLevelTag').innerText = displayLevel;
 
             if (!item) {
                 document.getElementById('cardFrontKanji').innerText = "-";
@@ -388,25 +397,41 @@
         function renderDashboardGrid() {
             const grid = document.getElementById('kanjiGrid');
             grid.innerHTML = '';
+            const isSearching = state.search.trim() !== '';
             const countLabel = document.getElementById('deckCountLabel');
             if (countLabel) {
+                const scope = isSearching ? ' across all levels' : '';
                 countLabel.innerText = filteredDeck.length > 25 
-                    ? `(${filteredDeck.length} total — scroll for more)` 
-                    : `(${filteredDeck.length} total)`;
+                    ? `(${filteredDeck.length} total${scope} — scroll for more)` 
+                    : `(${filteredDeck.length} total${scope})`;
             }
             filteredDeck.forEach((item, index) => {
                 const btn = document.createElement('button');
                 const isSelected = index === state.currentIndex;
                 const isMastered = !!state.mastered[item.kanji];
-                btn.className = `h-12 w-full flex items-center justify-center rounded-xl border text-lg font-bold ${isSelected ? 'border-brand ring-2 ring-brand/30' : 'border-[#e6e1da]'} ${isMastered ? 'bg-brand-muted' : 'bg-white'}`;
+                btn.className = `relative h-12 w-full flex items-center justify-center rounded-xl border text-lg font-bold ${isSelected ? 'border-brand ring-2 ring-brand/30' : 'border-[#e6e1da]'} ${isMastered ? 'bg-brand-muted' : 'bg-white'}`;
                 btn.onclick = () => selectCard(index);
                 btn.innerText = item.kanji;
+                if (isSearching) {
+                    const badge = document.createElement('span');
+                    badge.className = 'absolute -top-1.5 -right-1.5 text-[9px] font-bold px-1 rounded bg-brand text-white leading-tight';
+                    badge.innerText = item.level;
+                    btn.appendChild(badge);
+                }
                 grid.appendChild(btn);
             });
         }
 
         function selectCard(idx) {
             state.currentIndex = idx;
+            const item = filteredDeck[idx];
+            if (item && item.level !== state.level) {
+                state.level = item.level;
+                highlightTab(item.level);
+                const isUnderConstruction = (item.level === 'N2' || item.level === 'N1');
+                document.getElementById('flashcard').parentElement.classList.toggle('hidden', isUnderConstruction);
+                document.getElementById('constructionZone').classList.toggle('hidden', !isUnderConstruction);
+            }
             state.isFlipped = false;
             document.getElementById('flashcard').classList.remove('is-flipped');
             renderActiveCard();
