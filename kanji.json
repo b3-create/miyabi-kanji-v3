@@ -10082,19 +10082,3578 @@
     ]
   },
   {
-    "level": "N1",
-    "kanji": "獲",
-    "meaning": "Acquire",
+    "level": "N3",
+    "kanji": "内",
+    "meaning": "Inside / Within",
+    "onyomi": "ナイ、ダイ",
+    "kunyomi": "うち",
     "ex": [
       [
-        "獲得",
-        "kakutoku",
-        "acquisition"
+        "内側",
+        "uchigawa",
+        "inside"
       ],
       [
-        "捕獲",
-        "hokaku",
-        "capture"
+        "案内",
+        "annai",
+        "guide; information"
+      ],
+      [
+        "国内",
+        "kokunai",
+        "domestic"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "都",
+    "meaning": "Capital / Metropolis",
+    "onyomi": "ト、ツ",
+    "kunyomi": "みやこ",
+    "ex": [
+      [
+        "都市",
+        "toshi",
+        "city"
+      ],
+      [
+        "都合",
+        "tsugou",
+        "convenience"
+      ],
+      [
+        "東京都",
+        "toukyouto",
+        "Tokyo Metropolis"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "原",
+    "meaning": "Field / Original",
+    "onyomi": "ゲン",
+    "kunyomi": "はら",
+    "ex": [
+      [
+        "原因",
+        "genin",
+        "cause"
+      ],
+      [
+        "高原",
+        "kougen",
+        "plateau"
+      ],
+      [
+        "原っぱ",
+        "harappa",
+        "field"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "際",
+    "meaning": "Occasion / Edge",
+    "onyomi": "サイ",
+    "kunyomi": "きわ",
+    "ex": [
+      [
+        "際",
+        "sai",
+        "occasion"
+      ],
+      [
+        "国際",
+        "kokusai",
+        "international"
+      ],
+      [
+        "実際",
+        "jissai",
+        "actual"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "側",
+    "meaning": "Side",
+    "onyomi": "ソク",
+    "kunyomi": "がわ",
+    "ex": [
+      [
+        "内側",
+        "uchigawa",
+        "inside"
+      ],
+      [
+        "右側",
+        "migigawa",
+        "right side"
+      ],
+      [
+        "側面",
+        "sokumen",
+        "side (surface)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "面",
+    "meaning": "Face / Surface",
+    "onyomi": "メン",
+    "kunyomi": "おも、おもて、つら",
+    "ex": [
+      [
+        "面白い",
+        "omoshiroi",
+        "interesting"
+      ],
+      [
+        "場面",
+        "bamen",
+        "scene"
+      ],
+      [
+        "面接",
+        "mensetsu",
+        "interview"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "阪",
+    "meaning": "Slope (place name use)",
+    "onyomi": "ハン",
+    "kunyomi": "さか",
+    "ex": [
+      [
+        "大阪",
+        "oosaka",
+        "Osaka"
+      ],
+      [
+        "京阪",
+        "keihan",
+        "Kyoto-Osaka area"
+      ],
+      [
+        "阪神",
+        "hanshin",
+        "Hanshin (Osaka-Kobe) region"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "路",
+    "meaning": "Road / Path",
+    "onyomi": "ロ",
+    "kunyomi": "じ",
+    "ex": [
+      [
+        "道路",
+        "douro",
+        "road"
+      ],
+      [
+        "通路",
+        "tsuuro",
+        "passage"
+      ],
+      [
+        "線路",
+        "senro",
+        "railway track"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "席",
+    "meaning": "Seat",
+    "onyomi": "セキ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "座席",
+        "zaseki",
+        "seat"
+      ],
+      [
+        "出席",
+        "shusseki",
+        "attendance"
+      ],
+      [
+        "満席",
+        "manseki",
+        "full seats"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "宅",
+    "meaning": "Home / Residence",
+    "onyomi": "タク",
+    "kunyomi": "",
+    "ex": [
+      [
+        "お宅",
+        "otaku",
+        "your home"
+      ],
+      [
+        "自宅",
+        "jitaku",
+        "one's own home"
+      ],
+      [
+        "住宅",
+        "juutaku",
+        "housing"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "宿",
+    "meaning": "Lodging / Inn",
+    "onyomi": "シュク",
+    "kunyomi": "やど、やどる",
+    "ex": [
+      [
+        "宿題",
+        "shukudai",
+        "homework"
+      ],
+      [
+        "宿泊",
+        "shukuhaku",
+        "lodging"
+      ],
+      [
+        "民宿",
+        "minshuku",
+        "guesthouse"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "途",
+    "meaning": "Route / Way",
+    "onyomi": "ト",
+    "kunyomi": "",
+    "ex": [
+      [
+        "途中",
+        "tochuu",
+        "on the way"
+      ],
+      [
+        "前途",
+        "zento",
+        "future prospects"
+      ],
+      [
+        "用途",
+        "youto",
+        "purpose; use"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "庭",
+    "meaning": "Garden / Yard",
+    "onyomi": "テイ",
+    "kunyomi": "にわ",
+    "ex": [
+      [
+        "庭",
+        "niwa",
+        "garden"
+      ],
+      [
+        "家庭",
+        "katei",
+        "household"
+      ],
+      [
+        "校庭",
+        "koutei",
+        "schoolyard"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "居",
+    "meaning": "Reside / Be present",
+    "onyomi": "キョ",
+    "kunyomi": "いる",
+    "ex": [
+      [
+        "居間",
+        "ima",
+        "living room"
+      ],
+      [
+        "住居",
+        "juukyo",
+        "residence"
+      ],
+      [
+        "居る",
+        "iru",
+        "to be (animate)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "園",
+    "meaning": "Garden / Park",
+    "onyomi": "エン",
+    "kunyomi": "その",
+    "ex": [
+      [
+        "公園",
+        "kouen",
+        "park"
+      ],
+      [
+        "動物園",
+        "doubutsuen",
+        "zoo"
+      ],
+      [
+        "幼稚園",
+        "youchien",
+        "kindergarten"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "窓",
+    "meaning": "Window",
+    "onyomi": "ソウ",
+    "kunyomi": "まど",
+    "ex": [
+      [
+        "窓",
+        "mado",
+        "window"
+      ],
+      [
+        "窓口",
+        "madoguchi",
+        "service counter"
+      ],
+      [
+        "車窓",
+        "shasou",
+        "train window"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "箱",
+    "meaning": "Box",
+    "onyomi": "",
+    "kunyomi": "はこ",
+    "ex": [
+      [
+        "箱",
+        "hako",
+        "box"
+      ],
+      [
+        "本箱",
+        "honbako",
+        "bookcase"
+      ],
+      [
+        "ゴミ箱",
+        "gomibako",
+        "trash can"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "所",
+    "meaning": "Place",
+    "onyomi": "ショ",
+    "kunyomi": "ところ",
+    "ex": [
+      [
+        "場所",
+        "basho",
+        "place"
+      ],
+      [
+        "台所",
+        "daidokoro",
+        "kitchen"
+      ],
+      [
+        "住所",
+        "juusho",
+        "address"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "処",
+    "meaning": "Deal with / Place",
+    "onyomi": "ショ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "処理",
+        "shori",
+        "processing"
+      ],
+      [
+        "対処",
+        "taisho",
+        "handling (a problem)"
+      ],
+      [
+        "処分",
+        "shobun",
+        "disposal; punishment"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "存",
+    "meaning": "Exist / Suppose",
+    "onyomi": "ソン、ゾン",
+    "kunyomi": "",
+    "ex": [
+      [
+        "存在",
+        "sonzai",
+        "existence"
+      ],
+      [
+        "保存",
+        "hozon",
+        "preservation"
+      ],
+      [
+        "存じる",
+        "zonjiru",
+        "to know (humble)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "在",
+    "meaning": "Exist / Be located",
+    "onyomi": "ザイ",
+    "kunyomi": "ある",
+    "ex": [
+      [
+        "存在",
+        "sonzai",
+        "existence"
+      ],
+      [
+        "在宅",
+        "zaitaku",
+        "being at home"
+      ],
+      [
+        "現在",
+        "genzai",
+        "the present"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "球",
+    "meaning": "Ball / Sphere",
+    "onyomi": "キュウ",
+    "kunyomi": "たま",
+    "ex": [
+      [
+        "野球",
+        "yakyuu",
+        "baseball"
+      ],
+      [
+        "地球",
+        "chikyuu",
+        "Earth"
+      ],
+      [
+        "電球",
+        "denkyuu",
+        "light bulb"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "石",
+    "meaning": "Stone",
+    "onyomi": "セキ、シャク",
+    "kunyomi": "いし",
+    "ex": [
+      [
+        "石",
+        "ishi",
+        "stone"
+      ],
+      [
+        "宝石",
+        "houseki",
+        "jewel"
+      ],
+      [
+        "石油",
+        "sekiyu",
+        "petroleum"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "神",
+    "meaning": "God / Spirit",
+    "onyomi": "シン、ジン",
+    "kunyomi": "かみ",
+    "ex": [
+      [
+        "神様",
+        "kamisama",
+        "god"
+      ],
+      [
+        "神社",
+        "jinja",
+        "shrine"
+      ],
+      [
+        "精神",
+        "seishin",
+        "spirit; mind"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "馬",
+    "meaning": "Horse",
+    "onyomi": "バ",
+    "kunyomi": "うま",
+    "ex": [
+      [
+        "馬",
+        "uma",
+        "horse"
+      ],
+      [
+        "競馬",
+        "keiba",
+        "horse racing"
+      ],
+      [
+        "乗馬",
+        "jouba",
+        "horseback riding"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "舞",
+    "meaning": "Dance",
+    "onyomi": "ブ",
+    "kunyomi": "まう、まい",
+    "ex": [
+      [
+        "舞台",
+        "butai",
+        "stage"
+      ],
+      [
+        "舞う",
+        "mau",
+        "to dance; to flutter"
+      ],
+      [
+        "見舞い",
+        "mimai",
+        "visiting (the sick)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "王",
+    "meaning": "King",
+    "onyomi": "オウ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "王様",
+        "ousama",
+        "king"
+      ],
+      [
+        "女王",
+        "joou",
+        "queen"
+      ],
+      [
+        "国王",
+        "kokuou",
+        "king (of a nation)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "葉",
+    "meaning": "Leaf",
+    "onyomi": "ヨウ",
+    "kunyomi": "は",
+    "ex": [
+      [
+        "葉",
+        "ha",
+        "leaf"
+      ],
+      [
+        "紅葉",
+        "kouyou",
+        "autumn leaves"
+      ],
+      [
+        "言葉",
+        "kotoba",
+        "word"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "景",
+    "meaning": "Scenery / View",
+    "onyomi": "ケイ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "景色",
+        "keshiki",
+        "scenery"
+      ],
+      [
+        "風景",
+        "fuukei",
+        "landscape"
+      ],
+      [
+        "光景",
+        "koukei",
+        "sight; scene"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "草",
+    "meaning": "Grass",
+    "onyomi": "ソウ",
+    "kunyomi": "くさ",
+    "ex": [
+      [
+        "草",
+        "kusa",
+        "grass"
+      ],
+      [
+        "草原",
+        "sougen",
+        "grassland"
+      ],
+      [
+        "海草",
+        "kaisou",
+        "seaweed"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "陽",
+    "meaning": "Sun / Positive",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "太陽",
+        "taiyou",
+        "sun"
+      ],
+      [
+        "陽気",
+        "youki",
+        "cheerful"
+      ],
+      [
+        "陽性",
+        "yousei",
+        "positive (test result)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "晴",
+    "meaning": "Clear (weather)",
+    "onyomi": "セイ",
+    "kunyomi": "はれる、はらす",
+    "ex": [
+      [
+        "晴れ",
+        "hare",
+        "clear weather"
+      ],
+      [
+        "快晴",
+        "kaisei",
+        "clear sky"
+      ],
+      [
+        "晴れる",
+        "hareru",
+        "to clear up"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "泳",
+    "meaning": "Swim",
+    "onyomi": "エイ",
+    "kunyomi": "およぐ",
+    "ex": [
+      [
+        "泳ぐ",
+        "oyogu",
+        "to swim"
+      ],
+      [
+        "水泳",
+        "suiei",
+        "swimming"
+      ],
+      [
+        "遠泳",
+        "enei",
+        "long-distance swimming"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "煙",
+    "meaning": "Smoke",
+    "onyomi": "エン",
+    "kunyomi": "けむり、けむる",
+    "ex": [
+      [
+        "煙",
+        "kemuri",
+        "smoke"
+      ],
+      [
+        "煙草",
+        "tabako",
+        "tobacco; cigarette"
+      ],
+      [
+        "禁煙",
+        "kinen",
+        "no smoking"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "猫",
+    "meaning": "Cat",
+    "onyomi": "ビョウ",
+    "kunyomi": "ねこ",
+    "ex": [
+      [
+        "猫",
+        "neko",
+        "cat"
+      ],
+      [
+        "子猫",
+        "koneko",
+        "kitten"
+      ],
+      [
+        "猫背",
+        "nekoze",
+        "stooped posture"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "流",
+    "meaning": "Flow / Style",
+    "onyomi": "リュウ、ル",
+    "kunyomi": "ながれる、ながす",
+    "ex": [
+      [
+        "流れる",
+        "nagareru",
+        "to flow"
+      ],
+      [
+        "交流",
+        "kouryuu",
+        "exchange"
+      ],
+      [
+        "流行",
+        "ryuukou",
+        "trend; fashion"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "浮",
+    "meaning": "Float",
+    "onyomi": "フ",
+    "kunyomi": "うく、うかぶ、うかべる",
+    "ex": [
+      [
+        "浮く",
+        "uku",
+        "to float"
+      ],
+      [
+        "浮かぶ",
+        "ukabu",
+        "to come to mind; to float"
+      ],
+      [
+        "浮気",
+        "uwaki",
+        "infidelity"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "具",
+    "meaning": "Tool / Equip",
+    "onyomi": "グ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "道具",
+        "dougu",
+        "tool"
+      ],
+      [
+        "家具",
+        "kagu",
+        "furniture"
+      ],
+      [
+        "具体的",
+        "gutaiteki",
+        "concrete; specific"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "育",
+    "meaning": "Raise / Grow",
+    "onyomi": "イク",
+    "kunyomi": "そだつ、そだてる",
+    "ex": [
+      [
+        "教育",
+        "kyouiku",
+        "education"
+      ],
+      [
+        "育てる",
+        "sodateru",
+        "to raise"
+      ],
+      [
+        "発育",
+        "hatsuiku",
+        "growth (physical)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "残",
+    "meaning": "Remain / Leftover",
+    "onyomi": "ザン",
+    "kunyomi": "のこる、のこす",
+    "ex": [
+      [
+        "残る",
+        "nokoru",
+        "to remain"
+      ],
+      [
+        "残念",
+        "zannen",
+        "regrettable"
+      ],
+      [
+        "残業",
+        "zangyou",
+        "overtime work"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "断",
+    "meaning": "Cut off / Refuse",
+    "onyomi": "ダン",
+    "kunyomi": "たつ、ことわる",
+    "ex": [
+      [
+        "判断",
+        "handan",
+        "judgment"
+      ],
+      [
+        "断る",
+        "kotowaru",
+        "to refuse"
+      ],
+      [
+        "油断",
+        "yudan",
+        "negligence"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "消",
+    "meaning": "Extinguish / Disappear",
+    "onyomi": "ショウ",
+    "kunyomi": "きえる、けす",
+    "ex": [
+      [
+        "消える",
+        "kieru",
+        "to disappear"
+      ],
+      [
+        "消す",
+        "kesu",
+        "to turn off; to erase"
+      ],
+      [
+        "消費",
+        "shouhi",
+        "consumption"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "配",
+    "meaning": "Distribute",
+    "onyomi": "ハイ",
+    "kunyomi": "くばる",
+    "ex": [
+      [
+        "心配",
+        "shinpai",
+        "worry"
+      ],
+      [
+        "配る",
+        "kubaru",
+        "to distribute"
+      ],
+      [
+        "配達",
+        "haitatsu",
+        "delivery"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "痛",
+    "meaning": "Pain",
+    "onyomi": "ツウ",
+    "kunyomi": "いたい、いたむ",
+    "ex": [
+      [
+        "痛い",
+        "itai",
+        "painful"
+      ],
+      [
+        "頭痛",
+        "zutsuu",
+        "headache"
+      ],
+      [
+        "苦痛",
+        "kutsuu",
+        "pain; suffering"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "欲",
+    "meaning": "Desire",
+    "onyomi": "ヨク",
+    "kunyomi": "ほしい、ほっする",
+    "ex": [
+      [
+        "欲しい",
+        "hoshii",
+        "to want (something)"
+      ],
+      [
+        "意欲",
+        "iyoku",
+        "motivation"
+      ],
+      [
+        "食欲",
+        "shokuyoku",
+        "appetite"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "互",
+    "meaning": "Mutual",
+    "onyomi": "ゴ",
+    "kunyomi": "たがい",
+    "ex": [
+      [
+        "お互い",
+        "otagai",
+        "each other"
+      ],
+      [
+        "相互",
+        "sougo",
+        "mutual"
+      ],
+      [
+        "互いに",
+        "tagaini",
+        "mutually"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "似",
+    "meaning": "Resemble",
+    "onyomi": "ジ",
+    "kunyomi": "にる",
+    "ex": [
+      [
+        "似る",
+        "niru",
+        "to resemble"
+      ],
+      [
+        "似合う",
+        "niau",
+        "to suit"
+      ],
+      [
+        "類似",
+        "ruiji",
+        "similarity"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "寝",
+    "meaning": "Sleep / Lie down",
+    "onyomi": "シン",
+    "kunyomi": "ねる、ねかす",
+    "ex": [
+      [
+        "寝る",
+        "neru",
+        "to sleep"
+      ],
+      [
+        "昼寝",
+        "hirune",
+        "nap"
+      ],
+      [
+        "寝坊",
+        "nebou",
+        "oversleeping"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "御",
+    "meaning": "Honorific prefix",
+    "onyomi": "ギョ、ゴ",
+    "kunyomi": "おん",
+    "ex": [
+      [
+        "御飯",
+        "gohan",
+        "meal; rice"
+      ],
+      [
+        "御礼",
+        "orei",
+        "thanks"
+      ],
+      [
+        "制御",
+        "seigyo",
+        "control"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "歯",
+    "meaning": "Tooth",
+    "onyomi": "シ",
+    "kunyomi": "は",
+    "ex": [
+      [
+        "歯",
+        "ha",
+        "tooth"
+      ],
+      [
+        "歯医者",
+        "haisha",
+        "dentist"
+      ],
+      [
+        "歯磨き",
+        "hamigaki",
+        "tooth brushing"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "吹",
+    "meaning": "Blow",
+    "onyomi": "スイ",
+    "kunyomi": "ふく",
+    "ex": [
+      [
+        "風が吹く",
+        "kazegafuku",
+        "the wind blows"
+      ],
+      [
+        "吹く",
+        "fuku",
+        "to blow"
+      ],
+      [
+        "吹雪",
+        "fubuki",
+        "snowstorm"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "洗",
+    "meaning": "Wash",
+    "onyomi": "セン",
+    "kunyomi": "あらう",
+    "ex": [
+      [
+        "洗う",
+        "arau",
+        "to wash"
+      ],
+      [
+        "洗濯",
+        "sentaku",
+        "laundry"
+      ],
+      [
+        "洗顔",
+        "sengan",
+        "face washing"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "慣",
+    "meaning": "Get used to",
+    "onyomi": "カン",
+    "kunyomi": "なれる、ならす",
+    "ex": [
+      [
+        "習慣",
+        "shuukan",
+        "habit"
+      ],
+      [
+        "慣れる",
+        "nareru",
+        "to get used to"
+      ],
+      [
+        "慣習",
+        "kanshuu",
+        "custom"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "貧",
+    "meaning": "Poor",
+    "onyomi": "ヒン、ビン",
+    "kunyomi": "まずしい",
+    "ex": [
+      [
+        "貧しい",
+        "mazushii",
+        "poor"
+      ],
+      [
+        "貧困",
+        "hinkon",
+        "poverty"
+      ],
+      [
+        "貧乏",
+        "binbou",
+        "poverty"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "疲",
+    "meaning": "Tired",
+    "onyomi": "ヒ",
+    "kunyomi": "つかれる",
+    "ex": [
+      [
+        "疲れる",
+        "tsukareru",
+        "to get tired"
+      ],
+      [
+        "疲労",
+        "hirou",
+        "fatigue"
+      ],
+      [
+        "疲れ",
+        "tsukare",
+        "tiredness"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "皆",
+    "meaning": "All / Everyone",
+    "onyomi": "カイ",
+    "kunyomi": "みな、みんな",
+    "ex": [
+      [
+        "皆さん",
+        "minasan",
+        "everyone"
+      ],
+      [
+        "皆",
+        "mina",
+        "all"
+      ],
+      [
+        "皆無",
+        "kaimu",
+        "nonexistent"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "鳴",
+    "meaning": "Cry (animal) / Ring",
+    "onyomi": "メイ",
+    "kunyomi": "なく、なる、ならす",
+    "ex": [
+      [
+        "鳴く",
+        "naku",
+        "to cry (animal)"
+      ],
+      [
+        "鳴る",
+        "naru",
+        "to ring; to sound"
+      ],
+      [
+        "悲鳴",
+        "himei",
+        "scream"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "眠",
+    "meaning": "Sleep",
+    "onyomi": "ミン",
+    "kunyomi": "ねむる、ねむい",
+    "ex": [
+      [
+        "眠る",
+        "nemuru",
+        "to sleep"
+      ],
+      [
+        "眠い",
+        "nemui",
+        "sleepy"
+      ],
+      [
+        "睡眠",
+        "suimin",
+        "sleep"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "頂",
+    "meaning": "Receive (humble) / Summit",
+    "onyomi": "チョウ",
+    "kunyomi": "いただく、いただき",
+    "ex": [
+      [
+        "頂上",
+        "choujou",
+        "summit"
+      ],
+      [
+        "頂く",
+        "itadaku",
+        "to receive (humble)"
+      ],
+      [
+        "山頂",
+        "sanchou",
+        "mountaintop"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "髪",
+    "meaning": "Hair",
+    "onyomi": "ハツ",
+    "kunyomi": "かみ",
+    "ex": [
+      [
+        "髪",
+        "kami",
+        "hair"
+      ],
+      [
+        "髪型",
+        "kamigata",
+        "hairstyle"
+      ],
+      [
+        "白髪",
+        "shiraga",
+        "gray hair"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "靴",
+    "meaning": "Shoes",
+    "onyomi": "",
+    "kunyomi": "くつ",
+    "ex": [
+      [
+        "靴",
+        "kutsu",
+        "shoes"
+      ],
+      [
+        "靴下",
+        "kutsushita",
+        "socks"
+      ],
+      [
+        "靴屋",
+        "kutsuya",
+        "shoe store"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "杯",
+    "meaning": "Cup (counter)",
+    "onyomi": "ハイ",
+    "kunyomi": "さかずき",
+    "ex": [
+      [
+        "一杯",
+        "ippai",
+        "one cup; full"
+      ],
+      [
+        "乾杯",
+        "kanpai",
+        "cheers; toast"
+      ],
+      [
+        "杯",
+        "sakazuki",
+        "sake cup"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "熱",
+    "meaning": "Heat / Fever",
+    "onyomi": "ネツ",
+    "kunyomi": "あつい",
+    "ex": [
+      [
+        "熱",
+        "netsu",
+        "fever"
+      ],
+      [
+        "熱い",
+        "atsui",
+        "hot (to touch)"
+      ],
+      [
+        "情熱",
+        "jounetsu",
+        "passion"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "薬",
+    "meaning": "Medicine",
+    "onyomi": "ヤク",
+    "kunyomi": "くすり",
+    "ex": [
+      [
+        "薬",
+        "kusuri",
+        "medicine"
+      ],
+      [
+        "薬局",
+        "yakkyoku",
+        "pharmacy"
+      ],
+      [
+        "火薬",
+        "kayaku",
+        "gunpowder"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "危",
+    "meaning": "Danger",
+    "onyomi": "キ",
+    "kunyomi": "あぶない、あやうい",
+    "ex": [
+      [
+        "危ない",
+        "abunai",
+        "dangerous"
+      ],
+      [
+        "危険",
+        "kiken",
+        "danger"
+      ],
+      [
+        "危機",
+        "kiki",
+        "crisis"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "苦",
+    "meaning": "Suffering / Bitter",
+    "onyomi": "ク",
+    "kunyomi": "くるしい、にがい、くるしむ",
+    "ex": [
+      [
+        "苦しい",
+        "kurushii",
+        "painful; hard"
+      ],
+      [
+        "苦い",
+        "nigai",
+        "bitter"
+      ],
+      [
+        "苦労",
+        "kurou",
+        "hardship"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "現",
+    "meaning": "Appear / Present",
+    "onyomi": "ゲン",
+    "kunyomi": "あらわれる、あらわす",
+    "ex": [
+      [
+        "現在",
+        "genzai",
+        "the present"
+      ],
+      [
+        "現れる",
+        "arawareru",
+        "to appear"
+      ],
+      [
+        "表現",
+        "hyougen",
+        "expression"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "性",
+    "meaning": "Nature / Gender",
+    "onyomi": "セイ、ショウ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "性格",
+        "seikaku",
+        "personality"
+      ],
+      [
+        "女性",
+        "josei",
+        "woman; female"
+      ],
+      [
+        "可能性",
+        "kanousei",
+        "possibility"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "定",
+    "meaning": "Decide / Fixed",
+    "onyomi": "テイ、ジョウ",
+    "kunyomi": "さだめる、さだか",
+    "ex": [
+      [
+        "予定",
+        "yotei",
+        "plan; schedule"
+      ],
+      [
+        "定食",
+        "teishoku",
+        "set meal"
+      ],
+      [
+        "決定",
+        "kettei",
+        "decision"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "式",
+    "meaning": "Ceremony / Formula",
+    "onyomi": "シキ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "式",
+        "shiki",
+        "ceremony"
+      ],
+      [
+        "結婚式",
+        "kekkonshiki",
+        "wedding ceremony"
+      ],
+      [
+        "方式",
+        "houshiki",
+        "method; formula"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "容",
+    "meaning": "Contain / Form",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "内容",
+        "naiyou",
+        "content"
+      ],
+      [
+        "容易",
+        "youi",
+        "easy"
+      ],
+      [
+        "美容",
+        "biyou",
+        "beauty care"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "能",
+    "meaning": "Ability",
+    "onyomi": "ノウ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "可能",
+        "kanou",
+        "possible"
+      ],
+      [
+        "能力",
+        "nouryoku",
+        "ability"
+      ],
+      [
+        "性能",
+        "seinou",
+        "performance (of a machine)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "常",
+    "meaning": "Normal / Always",
+    "onyomi": "ジョウ",
+    "kunyomi": "つね",
+    "ex": [
+      [
+        "日常",
+        "nichijou",
+        "daily life"
+      ],
+      [
+        "非常",
+        "hijou",
+        "emergency; extraordinary"
+      ],
+      [
+        "常に",
+        "tsuneni",
+        "always"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "状",
+    "meaning": "Condition / Letter",
+    "onyomi": "ジョウ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "状態",
+        "joutai",
+        "condition"
+      ],
+      [
+        "状況",
+        "joukyou",
+        "situation"
+      ],
+      [
+        "年賀状",
+        "nengajou",
+        "New Year's card"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "難",
+    "meaning": "Difficult",
+    "onyomi": "ナン",
+    "kunyomi": "むずかしい、かたい",
+    "ex": [
+      [
+        "難しい",
+        "muzukashii",
+        "difficult"
+      ],
+      [
+        "困難",
+        "konnan",
+        "difficulty"
+      ],
+      [
+        "難民",
+        "nanmin",
+        "refugee"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "違",
+    "meaning": "Differ / Wrong",
+    "onyomi": "イ",
+    "kunyomi": "ちがう、ちがえる",
+    "ex": [
+      [
+        "違う",
+        "chigau",
+        "to differ; to be wrong"
+      ],
+      [
+        "違い",
+        "chigai",
+        "difference"
+      ],
+      [
+        "間違い",
+        "machigai",
+        "mistake"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "備",
+    "meaning": "Prepare / Equip",
+    "onyomi": "ビ",
+    "kunyomi": "そなえる、そなわる",
+    "ex": [
+      [
+        "準備",
+        "junbi",
+        "preparation"
+      ],
+      [
+        "備える",
+        "sonaeru",
+        "to prepare for"
+      ],
+      [
+        "設備",
+        "setsubi",
+        "facility; equipment"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "害",
+    "meaning": "Harm / Damage",
+    "onyomi": "ガイ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "被害",
+        "higai",
+        "damage"
+      ],
+      [
+        "障害",
+        "shougai",
+        "obstacle; disability"
+      ],
+      [
+        "公害",
+        "kougai",
+        "pollution"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "然",
+    "meaning": "So / Thus",
+    "onyomi": "ゼン、ネン",
+    "kunyomi": "",
+    "ex": [
+      [
+        "自然",
+        "shizen",
+        "nature"
+      ],
+      [
+        "当然",
+        "touzen",
+        "natural; obvious"
+      ],
+      [
+        "全然",
+        "zenzen",
+        "not at all"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "非",
+    "meaning": "Not / Wrong",
+    "onyomi": "ヒ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "非常",
+        "hijou",
+        "emergency; extraordinary"
+      ],
+      [
+        "非常に",
+        "hijouni",
+        "extremely"
+      ],
+      [
+        "是非",
+        "zehi",
+        "by all means"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "様",
+    "meaning": "Manner / Mr./Mrs.",
+    "onyomi": "ヨウ",
+    "kunyomi": "さま",
+    "ex": [
+      [
+        "様子",
+        "yousu",
+        "appearance; situation"
+      ],
+      [
+        "同様",
+        "douyou",
+        "similarly"
+      ],
+      [
+        "お客様",
+        "okyakusama",
+        "customer (polite)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "良",
+    "meaning": "Good",
+    "onyomi": "リョウ",
+    "kunyomi": "よい、いい",
+    "ex": [
+      [
+        "良い",
+        "yoi",
+        "good"
+      ],
+      [
+        "最良",
+        "sairyou",
+        "the best"
+      ],
+      [
+        "改良",
+        "kairyou",
+        "improvement"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "満",
+    "meaning": "Full",
+    "onyomi": "マン",
+    "kunyomi": "みちる、みたす",
+    "ex": [
+      [
+        "満足",
+        "manzoku",
+        "satisfaction"
+      ],
+      [
+        "満員",
+        "manin",
+        "full (of people)"
+      ],
+      [
+        "不満",
+        "fuman",
+        "dissatisfaction"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "突",
+    "meaning": "Thrust / Sudden",
+    "onyomi": "トツ",
+    "kunyomi": "つく",
+    "ex": [
+      [
+        "突然",
+        "totsuzen",
+        "suddenly"
+      ],
+      [
+        "突く",
+        "tsuku",
+        "to poke; to thrust"
+      ],
+      [
+        "衝突",
+        "shoutotsu",
+        "collision"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "否",
+    "meaning": "No / Deny",
+    "onyomi": "ヒ",
+    "kunyomi": "いな",
+    "ex": [
+      [
+        "否定",
+        "hitei",
+        "denial"
+      ],
+      [
+        "賛否",
+        "sanpi",
+        "for and against"
+      ],
+      [
+        "拒否",
+        "kyohi",
+        "refusal"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "因",
+    "meaning": "Cause",
+    "onyomi": "イン",
+    "kunyomi": "よる",
+    "ex": [
+      [
+        "原因",
+        "genin",
+        "cause"
+      ],
+      [
+        "因る",
+        "yoru",
+        "to be due to"
+      ],
+      [
+        "要因",
+        "youin",
+        "factor; cause"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "亡",
+    "meaning": "Death / Lose",
+    "onyomi": "ボウ",
+    "kunyomi": "なくなる、ない",
+    "ex": [
+      [
+        "死亡",
+        "shibou",
+        "death"
+      ],
+      [
+        "亡くなる",
+        "nakunaru",
+        "to pass away"
+      ],
+      [
+        "亡命",
+        "boumei",
+        "defection; exile"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "冷",
+    "meaning": "Cold",
+    "onyomi": "レイ",
+    "kunyomi": "つめたい、ひえる、ひやす",
+    "ex": [
+      [
+        "冷たい",
+        "tsumetai",
+        "cold (to touch)"
+      ],
+      [
+        "冷える",
+        "hieru",
+        "to get cold"
+      ],
+      [
+        "冷蔵庫",
+        "reizouko",
+        "refrigerator"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "適",
+    "meaning": "Suitable",
+    "onyomi": "テキ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "適当",
+        "tekitou",
+        "suitable; random"
+      ],
+      [
+        "快適",
+        "kaiteki",
+        "comfortable"
+      ],
+      [
+        "適切",
+        "tekisetsu",
+        "appropriate"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "険",
+    "meaning": "Steep / Danger",
+    "onyomi": "ケン",
+    "kunyomi": "けわしい",
+    "ex": [
+      [
+        "危険",
+        "kiken",
+        "danger"
+      ],
+      [
+        "険しい",
+        "kewashii",
+        "steep; harsh"
+      ],
+      [
+        "保険",
+        "hoken",
+        "insurance"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "精",
+    "meaning": "Refined / Spirit",
+    "onyomi": "セイ、ショウ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "精神",
+        "seishin",
+        "spirit; mind"
+      ],
+      [
+        "精一杯",
+        "seiippai",
+        "to the best of one's ability"
+      ],
+      [
+        "精密",
+        "seimitsu",
+        "precision"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "静",
+    "meaning": "Quiet",
+    "onyomi": "セイ、ジョウ",
+    "kunyomi": "しずか",
+    "ex": [
+      [
+        "静か",
+        "shizuka",
+        "quiet"
+      ],
+      [
+        "安静",
+        "ansei",
+        "rest (medical)"
+      ],
+      [
+        "静止",
+        "seishi",
+        "stillness"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "絶",
+    "meaning": "Cut off / Absolute",
+    "onyomi": "ゼツ",
+    "kunyomi": "たえる、たやす",
+    "ex": [
+      [
+        "絶対",
+        "zettai",
+        "absolute"
+      ],
+      [
+        "絶える",
+        "taeru",
+        "to cease"
+      ],
+      [
+        "絶望",
+        "zetsubou",
+        "despair"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "雑",
+    "meaning": "Miscellaneous",
+    "onyomi": "ザツ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "雑誌",
+        "zasshi",
+        "magazine"
+      ],
+      [
+        "複雑",
+        "fukuzatsu",
+        "complicated"
+      ],
+      [
+        "雑用",
+        "zatsuyou",
+        "chores"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "更",
+    "meaning": "Renew / Further",
+    "onyomi": "コウ",
+    "kunyomi": "さら、ふける、ふかす",
+    "ex": [
+      [
+        "変更",
+        "henkou",
+        "change"
+      ],
+      [
+        "更に",
+        "sarani",
+        "furthermore"
+      ],
+      [
+        "更新",
+        "koushin",
+        "renewal; update"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "忙",
+    "meaning": "Busy",
+    "onyomi": "ボウ",
+    "kunyomi": "いそがしい",
+    "ex": [
+      [
+        "忙しい",
+        "isogashii",
+        "busy"
+      ],
+      [
+        "多忙",
+        "tabou",
+        "very busy"
+      ],
+      [
+        "忙しさ",
+        "isogashisa",
+        "busyness"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "暗",
+    "meaning": "Dark",
+    "onyomi": "アン",
+    "kunyomi": "くらい",
+    "ex": [
+      [
+        "暗い",
+        "kurai",
+        "dark"
+      ],
+      [
+        "暗記",
+        "anki",
+        "memorization"
+      ],
+      [
+        "真っ暗",
+        "makkura",
+        "pitch dark"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "深",
+    "meaning": "Deep",
+    "onyomi": "シン",
+    "kunyomi": "ふかい、ふかまる、ふかめる",
+    "ex": [
+      [
+        "深い",
+        "fukai",
+        "deep"
+      ],
+      [
+        "深夜",
+        "shinya",
+        "late night"
+      ],
+      [
+        "深める",
+        "fukameru",
+        "to deepen"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "偶",
+    "meaning": "Chance / Even (number)",
+    "onyomi": "グウ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "偶然",
+        "guuzen",
+        "coincidence"
+      ],
+      [
+        "偶数",
+        "guusuu",
+        "even number"
+      ],
+      [
+        "配偶者",
+        "haiguusha",
+        "spouse"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "偉",
+    "meaning": "Great / Excellent",
+    "onyomi": "イ",
+    "kunyomi": "えらい",
+    "ex": [
+      [
+        "偉い",
+        "erai",
+        "great; admirable"
+      ],
+      [
+        "偉大",
+        "idai",
+        "great; grand"
+      ],
+      [
+        "偉人",
+        "ijin",
+        "great person"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "実",
+    "meaning": "Truth / Fruit",
+    "onyomi": "ジツ",
+    "kunyomi": "み、みのる",
+    "ex": [
+      [
+        "実は",
+        "jitsuha",
+        "actually"
+      ],
+      [
+        "実際",
+        "jissai",
+        "actual"
+      ],
+      [
+        "実現",
+        "jitsugen",
+        "realization"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "的",
+    "meaning": "-like (suffix) / Target",
+    "onyomi": "テキ",
+    "kunyomi": "まと",
+    "ex": [
+      [
+        "目的",
+        "mokuteki",
+        "purpose"
+      ],
+      [
+        "的",
+        "mato",
+        "target"
+      ],
+      [
+        "具体的",
+        "gutaiteki",
+        "concrete; specific"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "平",
+    "meaning": "Flat / Peace",
+    "onyomi": "ヘイ、ビョウ",
+    "kunyomi": "たいら、ひら",
+    "ex": [
+      [
+        "平和",
+        "heiwa",
+        "peace"
+      ],
+      [
+        "平日",
+        "heijitsu",
+        "weekday"
+      ],
+      [
+        "平気",
+        "heiki",
+        "calm; unconcerned"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "単",
+    "meaning": "Simple / Single",
+    "onyomi": "タン",
+    "kunyomi": "",
+    "ex": [
+      [
+        "簡単",
+        "kantan",
+        "simple"
+      ],
+      [
+        "単語",
+        "tango",
+        "word; vocabulary"
+      ],
+      [
+        "単純",
+        "tanjun",
+        "simple"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "取",
+    "meaning": "Take",
+    "onyomi": "シュ",
+    "kunyomi": "とる",
+    "ex": [
+      [
+        "取る",
+        "toru",
+        "to take"
+      ],
+      [
+        "取材",
+        "shuzai",
+        "news-gathering"
+      ],
+      [
+        "受け取る",
+        "uketoru",
+        "to receive"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "加",
+    "meaning": "Add",
+    "onyomi": "カ",
+    "kunyomi": "くわえる、くわわる",
+    "ex": [
+      [
+        "参加",
+        "sanka",
+        "participation"
+      ],
+      [
+        "加える",
+        "kuwaeru",
+        "to add"
+      ],
+      [
+        "増加",
+        "zouka",
+        "increase"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "点",
+    "meaning": "Point / Dot",
+    "onyomi": "テン",
+    "kunyomi": "",
+    "ex": [
+      [
+        "点",
+        "ten",
+        "point; dot"
+      ],
+      [
+        "点数",
+        "tensuu",
+        "score"
+      ],
+      [
+        "問題点",
+        "mondaiten",
+        "problem point"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "活",
+    "meaning": "Lively / Activity",
+    "onyomi": "カツ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "生活",
+        "seikatsu",
+        "life; living"
+      ],
+      [
+        "活動",
+        "katsudou",
+        "activity"
+      ],
+      [
+        "活躍",
+        "katsuyaku",
+        "active participation"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "共",
+    "meaning": "Together",
+    "onyomi": "キョウ",
+    "kunyomi": "とも",
+    "ex": [
+      [
+        "共通",
+        "kyoutsuu",
+        "common"
+      ],
+      [
+        "共に",
+        "tomoni",
+        "together"
+      ],
+      [
+        "公共",
+        "koukyou",
+        "public"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "得",
+    "meaning": "Gain / Profit",
+    "onyomi": "トク",
+    "kunyomi": "える、うる",
+    "ex": [
+      [
+        "得る",
+        "eru",
+        "to gain"
+      ],
+      [
+        "得意",
+        "tokui",
+        "strong point; proud"
+      ],
+      [
+        "納得",
+        "nattoku",
+        "understanding; agreement"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "解",
+    "meaning": "Untie / Understand",
+    "onyomi": "カイ",
+    "kunyomi": "とく、とかす、とける",
+    "ex": [
+      [
+        "理解",
+        "rikai",
+        "understanding"
+      ],
+      [
+        "解く",
+        "toku",
+        "to solve; to untie"
+      ],
+      [
+        "解決",
+        "kaiketsu",
+        "solution; resolution"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "予",
+    "meaning": "Beforehand",
+    "onyomi": "ヨ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "予定",
+        "yotei",
+        "plan; schedule"
+      ],
+      [
+        "予約",
+        "yoyaku",
+        "reservation"
+      ],
+      [
+        "予想",
+        "yosou",
+        "prediction"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "観",
+    "meaning": "View / Observe",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "ex": [
+      [
+        "観光",
+        "kankou",
+        "sightseeing"
+      ],
+      [
+        "観察",
+        "kansatsu",
+        "observation"
+      ],
+      [
+        "観る",
+        "miru",
+        "to view; to watch"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "表",
+    "meaning": "Surface / Express",
+    "onyomi": "ヒョウ",
+    "kunyomi": "おもて、あらわす、あらわれる",
+    "ex": [
+      [
+        "表現",
+        "hyougen",
+        "expression"
+      ],
+      [
+        "表す",
+        "arawasu",
+        "to express"
+      ],
+      [
+        "代表",
+        "daihyou",
+        "representative"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "段",
+    "meaning": "Step / Level",
+    "onyomi": "ダン",
+    "kunyomi": "",
+    "ex": [
+      [
+        "段階",
+        "dankai",
+        "stage"
+      ],
+      [
+        "階段",
+        "kaidan",
+        "stairs"
+      ],
+      [
+        "値段",
+        "nedan",
+        "price"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "横",
+    "meaning": "Side / Horizontal",
+    "onyomi": "オウ",
+    "kunyomi": "よこ",
+    "ex": [
+      [
+        "横",
+        "yoko",
+        "side; horizontal"
+      ],
+      [
+        "横断",
+        "oudan",
+        "crossing"
+      ],
+      [
+        "真横",
+        "mayoko",
+        "right beside"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "申",
+    "meaning": "Say (humble)",
+    "onyomi": "シン",
+    "kunyomi": "もうす",
+    "ex": [
+      [
+        "申す",
+        "mousu",
+        "to say (humble)"
+      ],
+      [
+        "申し込む",
+        "moushikomu",
+        "to apply"
+      ],
+      [
+        "申告",
+        "shinkoku",
+        "declaration"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "師",
+    "meaning": "Teacher / Master",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "医師",
+        "ishi",
+        "physician"
+      ],
+      [
+        "教師",
+        "kyoushi",
+        "teacher"
+      ],
+      [
+        "師匠",
+        "shishou",
+        "master (of a craft)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "番",
+    "meaning": "Number / Turn / Watch",
+    "onyomi": "バン",
+    "kunyomi": "",
+    "ex": [
+      [
+        "番号",
+        "bangou",
+        "number"
+      ],
+      [
+        "一番",
+        "ichiban",
+        "number one; most"
+      ],
+      [
+        "順番",
+        "junban",
+        "order; turn"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "努",
+    "meaning": "Endeavor",
+    "onyomi": "ド",
+    "kunyomi": "つとめる",
+    "ex": [
+      [
+        "努力",
+        "doryoku",
+        "effort"
+      ],
+      [
+        "努める",
+        "tsutomeru",
+        "to endeavor"
+      ],
+      [
+        "努力家",
+        "doryokuka",
+        "hard worker"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "全",
+    "meaning": "Whole / Entire",
+    "onyomi": "ゼン",
+    "kunyomi": "まったく、すべて",
+    "ex": [
+      [
+        "全部",
+        "zenbu",
+        "all"
+      ],
+      [
+        "全然",
+        "zenzen",
+        "not at all"
+      ],
+      [
+        "安全",
+        "anzen",
+        "safety"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "限",
+    "meaning": "Limit",
+    "onyomi": "ゲン",
+    "kunyomi": "かぎる",
+    "ex": [
+      [
+        "限る",
+        "kagiru",
+        "to limit"
+      ],
+      [
+        "制限",
+        "seigen",
+        "restriction"
+      ],
+      [
+        "期限",
+        "kigen",
+        "deadline"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "差",
+    "meaning": "Difference",
+    "onyomi": "サ",
+    "kunyomi": "さす",
+    "ex": [
+      [
+        "差",
+        "sa",
+        "difference"
+      ],
+      [
+        "時差",
+        "jisa",
+        "time difference"
+      ],
+      [
+        "差別",
+        "sabetsu",
+        "discrimination"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "余",
+    "meaning": "Surplus / Extra",
+    "onyomi": "ヨ",
+    "kunyomi": "あまる、あます",
+    "ex": [
+      [
+        "余る",
+        "amaru",
+        "to remain; to be in excess"
+      ],
+      [
+        "余裕",
+        "yoyuu",
+        "room to spare"
+      ],
+      [
+        "余分",
+        "yobun",
+        "extra"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "等",
+    "meaning": "Etc. / Equal",
+    "onyomi": "トウ",
+    "kunyomi": "ひとしい、など",
+    "ex": [
+      [
+        "等しい",
+        "hitoshii",
+        "equal"
+      ],
+      [
+        "平等",
+        "byoudou",
+        "equality"
+      ],
+      [
+        "等級",
+        "toukyuu",
+        "grade; rank"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "幾",
+    "meaning": "How many",
+    "onyomi": "キ",
+    "kunyomi": "いく、いくつ",
+    "ex": [
+      [
+        "幾つ",
+        "ikutsu",
+        "how many"
+      ],
+      [
+        "幾ら",
+        "ikura",
+        "how much"
+      ],
+      [
+        "幾分",
+        "ikubun",
+        "somewhat"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "束",
+    "meaning": "Bundle",
+    "onyomi": "ソク",
+    "kunyomi": "たば",
+    "ex": [
+      [
+        "約束",
+        "yakusoku",
+        "promise"
+      ],
+      [
+        "花束",
+        "hanataba",
+        "bouquet"
+      ],
+      [
+        "結束",
+        "kessoku",
+        "unity; solidarity"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "列",
+    "meaning": "Line / Row",
+    "onyomi": "レツ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "列",
+        "retsu",
+        "line; row"
+      ],
+      [
+        "行列",
+        "gyouretsu",
+        "queue"
+      ],
+      [
+        "列車",
+        "ressha",
+        "train"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "誰",
+    "meaning": "Who",
+    "onyomi": "",
+    "kunyomi": "だれ",
+    "ex": [
+      [
+        "誰",
+        "dare",
+        "who"
+      ],
+      [
+        "誰か",
+        "dareka",
+        "someone"
+      ],
+      [
+        "誰も",
+        "daremo",
+        "no one; everyone"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "責",
+    "meaning": "Responsibility / Blame",
+    "onyomi": "セキ",
+    "kunyomi": "せめる",
+    "ex": [
+      [
+        "責任",
+        "sekinin",
+        "responsibility"
+      ],
+      [
+        "責める",
+        "semeru",
+        "to blame"
+      ],
+      [
+        "責務",
+        "sekimu",
+        "duty; obligation"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "欠",
+    "meaning": "Lack / Missing",
+    "onyomi": "ケツ",
+    "kunyomi": "かける、かく",
+    "ex": [
+      [
+        "欠席",
+        "kesseki",
+        "absence"
+      ],
+      [
+        "欠点",
+        "ketten",
+        "fault; flaw"
+      ],
+      [
+        "欠ける",
+        "kakeru",
+        "to be missing; to lack"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "散",
+    "meaning": "Scatter",
+    "onyomi": "サン",
+    "kunyomi": "ちる、ちらす、ちらかす",
+    "ex": [
+      [
+        "散歩",
+        "sanpo",
+        "a walk"
+      ],
+      [
+        "散る",
+        "chiru",
+        "to scatter; to fall (petals)"
+      ],
+      [
+        "解散",
+        "kaisan",
+        "dissolution"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "越",
+    "meaning": "Exceed / Cross",
+    "onyomi": "エツ",
+    "kunyomi": "こえる、こす",
+    "ex": [
+      [
+        "引っ越し",
+        "hikkoshi",
+        "moving (house)"
+      ],
+      [
+        "越える",
+        "koeru",
+        "to cross; to exceed"
+      ],
+      [
+        "超越",
+        "chouetsu",
+        "transcendence"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "絵",
+    "meaning": "Picture",
+    "onyomi": "カイ、エ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "絵",
+        "e",
+        "picture"
+      ],
+      [
+        "絵本",
+        "ehon",
+        "picture book"
+      ],
+      [
+        "絵画",
+        "kaiga",
+        "painting (fine art)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "酒",
+    "meaning": "Alcohol",
+    "onyomi": "シュ",
+    "kunyomi": "さけ、さか",
+    "ex": [
+      [
+        "お酒",
+        "osake",
+        "alcohol"
+      ],
+      [
+        "日本酒",
+        "nihonshu",
+        "sake"
+      ],
+      [
+        "酒屋",
+        "sakaya",
+        "liquor store"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "遠",
+    "meaning": "Far",
+    "onyomi": "エン",
+    "kunyomi": "とおい",
+    "ex": [
+      [
+        "遠い",
+        "tooi",
+        "far"
+      ],
+      [
+        "遠足",
+        "ensoku",
+        "school excursion"
+      ],
+      [
+        "永遠",
+        "eien",
+        "eternity"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "曲",
+    "meaning": "Melody / Bend",
+    "onyomi": "キョク",
+    "kunyomi": "まがる、まげる",
+    "ex": [
+      [
+        "曲",
+        "kyoku",
+        "song; tune"
+      ],
+      [
+        "曲がる",
+        "magaru",
+        "to turn; to bend"
+      ],
+      [
+        "作曲",
+        "sakkyoku",
+        "composing music"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "込",
+    "meaning": "Crowded / Include",
+    "onyomi": "",
+    "kunyomi": "こむ、こめる",
+    "ex": [
+      [
+        "込む",
+        "komu",
+        "to be crowded"
+      ],
+      [
+        "申し込む",
+        "moushikomu",
+        "to apply"
+      ],
+      [
+        "振り込む",
+        "furikomu",
+        "to transfer (money)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "便",
+    "meaning": "Convenience / Mail",
+    "onyomi": "ベン、ビン",
+    "kunyomi": "たより",
+    "ex": [
+      [
+        "便利",
+        "benri",
+        "convenient"
+      ],
+      [
+        "郵便",
+        "yuubin",
+        "mail"
+      ],
+      [
+        "便り",
+        "tayori",
+        "news; letter"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "押",
+    "meaning": "Push",
+    "onyomi": "オウ",
+    "kunyomi": "おす、おさえる",
+    "ex": [
+      [
+        "押す",
+        "osu",
+        "to push"
+      ],
+      [
+        "押し入れ",
+        "oshiire",
+        "closet"
+      ],
+      [
+        "押さえる",
+        "osaeru",
+        "to hold down"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "倒",
+    "meaning": "Fall / Overthrow",
+    "onyomi": "トウ",
+    "kunyomi": "たおれる、たおす",
+    "ex": [
+      [
+        "倒れる",
+        "taoreru",
+        "to fall over"
+      ],
+      [
+        "倒す",
+        "taosu",
+        "to knock down"
+      ],
+      [
+        "面倒",
+        "mendou",
+        "troublesome"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "刻",
+    "meaning": "Engrave / Time",
+    "onyomi": "コク",
+    "kunyomi": "きざむ",
+    "ex": [
+      [
+        "時刻",
+        "jikoku",
+        "time (of day)"
+      ],
+      [
+        "刻む",
+        "kizamu",
+        "to carve; to mince"
+      ],
+      [
+        "深刻",
+        "shinkoku",
+        "serious"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "抱",
+    "meaning": "Hold / Embrace",
+    "onyomi": "ホウ",
+    "kunyomi": "だく、いだく、かかえる",
+    "ex": [
+      [
+        "抱く",
+        "daku",
+        "to hold; to embrace"
+      ],
+      [
+        "抱える",
+        "kakaeru",
+        "to hold in one's arms"
+      ],
+      [
+        "抱負",
+        "houfu",
+        "aspiration"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "戻",
+    "meaning": "Return",
+    "onyomi": "レイ",
+    "kunyomi": "もどる、もどす",
+    "ex": [
+      [
+        "戻る",
+        "modoru",
+        "to return"
+      ],
+      [
+        "戻す",
+        "modosu",
+        "to give back"
+      ],
+      [
+        "払い戻し",
+        "haraimodoshi",
+        "refund"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "緒",
+    "meaning": "Thread / Origin",
+    "onyomi": "ショ、チョ",
+    "kunyomi": "お",
+    "ex": [
+      [
+        "一緒",
+        "issho",
+        "together"
+      ],
+      [
+        "緒",
+        "o",
+        "cord; strap"
+      ],
+      [
+        "情緒",
+        "joucho",
+        "emotion; atmosphere"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "関",
+    "meaning": "Connect / Barrier",
+    "onyomi": "カン",
+    "kunyomi": "せき、かかわる",
+    "ex": [
+      [
+        "関係",
+        "kankei",
+        "relation"
+      ],
+      [
+        "関する",
+        "kansuru",
+        "to relate to"
+      ],
+      [
+        "玄関",
+        "genkan",
+        "entrance (of a house)"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "連",
+    "meaning": "Connect / Accompany",
+    "onyomi": "レン",
+    "kunyomi": "つらなる、つれる",
+    "ex": [
+      [
+        "連絡",
+        "renraku",
+        "contact; communication"
+      ],
+      [
+        "連れる",
+        "tsureru",
+        "to bring along"
+      ],
+      [
+        "関連",
+        "kanren",
+        "relation; connection"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "対",
+    "meaning": "Face / Opposite",
+    "onyomi": "タイ、ツイ",
+    "kunyomi": "",
+    "ex": [
+      [
+        "対応",
+        "taiou",
+        "correspondence; response"
+      ],
+      [
+        "反対",
+        "hantai",
+        "opposition"
+      ],
+      [
+        "対する",
+        "taisuru",
+        "to face; to deal with"
+      ]
+    ]
+  },
+  {
+    "level": "N3",
+    "kanji": "機",
+    "meaning": "Machine / Opportunity",
+    "onyomi": "キ",
+    "kunyomi": "はた",
+    "ex": [
+      [
+        "機会",
+        "kikai",
+        "opportunity"
+      ],
+      [
+        "飛行機",
+        "hikouki",
+        "airplane"
+      ],
+      [
+        "機械",
+        "kikai",
+        "machine"
       ]
     ]
   }
